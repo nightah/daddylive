@@ -8,15 +8,14 @@ ENV \
 RUN \
     apt-get update && apt-get install -y \
     build-essential \
-    git \
     curl \
     libcurl4-openssl-dev \
     libssl-dev \
     && rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/nightah/daddylive .
-
 RUN pip install flask curl-cffi m3u8 gunicorn
+
+COPY --link proxy.so sitecustomize.py ./
 
 EXPOSE 7860
 
