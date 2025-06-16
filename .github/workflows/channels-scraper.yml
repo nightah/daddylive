@@ -1,0 +1,32 @@
+name: channels-updater
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+jobs:
+  fetch_m3u8_job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Python Script
+        run: cd playlist && python daddylive-playlist.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git add daddylive-channels.m3u8
+          git diff --staged --quiet || git commit -m "Update channels"
+          git push --force
+        

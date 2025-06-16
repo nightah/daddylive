@@ -1,0 +1,6 @@
+# IDE user configuration
+.idea/
+.vscode/
+
+# Python environment
+.venv/
