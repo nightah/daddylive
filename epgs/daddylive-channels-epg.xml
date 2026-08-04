@@ -15075,107 +15075,6 @@
     <url>http://www.clarotvmais.com.br</url>
     <display-name lang="pt">ESPN 2</display-name>
   </channel>
-  <programme channel="ESPN.br" start="20260803040000 +0000" stop="20260803060000 +0000">
-    <title lang="pt">VT - River Plate x Rosario Central</title>
-    <desc lang="pt">Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481445_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.br" start="20260803060000 +0000" stop="20260803063000 +0000">
-    <title lang="pt">Premier League Stories</title>
-    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000944327_epg.jpg" />
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme channel="ESPN.br" start="20260803063000 +0000" stop="20260803073000 +0000">
-    <title lang="pt">Mina de Passe</title>
-    <desc lang="pt">O Mina de Passe chegou para ficar. Toda sexta-feira, às 21h, teremos a nossa mesa redonda sobre futebol feminino nacional. Inclusive Seleção Brasileira, claro! E vamos acompanhar de perto o crescimento da modalidade no país.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000093505_epg.jpg" />
-    <episode-num system="onscreen">S83 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260803073000 +0000" stop="20260803093000 +0000">
-    <title lang="pt">VT - Denver Summit x Boston Legacy</title>
-    <desc lang="pt">Estreia nos canais ESPN a Liga Americana de Futebol Feminino.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481432_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.br" start="20260803093000 +0000" stop="20260803110000 +0000">
-    <title lang="pt">Linha de Passe: Mesa-Redonda</title>
-    <desc lang="pt">Os craques da ESPN se reúnem na mesa redonda de maior prestígio do futebol. O debate mais acalorado, as melhores críticas, comentários e a análise completa da rodada.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072891_epg.jpg" />
-    <episode-num system="onscreen">S86 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260803110000 +0000" stop="20260803120000 +0000">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S88 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260803120000 +0000" stop="20260803140000 +0000">
-    <title lang="pt">VT - Newell's Old Boys x Boca Juniors</title>
-    <desc lang="pt">Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481443_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.br" start="20260803140000 +0000" stop="20260803160000 +0000">
-    <title lang="pt">Sportscenter - Ao Vivo</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S81 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260803160000 +0000" stop="20260803180000 +0000">
-    <title lang="pt">F Show - Ao Vivo</title>
-    <desc lang="pt">Um verdadeiro show sobre futebol. Aqui cabe de tudo. Jornalismo, opinião e entretenimento em um tom acalorado, de certa maneira indignado, apimentado, humor inteligente e aquele sarcasmo inerente ao universo do torcedor.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116561_epg.jpg" />
-    <episode-num system="onscreen">S83 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260803180000 +0000" stop="20260803193000 +0000">
-    <title lang="pt">Mundo F - Ao Vivo</title>
-    <desc lang="pt">Tudo que gira em torno do universo do futebol internacional. Grandes temas, clubes e personagens ganham holofotes e são tratados com uma linguagem contemporânea e jovem.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116562_epg.jpg" />
-    <episode-num system="onscreen">S85 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260803193000 +0000" stop="20260803203000 +0000">
-    <title lang="pt">Sportscenter - Ao Vivo</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S86 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260803203000 +0000" stop="20260803230000 +0000">
-    <title lang="pt">Equipe F - Ao Vivo</title>
-    <desc lang="pt">Futebol é com a gente. Somos autoridades no assunto. EQUIPE F traz a marca que chancela o olhar ESPN para o futebol. O fã de esporte está escalado para o time.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116559_epg.jpg" />
-    <episode-num system="onscreen">S87 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260803230000 +0000" stop="20260804010000 +0000">
-    <title lang="pt">Sportscenter - Ao Vivo</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S80 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260804010000 +0000" stop="20260804020000 +0000">
-    <title lang="pt">Linha de Passe: Mesa-Redonda - Ao Vivo</title>
-    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072891_epg.jpg" />
-    <episode-num system="onscreen">S82 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260804020000 +0000" stop="20260804030000 +0000">
-    <title lang="pt">Resenha da Rodada - Ao Vivo</title>
-    <desc lang="pt">Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000077279_epg.jpg" />
-    <episode-num system="onscreen">S83 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260804030000 +0000" stop="20260804040000 +0000">
-    <title lang="pt">Sportscenter - Ao Vivo</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S80 E216</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20260804040000 +0000" stop="20260804050000 +0000">
-    <title lang="pt">Resenha da Rodada</title>
-    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000077279_epg.jpg" />
-    <episode-num system="onscreen">S81 E216</episode-num>
-  </programme>
   <programme channel="ESPN.br" start="20260804050000 +0000" stop="20260804053000 +0000">
     <title lang="pt">Premier League: World Beaters</title>
     <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
@@ -15498,120 +15397,112 @@
     <desc lang="pt">As diferentes equipes se enfrentam em partidas que servem de preparação para as competições oficiais.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481439_epg.jpg" />
   </programme>
-  <programme channel="ESPN.2.br" start="20260803043000 +0000" stop="20260803070000 +0000">
-    <title lang="pt">Tour de France Femmes avec Zwift 2026</title>
-    <desc lang="pt">É a competição mais famosa e prestigiada do ciclismo. Todo ano, ao longo de três semanas, as melhores ciclistas do mundo pedalam nas mais diferentes paisagens francesas em busca do título.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481457_epg.jpg" />
+  <programme channel="ESPN.br" start="20260807050000 +0000" stop="20260807063000 +0000">
+    <title lang="pt">Mundo F</title>
+    <desc lang="pt">Tudo que gira em torno do universo do futebol internacional. Grandes temas, clubes e personagens ganham holofotes e são tratados com uma linguagem contemporânea e jovem.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116562_epg.jpg" />
+    <episode-num system="onscreen">S82 E219</episode-num>
   </programme>
-  <programme channel="ESPN.2.br" start="20260803070000 +0000" stop="20260803090000 +0000">
-    <title lang="pt">VT - WNBA: Indiana Fever x Minnesota Lynx</title>
-    <desc lang="pt">A liga profissional de basquete feminino dos Estados Unidos reúne as melhores jogadoras do mundo. É um torneio com jogadas espetaculares e partidas imperdíveis.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481436_epg.jpg" />
+  <programme channel="ESPN.br" start="20260807063000 +0000" stop="20260807070000 +0000">
+    <title lang="pt">Clássicos ESPN</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001293750_epg.jpg" />
   </programme>
-  <programme channel="ESPN.2.br" start="20260803090000 +0000" stop="20260803100000 +0000">
+  <programme channel="ESPN.br" start="20260807070000 +0000" stop="20260807080000 +0000">
+    <title lang="pt">Resenha: Em Busca da Identidade Perdida</title>
+    <desc lang="pt">Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000077279_epg.jpg" />
+    <episode-num system="onscreen">S84 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20260807080000 +0000" stop="20260807090000 +0000">
+    <title lang="pt">ESPN Originals</title>
+    <sub-title lang="pt">O Dia que Diego Maradona retornou para o Azteca</sub-title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+    <rating system="BR">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN.br" start="20260807090000 +0000" stop="20260807110000 +0000">
+    <title lang="pt">VT - Boca Juniors x Estudiantes</title>
+    <desc lang="pt">Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481441_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.br" start="20260807110000 +0000" stop="20260807120000 +0000">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S86 E215</episode-num>
+    <episode-num system="onscreen">S88 E219</episode-num>
   </programme>
-  <programme channel="ESPN.2.br" start="20260803100000 +0000" stop="20260803110000 +0000">
-    <title lang="pt">Sportscenter</title>
+  <programme channel="ESPN.br" start="20260807120000 +0000" stop="20260807130000 +0000">
+    <title lang="pt">Destaques da Conmebol Sulamericana</title>
+    <desc lang="pt">Todos os destaques, os melhores lances, os melhores gols, um resumo completo sobre a Libertadores.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114789_epg.jpg" />
+    <episode-num system="onscreen">S89 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20260807130000 +0000" stop="20260807140000 +0000">
+    <title lang="pt">Linha de Passe: Mesa-Redonda</title>
+    <desc lang="pt">Os craques da ESPN se reúnem na mesa redonda de maior prestígio do futebol. O debate mais acalorado, as melhores críticas, comentários e a análise completa da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072891_epg.jpg" />
+    <episode-num system="onscreen">S80 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20260807140000 +0000" stop="20260807160000 +0000">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S87 E215</episode-num>
+    <episode-num system="onscreen">S81 E219</episode-num>
   </programme>
-  <programme channel="ESPN.2.br" start="20260803110000 +0000" stop="20260803120000 +0000">
+  <programme channel="ESPN.br" start="20260807160000 +0000" stop="20260807173000 +0000">
+    <title lang="pt">F Show - Ao Vivo</title>
+    <desc lang="pt">Um verdadeiro show sobre futebol. Aqui cabe de tudo. Jornalismo, opinião e entretenimento em um tom acalorado, de certa maneira indignado, apimentado, humor inteligente e aquele sarcasmo inerente ao universo do torcedor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116561_epg.jpg" />
+    <episode-num system="onscreen">S83 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20260807173000 +0000" stop="20260807184000 +0000">
+    <title lang="pt">Mundo F - Ao Vivo</title>
+    <desc lang="pt">Tudo que gira em torno do universo do futebol internacional. Grandes temas, clubes e personagens ganham holofotes e são tratados com uma linguagem contemporânea e jovem.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116562_epg.jpg" />
+    <episode-num system="onscreen">S84 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20260807184000 +0000" stop="20260807204500 +0000">
+    <title lang="pt">Wolverhampton x Port Vale - Ao Vivo</title>
+    <desc lang="pt">A Carabao Cup reúne as 92 equipes das quatro primeiras divisões do futebol inglês. A competição garante ao campeão uma vaga nos playoffs da UEFA Europa Conference League.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001487306_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.br" start="20260807204500 +0000" stop="20260807221500 +0000">
+    <title lang="pt">Equipe F - Ao Vivo</title>
+    <desc lang="pt">Futebol é com a gente. Somos autoridades no assunto. EQUIPE F traz a marca que chancela o olhar ESPN para o futebol. O fã de esporte está escalado para o time.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116559_epg.jpg" />
+    <episode-num system="onscreen">S87 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20260807221500 +0000" stop="20260808003000 +0000">
+    <title lang="pt">Operário-PR x São Bernardo - Ao Vivo</title>
+    <desc lang="pt">Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! A melhor cobertura e transmissão você acompanha no Disney+.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001487298_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.br" start="20260808003000 +0000" stop="20260808020000 +0000">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
+    <episode-num system="onscreen">S81 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20260808020000 +0000" stop="20260808030000 +0000">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
+    <episode-num system="onscreen">S83 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20260808030000 +0000" stop="20260808040000 +0000">
+    <title lang="pt">Resenha</title>
+    <desc lang="pt">Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000077279_epg.jpg" />
+    <episode-num system="onscreen">S80 E220</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20260808040000 +0000" stop="20260808050000 +0000">
     <title lang="pt">Mina de Passe</title>
     <desc lang="pt">O Mina de Passe chegou para ficar. Toda sexta-feira, às 21h, teremos a nossa mesa redonda sobre futebol feminino nacional. Inclusive Seleção Brasileira, claro! E vamos acompanhar de perto o crescimento da modalidade no país.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000093505_epg.jpg" />
-    <episode-num system="onscreen">S88 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260803120000 +0000" stop="20260803140000 +0000">
-    <title lang="pt">VT - WNBA: Connecticut Sun x Dallas Wings</title>
-    <desc lang="pt">A liga profissional de basquete feminino dos Estados Unidos reúne as melhores jogadoras do mundo. É um torneio com jogadas espetaculares e partidas imperdíveis.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481435_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.2.br" start="20260803140000 +0000" stop="20260803150000 +0000">
-    <title lang="pt">The Kingdom Presented By State Farm</title>
-    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260803150000 +0000" stop="20260803160000 +0000">
-    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
-    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
-    <episode-num system="onscreen">S12 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260803160000 +0000" stop="20260803170000 +0000">
-    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
-    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
-    <episode-num system="onscreen">S13 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260803170000 +0000" stop="20260803180000 +0000">
-    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
-    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
-    <episode-num system="onscreen">S14 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260803180000 +0000" stop="20260803190000 +0000">
-    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
-    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
-    <episode-num system="onscreen">S15 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260803190000 +0000" stop="20260803200000 +0000">
-    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
-    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
-    <episode-num system="onscreen">S16 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260803200000 +0000" stop="20260803210000 +0000">
-    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
-    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
-    <episode-num system="onscreen">S17 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260803210000 +0000" stop="20260803220000 +0000">
-    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
-    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
-    <episode-num system="onscreen">S18 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260803220000 +0000" stop="20260803230000 +0000">
-    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
-    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
-    <episode-num system="onscreen">S19 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260803230000 +0000" stop="20260804000000 +0000">
-    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
-    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
-    <episode-num system="onscreen">S20 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260804000000 +0000" stop="20260804030000 +0000">
-    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
-    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
-    <episode-num system="onscreen">S21 E215</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260804030000 +0000" stop="20260804033000 +0000">
-    <title lang="pt">WTA Tour Magazine</title>
-    <desc lang="pt">Fique por dentro de todas as notícias do principal circuito de tênis profissional feminino.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117646_epg.jpg" />
-    <episode-num system="onscreen">S80 E216</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20260804033000 +0000" stop="20260804043000 +0000">
-    <title lang="pt">The Kingdom Presented By State Farm</title>
-    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
-    <rating system="BR">
-      <value>1</value>
-    </rating>
+    <episode-num system="onscreen">S81 E220</episode-num>
   </programme>
   <programme channel="ESPN.2.br" start="20260804043000 +0000" stop="20260804053000 +0000">
     <title lang="pt">Sportscenter</title>
@@ -15978,6 +15869,112 @@
     <episode-num system="onscreen">S80 E219</episode-num>
   </programme>
   <programme channel="ESPN.2.br" start="20260807043000 +0000" stop="20260807070000 +0000">
+    <title lang="pt">Tour de France Femmes avec Zwift 2026</title>
+    <desc lang="pt">É a competição mais famosa e prestigiada do ciclismo. Todo ano, ao longo de três semanas, as melhores ciclistas do mundo pedalam nas mais diferentes paisagens francesas em busca do título.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481457_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807070000 +0000" stop="20260807090000 +0000">
+    <title lang="pt">VT - Boca Juniors x Estudiantes</title>
+    <desc lang="pt">Com muita paixão nas arquibancadas e disputas emocionantes dentro de campo, o futebol argentino reúne a combinação ideal para fãs da redonda.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481441_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807090000 +0000" stop="20260807100000 +0000">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
+    <episode-num system="onscreen">S86 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807100000 +0000" stop="20260807110000 +0000">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
+    <episode-num system="onscreen">S87 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807110000 +0000" stop="20260807140000 +0000">
+    <title lang="pt">VT - World Series of Poker Mesa Final: Dia 3</title>
+    <desc lang="pt">O pôquer, classificado com um esporte mental, é o jogo de cartas que mais se popularizou nas últimas décadas. As transmissões dos melhores eventos profissionais estão nos canais ESPN.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481461_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807140000 +0000" stop="20260807150000 +0000">
+    <title lang="pt">The Kingdom Presented By State Farm</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001404780_epg.jpg" />
+    <rating system="BR">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807150000 +0000" stop="20260807160000 +0000">
+    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
+    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
+    <episode-num system="onscreen">S12 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807160000 +0000" stop="20260807170000 +0000">
+    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
+    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
+    <episode-num system="onscreen">S13 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807170000 +0000" stop="20260807180000 +0000">
+    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
+    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
+    <episode-num system="onscreen">S14 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807180000 +0000" stop="20260807190000 +0000">
+    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
+    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
+    <episode-num system="onscreen">S15 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807190000 +0000" stop="20260807200000 +0000">
+    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
+    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
+    <episode-num system="onscreen">S16 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807200000 +0000" stop="20260807210000 +0000">
+    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
+    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
+    <episode-num system="onscreen">S17 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807210000 +0000" stop="20260807220000 +0000">
+    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
+    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
+    <episode-num system="onscreen">S18 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807220000 +0000" stop="20260807230000 +0000">
+    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
+    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
+    <episode-num system="onscreen">S19 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260807230000 +0000" stop="20260808000000 +0000">
+    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
+    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
+    <episode-num system="onscreen">S20 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260808000000 +0000" stop="20260808030000 +0000">
+    <title lang="pt">ATP 1000 Montreal e WTA 1000 Toronto - Ao Vivo</title>
+    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000087506_epg.jpg" />
+    <episode-num system="onscreen">S21 E219</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260808030000 +0000" stop="20260808033000 +0000">
+    <title lang="pt">ATP Tour: This Week</title>
+    <desc lang="pt">O ATP Uncovered apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e inbstruções para você praticar o esporte no mais alto nível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001080259_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20260808033000 +0000" stop="20260808043000 +0000">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
+    <episode-num system="onscreen">S80 E220</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20260808043000 +0000" stop="20260808070000 +0000">
     <title lang="pt">Tour de France Femmes avec Zwift 2026</title>
     <desc lang="pt">É a competição mais famosa e prestigiada do ciclismo. Todo ano, ao longo de três semanas, as melhores ciclistas do mundo pedalam nas mais diferentes paisagens francesas em busca do título.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001481457_epg.jpg" />
@@ -95216,926 +95213,960 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
     <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e749e17645474869bff721b36d769b44/version/3" />
     <url>http://www.cellcom.co.il</url>
   </channel>
-  <programme start="20260803052500 +0000" stop="20260803071500 +0000" channel="ONE.HD.il">
-    <title lang="he">ל. ספרדית 2025/26</title>
-    <sub-title lang="he">ברצלונה/את. מדריד(ש.ח)</sub-title>
-    <desc lang="he">ליגה ספרדית 2025/26, מחזור 19: ברצלונה מארחת את אתלטיקו מדריד.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803071500 +0000" stop="20260803073000 +0000" channel="ONE.HD.il">
-    <title lang="he">רגעי השיא</title>
-    <sub-title lang="he">אמבפה(ש.ח)</sub-title>
-    <desc lang="he">רגעי השיא של אמבפה עם כל השערים, והבישולים הגדולים.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803073000 +0000" stop="20260803091500 +0000" channel="ONE.HD.il">
-    <title lang="he">ל. ספרדית 2025/26</title>
-    <sub-title lang="he">ברצלונה/את. בילבאו(ש.ח)</sub-title>
-    <desc lang="he">ליגה ספרדית 2025/26, מחזור 13: ברצלונה מארחת את אתלטיק בילבאו.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803091500 +0000" stop="20260803092500 +0000" channel="ONE.HD.il">
-    <title lang="he">טאפסים</title>
-    <sub-title lang="he">מחזור 32(ש.ח)</sub-title>
-    <desc lang="he">מנות קטנות וטעימות של כדורגל ספרדי.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803092500 +0000" stop="20260803100000 +0000" channel="ONE.HD.il">
-    <title lang="he">ONE podcasts - בית"ר ירושלים</title>
-    <sub-title lang="he">הגומלין מול א.א.ק לרנקה</sub-title>
-    <desc lang="he">פודקאסט בית״ר ירושלים מתכנס מיד לאחר ההעפלה של בית״ר לשלב הבא במוקדמות הקונפרס לנתח את משחק הגומלין מול א.א.ק לרנקה.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803100000 +0000" stop="20260803114500 +0000" channel="ONE.HD.il">
-    <title lang="he">ישיר! ONE Podcasts - שיחת היום</title>
-    <desc lang="he">תוכנית הספורט שמביאה לכם את כל מה שחם - "שיחת היום" מארחת מדי פרק את כתבי וכתבות אתר ONE לשיחה פתוחה על האירועים המרכזיים שמסעירים את עולם הספורט. יחד עם גידי ליפקין, העורך הראשי של ONE.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803114500 +0000" stop="20260803124000 +0000" channel="ONE.HD.il">
-    <title lang="he">דוקו 30 על 30</title>
-    <sub-title lang="he">קלטת הביצועים הגדולה(ש.ח)</sub-title>
-    <desc lang="he">בסוף שנות ה-90 צירוף נסיבות הביא את כדורסל הרחוב של ניו יורק למיינסטרים של אמריקה, והכול בזכות שילוב מנצח של מוזיקת היפ הופ ומהלכי כדורסל שלא מהעולם הזה. הסרט נזכר בגיבורים של הטרנד ההוא.</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803124000 +0000" stop="20260803142500 +0000" channel="ONE.HD.il">
-    <title lang="he">ל. ספרדית 2025/26</title>
-    <sub-title lang="he">ר. מדריד/את. בילבאו(ש.ח)</sub-title>
-    <desc lang="he">ליגה ספרדית 2025/26, מחזור 38: ריאל מדריד מארחת את אתלטיק בילבאו.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803142500 +0000" stop="20260803144000 +0000" channel="ONE.HD.il">
-    <title lang="he">רגעי השיא</title>
-    <sub-title lang="he">פראן טורס(ש.ח)</sub-title>
-    <desc lang="he">רגעי השיא של פראן טורס עם כל השערים, והבישולים הגדולים.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803144000 +0000" stop="20260803180000 +0000" channel="ONE.HD.il">
-    <title lang="he">GFN</title>
-    <sub-title lang="he">פייט נייט(ש.ח)</sub-title>
-    <desc lang="he">GFN - ערב הקרבות הגדול ביותר שנערך בישראל. שלושת האחים גורדון ומיטב לוחמי ישראל עולים לזירה לקרבות מול צמרת הלוחמים מהעולם, בערב שכולו אקשן, מתח ורגעים בלתי נשכחים בהיכל מנורה מבטחים.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803180000 +0000" stop="20260803202500 +0000" channel="ONE.HD.il">
-    <title lang="he">GFN</title>
-    <sub-title lang="he">פייט נייט(ש.ח)</sub-title>
-    <desc lang="he">GFN - ערב הקרבות הגדול ביותר שנערך בישראל. שלושת האחים גורדון ומיטב לוחמי ישראל עולים לזירה לקרבות מול צמרת הלוחמים מהעולם, בערב שכולו אקשן, מתח ורגעים בלתי נשכחים בהיכל מנורה מבטחים.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803202500 +0000" stop="20260803212000 +0000" channel="ONE.HD.il">
-    <title lang="he">דוקו 30 על 30</title>
-    <sub-title lang="he">קלטת הביצועים הגדולה(ש.ח)</sub-title>
-    <desc lang="he">בסוף שנות ה-90 צירוף נסיבות הביא את כדורסל הרחוב של ניו יורק למיינסטרים של אמריקה, והכול בזכות שילוב מנצח של מוזיקת היפ הופ ומהלכי כדורסל שלא מהעולם הזה. הסרט נזכר בגיבורים של הטרנד ההוא.</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803212000 +0000" stop="20260803225000 +0000" channel="ONE.HD.il">
-    <title lang="he">ל. ספרדית 2025/26</title>
-    <sub-title lang="he">את. בילבאו/ר. וייקאנו(ש.ח)</sub-title>
-    <desc lang="he">ליגה ספרדית 2025/26, מחזור 2: אתלטיק בילבאו מארחת את ראיו וייקאנו.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803225000 +0000" stop="20260803231500 +0000" channel="ONE.HD.il">
-    <title lang="he">ל. ספרדית 2025/26</title>
-    <sub-title lang="he">ר. מדריד/מאיורקה - תקציר מורחב(ש.ח)</sub-title>
-    <desc lang="he">ריאל מדריד שמרה על המאזן המושלם שלה עם מהפך ביתי על מאיורקה.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260803231500 +0000" stop="20260804005500 +0000" channel="ONE.HD.il">
-    <title lang="he">דוקו 30 על 30</title>
-    <sub-title lang="he">היה מים - ברוס לי(ש.ח)</sub-title>
-    <desc lang="he">לאחר שנדחה על ידי הוליווד, ברוס לי חוזר להונג קונג כדי להשלים ארבעה סרטים. הסרט מתאר את מאבקיו בשני עולמות, בוחן שאלות של זהות וייצוג באמצעות ארכיון נדיר, ראיונות אינטימיים וכתביו של ברוס לי.</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260804005500 +0000" stop="20260804025500 +0000" channel="ONE.HD.il">
-    <title lang="he">ישיר! אליפות העולם בפוקר 2026</title>
-    <sub-title lang="he">גמר - יום 1</sub-title>
-    <desc lang="he">אליפות העולם בפוקר 2026- הארוע המרכזי - השחקנים מתחילים את הטורניר הגדול בעולם רק אחד יקח את הפרס הגדול.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260804025500 +0000" stop="20260804030000 +0000" channel="ONE.HD.il">
-    <title lang="he">ישיר! אליפות העולם בפוקר 2026</title>
-    <sub-title lang="he">גמר - יום 1</sub-title>
-    <desc lang="he">אליפות העולם בפוקר 2026- הארוע המרכזי - השחקנים מתחילים את הטורניר הגדול בעולם רק אחד יקח את הפרס הגדול.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260804030000 +0000" stop="20260804042500 +0000" channel="ONE.HD.il">
-    <title lang="he">מוביל 1 דה גריד - עונה 15</title>
-    <sub-title lang="he">פרק 3(ש.ח)</sub-title>
-    <desc lang="he">מגזין ספורט מוטורי.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260804042500 +0000" stop="20260804044000 +0000" channel="ONE.HD.il">
-    <title lang="he">טאפסים</title>
-    <sub-title lang="he">מחזור 36(ש.ח)</sub-title>
-    <desc lang="he">מנות קטנות וטעימות של כדורגל ספרדי.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
-  <programme start="20260804044000 +0000" stop="20260804050500 +0000" channel="ONE.HD.il">
-    <title lang="he">הילדים הרעים של הספורט</title>
-    <sub-title lang="he">זלאטן איברהימוביץ'(ש.ח)</sub-title>
-    <desc lang="he">הקריירה והאופי הבעייתי של זלאטן איברהימוביץ', כוכב הכדורגל השוודי. הישגים המדהימים של רונאלדו הברזילאי בקריירה לצד הקשיים שחווה.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
-  </programme>
   <programme start="20260804050500 +0000" stop="20260804063500 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">ס. ויגו/ברצלונה(ש.ח)</sub-title>
     <desc lang="he">ליגה ספרדית 2025/26, מחזור 12: סלטה ויגו מארחת את ברצלונה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804063500 +0000" stop="20260804065500 +0000" channel="ONE.HD.il">
     <title lang="he">הממלכה</title>
     <sub-title lang="he">פרק 2(ש.ח)</sub-title>
     <desc lang="he">הפרק מתחקה אחר הפיכתו של אנדי ריד למאמן המעוטר של הצ'יפס, מההתחלה הצנועה והמאבקים שבדרך ועד לזכייה בסופרבול הנחשק.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804065500 +0000" stop="20260804072500 +0000" channel="ONE.HD.il">
     <title lang="he">עושים שכונה</title>
     <sub-title lang="he">פרק 5(ש.ח)</sub-title>
     <desc lang="he">הקומיקאים ליאור דובדבני ונחום דידי אוהדי בני יהודה יוצאים למסע מרתק אחר קבוצתם האהובה: בדרך הם פוגשים את כוכבי העבר, האוהדים, סוחרים בשוק ומדברים איתם על התרנגול, על האוהדים, על הסמלים ובעצם על הכל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804072500 +0000" stop="20260804091500 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">את. בילבאו/ר. מדריד(ש.ח)</sub-title>
     <desc lang="he">ליגה ספרדית 2025/26, מחזור 19: אתלטיק בילבאו מארחת את ריאל מדריד.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
-  <programme start="20260804091500 +0000" stop="20260804100000 +0000" channel="ONE.HD.il">
-    <title lang="he">ONE Podcasts - שיחת היום</title>
-    <sub-title lang="he">(ש.ח)</sub-title>
-    <desc lang="he">תוכנית הספורט שמביאה לכם את כל מה שחם - "שיחת היום" מארחת מדי פרק את כתבי וכתבות אתר ONE לשיחה פתוחה על האירועים המרכזיים שמסעירים את עולם הספורט. יחד עם גידי ליפקין, העורך הראשי של ONE.</desc>
+  <programme start="20260804091500 +0000" stop="20260804092000 +0000" channel="ONE.HD.il">
+    <title lang="he">טאפסים</title>
+    <sub-title lang="he">מחזור 38(ש.ח)</sub-title>
+    <desc lang="he">מנות קטנות וטעימות של כדורגל ספרדי.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
+  </programme>
+  <programme start="20260804092000 +0000" stop="20260804100000 +0000" channel="ONE.HD.il">
+    <title lang="he">ONE podcasts - הפועל ת"א</title>
+    <sub-title lang="he">המשחק נגד לודוגורץ</sub-title>
+    <desc lang="he">איציק כלפי וחמי אלמוג מסכמים את הניצחון המרשים של הפועל ת"א על הבולגרים, מנתחים את המהלכים של אליניב ברדה, ובודקים אם זה ערב אירופי חד-פעמי או תחילתו של קמפיין מבטיח בארץ ובאירופה.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804100000 +0000" stop="20260804114500 +0000" channel="ONE.HD.il">
     <title lang="he">ישיר! ONE Podcasts - שיחת היום</title>
     <desc lang="he">תוכנית הספורט שמביאה לכם את כל מה שחם - "שיחת היום" מארחת מדי פרק את כתבי וכתבות אתר ONE לשיחה פתוחה על האירועים המרכזיים שמסעירים את עולם הספורט. יחד עם גידי ליפקין, העורך הראשי של ONE.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804114500 +0000" stop="20260804133000 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">ברצלונה/אספניול(ש.ח)</sub-title>
     <desc lang="he">ליגה ספרדית 2025/26, מחזור 31: ברצלונה מארחת את אספניול.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804133000 +0000" stop="20260804134500 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">ר. מדריד/ר. אוביידו - תקציר מורחב(ש.ח)</sub-title>
     <desc lang="he">אחרי ההפסד בקלאסיקו ואובדן האליפות, ריאל מדריד התאוששה עם ניצחון על היורדת הטרייה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804134500 +0000" stop="20260804140000 +0000" channel="ONE.HD.il">
     <title lang="he">גארבג' טיים</title>
     <sub-title lang="he">הפרארי של האלנד(ש.ח)</sub-title>
     <desc lang="he">גארבג' טיים מסכמים לכם את עולם הספורט דרך הרשת מזווית קצת אחרת. בהנחיית בן פרידמן.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804140000 +0000" stop="20260804155000 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">ברצלונה/ר. בטיס(ש.ח)</sub-title>
     <desc lang="he">ליגה ספרדית 2025/26, מחזור 37: ברצלונה מארחת את ריאל בטיס.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804155000 +0000" stop="20260804160500 +0000" channel="ONE.HD.il">
     <title lang="he">תמונות ניצחון</title>
     <sub-title lang="he">מונדיאל הנשים 2015(ש.ח)</sub-title>
     <desc lang="he">רגעים היסטוריים מעולם הספורט, והפעם, השלושער של קרלי לויד בגמר מונדיאל הנשים ב-2015, ריצת 400 מטרים של קתי פרימן באולימפיאדת סידני 2000 ו"התפיסה" בפוטבול האמריקני.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804160500 +0000" stop="20260804162500 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">את. מדריד/ברצלונה - תקציר מורחב(ש.ח)</sub-title>
     <desc lang="he">ברצלונה עשתה צעד גדול לעבר האליפות, עם ניצחון במטרופוליטנו על אתלטיקו מדריד והגדילה את הפער בפסגה ל-7 נקודות.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804162500 +0000" stop="20260804165500 +0000" channel="ONE.HD.il">
     <title lang="he">עושים שכונה</title>
     <sub-title lang="he">פרק 5(ש.ח)</sub-title>
     <desc lang="he">הקומיקאים ליאור דובדבני ונחום דידי אוהדי בני יהודה יוצאים למסע מרתק אחר קבוצתם האהובה: בדרך הם פוגשים את כוכבי העבר, האוהדים, סוחרים בשוק ומדברים איתם על התרנגול, על האוהדים, על הסמלים ובעצם על הכל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
-  <programme start="20260804165500 +0000" stop="20260804174000 +0000" channel="ONE.HD.il">
-    <title lang="he">ONE Podcasts - שיחת היום</title>
-    <sub-title lang="he">(ש.ח)</sub-title>
-    <desc lang="he">תוכנית הספורט שמביאה לכם את כל מה שחם - "שיחת היום" מארחת מדי פרק את כתבי וכתבות אתר ONE לשיחה פתוחה על האירועים המרכזיים שמסעירים את עולם הספורט. יחד עם גידי ליפקין, העורך הראשי של ONE.</desc>
+  <programme start="20260804165500 +0000" stop="20260804182000 +0000" channel="ONE.HD.il">
+    <title lang="he">ONE podcasts - נוקאאוט!</title>
+    <sub-title lang="he">נילי בלוק ורפי ארונוב</sub-title>
+    <desc lang="he">בפודקאסט נוקאאוט, יניב קמינסקי ואולגה רובין מארחים את נילי בלוק לסיכום הניצחון הגדול במנורה. בנוסף: סיכום האירוע וריאיון עם רפי ארונוב לאחר הנוקאאוט ההיסטורי שלו באוקטגון.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
-  <programme start="20260804174000 +0000" stop="20260804210000 +0000" channel="ONE.HD.il">
+  <programme start="20260804182000 +0000" stop="20260804214000 +0000" channel="ONE.HD.il">
     <title lang="he">GFN</title>
     <sub-title lang="he">פייט נייט(ש.ח)</sub-title>
     <desc lang="he">GFN - ערב הקרבות הגדול ביותר שנערך בישראל. שלושת האחים גורדון ומיטב לוחמי ישראל עולים לזירה לקרבות מול צמרת הלוחמים מהעולם, בערב שכולו אקשן, מתח ורגעים בלתי נשכחים בהיכל מנורה מבטחים.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ff6a593603914df9b5d477a95c8c9e9b/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
-  <programme start="20260804210000 +0000" stop="20260804232500 +0000" channel="ONE.HD.il">
-    <title lang="he">GFN</title>
-    <sub-title lang="he">פייט נייט(ש.ח)</sub-title>
-    <desc lang="he">GFN - ערב הקרבות הגדול ביותר שנערך בישראל. שלושת האחים גורדון ומיטב לוחמי ישראל עולים לזירה לקרבות מול צמרת הלוחמים מהעולם, בערב שכולו אקשן, מתח ורגעים בלתי נשכחים בהיכל מנורה מבטחים.</desc>
+  <programme start="20260804214000 +0000" stop="20260804232500 +0000" channel="ONE.HD.il">
+    <title lang="he">ל. דנית 2026/27</title>
+    <sub-title lang="he">ברונדבי/ויבורג(ש.ח)</sub-title>
+    <desc lang="he">ליגה דנית 2026/27, מחזור 2: ברונדבי מארחת את ויבורג.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804232500 +0000" stop="20260804235500 +0000" channel="ONE.HD.il">
     <title lang="he">תמונות ניצחון</title>
     <sub-title lang="he">מונדיאל הנשים 2015(ש.ח)</sub-title>
     <desc lang="he">רגעים היסטוריים מעולם הספורט, והפעם, השלושער של קרלי לויד בגמר מונדיאל הנשים ב-2015, ריצת 400 מטרים של קתי פרימן באולימפיאדת סידני 2000 ו"התפיסה" בפוטבול האמריקני.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260804235500 +0000" stop="20260805005500 +0000" channel="ONE.HD.il">
     <title lang="he">דוקו 30 על 30</title>
     <sub-title lang="he">הריקוד האחרון: פרק 3(ש.ח)</sub-title>
     <desc lang="he">סיפורו של "התולעת", דניס רודמן. מהילדות הקשה, דרך ההצלחה ב"ילדים הרעים" ב"פיסטונס" ועד הגעתו ל"בולס" לאחר שנראה שהקריירה שלו גמורה.</desc>
     <category lang="he">תעודה טבע ופנאי</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805005500 +0000" stop="20260805025500 +0000" channel="ONE.HD.il">
     <title lang="he">ישיר! אליפות העולם בפוקר 2026</title>
     <sub-title lang="he">גמר - יום 2</sub-title>
     <desc lang="he">אליפות העולם בפוקר 2026- הארוע המרכזי - השחקנים מתחילים את הטורניר הגדול בעולם רק אחד יקח את הפרס הגדול.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805025500 +0000" stop="20260805040000 +0000" channel="ONE.HD.il">
     <title lang="he">ישיר! אליפות העולם בפוקר 2026</title>
     <sub-title lang="he">גמר - יום 2</sub-title>
     <desc lang="he">אליפות העולם בפוקר 2026- הארוע המרכזי - השחקנים מתחילים את הטורניר הגדול בעולם רק אחד יקח את הפרס הגדול.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805040000 +0000" stop="20260805060000 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">ר. מדריד/ברצלונה(ש.ח)</sub-title>
     <desc lang="he">ליגה ספרדית 2025/26, מחזור 10: ריאל מדריד מארחת את ברצלונה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805060000 +0000" stop="20260805063000 +0000" channel="ONE.HD.il">
     <title lang="he">עושים שכונה</title>
     <sub-title lang="he">פרק 5(ש.ח)</sub-title>
     <desc lang="he">הקומיקאים ליאור דובדבני ונחום דידי אוהדי בני יהודה יוצאים למסע מרתק אחר קבוצתם האהובה: בדרך הם פוגשים את כוכבי העבר, האוהדים, סוחרים בשוק ומדברים איתם על התרנגול, על האוהדים, על הסמלים ובעצם על הכל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805063000 +0000" stop="20260805063500 +0000" channel="ONE.HD.il">
     <title lang="he">טאפסים</title>
     <sub-title lang="he">מחזור 38(ש.ח)</sub-title>
     <desc lang="he">מנות קטנות וטעימות של כדורגל ספרדי.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805063500 +0000" stop="20260805073000 +0000" channel="ONE.HD.il">
     <title lang="he">הממלכה</title>
     <sub-title lang="he">פרק 4(ש.ח)</sub-title>
     <desc lang="he">העונה הסדירה מגיעה לישורת האחרונה וה"צ'יפס" מתמודדים עם חזית כפולה: ניסיון לסיים במקום הראשון לקראת הפלייאוף ומכת פציעות שתוקפת כמה מכוכבי הקבוצה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805073000 +0000" stop="20260805091500 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">ר. מדריד/ולנסיה(ש.ח)</sub-title>
     <desc lang="he">ליגה ספרדית 2025/26, מחזור 11: ריאל מדריד מארחת את ולנסיה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805091500 +0000" stop="20260805100000 +0000" channel="ONE.HD.il">
     <title lang="he">ONE Podcasts - שיחת היום</title>
     <sub-title lang="he">(ש.ח)</sub-title>
     <desc lang="he">תוכנית הספורט שמביאה לכם את כל מה שחם - "שיחת היום" מארחת מדי פרק את כתבי וכתבות אתר ONE לשיחה פתוחה על האירועים המרכזיים שמסעירים את עולם הספורט. יחד עם גידי ליפקין, העורך הראשי של ONE.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805100000 +0000" stop="20260805114500 +0000" channel="ONE.HD.il">
     <title lang="he">ישיר! ONE Podcasts - שיחת היום</title>
     <desc lang="he">תוכנית הספורט שמביאה לכם את כל מה שחם - "שיחת היום" מארחת מדי פרק את כתבי וכתבות אתר ONE לשיחה פתוחה על האירועים המרכזיים שמסעירים את עולם הספורט. יחד עם גידי ליפקין, העורך הראשי של ONE.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805114500 +0000" stop="20260805133000 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">ר. מדריד/את. מדריד(ש.ח)</sub-title>
     <desc lang="he">ליגה ספרדית 2025/26, מחזור 29: ריאל מדריד מארחת את אתלטיקו מדריד.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805133000 +0000" stop="20260805151000 +0000" channel="ONE.HD.il">
     <title lang="he">דוקו 30 על 30</title>
     <sub-title lang="he">היה מים - ברוס לי(ש.ח)</sub-title>
     <desc lang="he">לאחר שנדחה על ידי הוליווד, ברוס לי חוזר להונג קונג כדי להשלים ארבעה סרטים. הסרט מתאר את מאבקיו בשני עולמות, בוחן שאלות של זהות וייצוג באמצעות ארכיון נדיר, ראיונות אינטימיים וכתביו של ברוס לי.</desc>
     <category lang="he">תעודה טבע ופנאי</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805151000 +0000" stop="20260805170000 +0000" channel="ONE.HD.il">
     <title lang="he">ל. דנית 2026/27</title>
     <sub-title lang="he">סילקבורג/קופנהגן(ש.ח)</sub-title>
     <desc lang="he">ליגה דנית 2026/27, מחזור 2: סילקבורג מארחת את קופנהגן.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805170000 +0000" stop="20260805174500 +0000" channel="ONE.HD.il">
     <title lang="he">ONE Podcasts - שיחת היום</title>
     <sub-title lang="he">(ש.ח)</sub-title>
     <desc lang="he">תוכנית הספורט שמביאה לכם את כל מה שחם - "שיחת היום" מארחת מדי פרק את כתבי וכתבות אתר ONE לשיחה פתוחה על האירועים המרכזיים שמסעירים את עולם הספורט. יחד עם גידי ליפקין, העורך הראשי של ONE.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805174500 +0000" stop="20260805181500 +0000" channel="ONE.HD.il">
     <title lang="he">הטובים ביותר</title>
     <sub-title lang="he">מרקוס סנה(ש.ח)</sub-title>
     <desc lang="he">שחקני העבר הטובים ביותר בלה ליגה בוחרים את ה-11 הטובים ביותר ששיחקו איתם.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805181500 +0000" stop="20260805201000 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">את. מדריד/ברצלונה(ש.ח)</sub-title>
     <desc lang="he">ליגה ספרדית 2025/26, מחזור 30: אתלטיקו מדריד מארחת את ברצלונה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805201000 +0000" stop="20260805210000 +0000" channel="ONE.HD.il">
     <title lang="he">אליפות העולם בפוקר 2025</title>
     <sub-title lang="he">פרק 4(ש.ח)</sub-title>
     <desc lang="he">אליפות העולם בפוקר 2025: הארוע המרכזי - השחקנים מתחילים את הטורניר הגדול בעולם רק אחד יקח את הפרס הגדול.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/1f7db35d038a4392a7ef7466517f0b23/version/0" />
   </programme>
   <programme start="20260805210000 +0000" stop="20260805215000 +0000" channel="ONE.HD.il">
     <title lang="he">אליפות העולם בפוקר 2025</title>
     <sub-title lang="he">פרק 5(ש.ח)</sub-title>
     <desc lang="he">אליפות העולם בפוקר 2025 - הארוע המרכזי - השחקנים מתחילים את הטורניר הגדול בעולם רק אחד יקח את הפרס הגדול.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
   <programme start="20260805215000 +0000" stop="20260805224500 +0000" channel="ONE.HD.il">
     <title lang="he">דוקו 30 על 30</title>
     <sub-title lang="he">הריקוד האחרון: פרק 4(ש.ח)</sub-title>
     <desc lang="he">בזמן שעונת 1997-1998 מגיעה לפגרת האולסטאר כשה"בולס" לא במצב מזהיר, הפרק נזכר כיצד הם הצליחו להתגבר על ה"פיסטונס" ולזכות באליפות הראשונה שלהם בשנת 1991.</desc>
     <category lang="he">תעודה טבע ופנאי</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
   <programme start="20260805224500 +0000" stop="20260806003000 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">לבאנטה/ר. מדריד(ש.ח)</sub-title>
     <desc lang="he">ליגה ספרדית 2025/26, מחזור 6: לבאנטה מארחת את ריאל מדריד.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
   <programme start="20260806003000 +0000" stop="20260806005500 +0000" channel="ONE.HD.il">
     <title lang="he">ל. ספרדית 2025/26</title>
     <sub-title lang="he">אוססונה/ברצלונה - תקציר מורחב(ש.ח)</sub-title>
     <desc lang="he">ברצלונה עשתה צעד משמעותי לעבר האליפות עם ניצחון במגרשה הקשה של אוססונה, ותוכל לזכות באליפות רשמית מול ריאל מדריד.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
   <programme start="20260806005500 +0000" stop="20260806025500 +0000" channel="ONE.HD.il">
     <title lang="he">ישיר! אליפות העולם בפוקר 2026</title>
     <sub-title lang="he">גמר - יום 3</sub-title>
     <desc lang="he">אליפות העולם בפוקר 2026- הארוע המרכזי - השחקנים מתחילים את הטורניר הגדול בעולם רק אחד יקח את הפרס הגדול.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
   <programme start="20260806025500 +0000" stop="20260806040000 +0000" channel="ONE.HD.il">
     <title lang="he">ישיר! אליפות העולם בפוקר 2026</title>
     <sub-title lang="he">גמר - יום 3</sub-title>
     <desc lang="he">אליפות העולם בפוקר 2026- הארוע המרכזי - השחקנים מתחילים את הטורניר הגדול בעולם רק אחד יקח את הפרס הגדול.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4f0bf22e7bd64c5c9944f7d5b922d3b6/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
-  <programme start="20260803054600 +0000" stop="20260803061600 +0000" channel="ONE2.HD.il">
+  <programme start="20260806040000 +0000" stop="20260806060000 +0000" channel="ONE.HD.il">
+    <title lang="he">ל. ספרדית 2025/26</title>
+    <sub-title lang="he">סביליה/ברצלונה(ש.ח)</sub-title>
+    <desc lang="he">ליגה ספרדית 2025/26, מחזור 8: סביליה מארחת את ברצלונה.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806060000 +0000" stop="20260806072000 +0000" channel="ONE.HD.il">
+    <title lang="he">אליפות העולם בשחמט - ארמגדון 2023</title>
+    <sub-title lang="he">(ש.ח)</sub-title>
+    <desc lang="he">ארמגדון היא סדרת שחמט עולמית בה שחקנים מתחרים בלחץ זמן עצום בפורמט השחמט הדרמטי ביותר אי פעם. האירוע התקיים בסטודיו ארמגדון המרהיב בברלין.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806072000 +0000" stop="20260806091500 +0000" channel="ONE.HD.il">
+    <title lang="he">דוקו 30 על 30</title>
+    <sub-title lang="he">היה מים - ברוס לי(ש.ח)</sub-title>
+    <desc lang="he">לאחר שנדחה על ידי הוליווד, ברוס לי חוזר להונג קונג כדי להשלים ארבעה סרטים. הסרט מתאר את מאבקיו בשני עולמות, בוחן שאלות של זהות וייצוג באמצעות ארכיון נדיר, ראיונות אינטימיים וכתביו של ברוס לי.</desc>
+    <category lang="he">תעודה טבע ופנאי</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806091500 +0000" stop="20260806100000 +0000" channel="ONE.HD.il">
+    <title lang="he">ONE Podcasts - שיחת היום</title>
+    <sub-title lang="he">(ש.ח)</sub-title>
+    <desc lang="he">תוכנית הספורט שמביאה לכם את כל מה שחם - "שיחת היום" מארחת מדי פרק את כתבי וכתבות אתר ONE לשיחה פתוחה על האירועים המרכזיים שמסעירים את עולם הספורט. יחד עם גידי ליפקין, העורך הראשי של ONE.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806100000 +0000" stop="20260806114500 +0000" channel="ONE.HD.il">
+    <title lang="he">ישיר! ONE Podcasts - שיחת היום</title>
+    <desc lang="he">תוכנית הספורט שמביאה לכם את כל מה שחם - "שיחת היום" מארחת מדי פרק את כתבי וכתבות אתר ONE לשיחה פתוחה על האירועים המרכזיים שמסעירים את עולם הספורט. יחד עם גידי ליפקין, העורך הראשי של ONE.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806114500 +0000" stop="20260806115500 +0000" channel="ONE.HD.il">
+    <title lang="he">טאפסים</title>
+    <sub-title lang="he">מחזור 2(ש.ח)</sub-title>
+    <desc lang="he">טאפסים, מחזור 2 - מנות קטנות וטעימות של כדורגל ספרדי.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806115500 +0000" stop="20260806125000 +0000" channel="ONE.HD.il">
+    <title lang="he">דוקו 30 על 30</title>
+    <sub-title lang="he">הריקוד האחרון: פרק 4(ש.ח)</sub-title>
+    <desc lang="he">בזמן שעונת 1997-1998 מגיעה לפגרת האולסטאר כשה"בולס" לא במצב מזהיר, הפרק נזכר כיצד הם הצליחו להתגבר על ה"פיסטונס" ולזכות באליפות הראשונה שלהם בשנת 1991.</desc>
+    <category lang="he">תעודה טבע ופנאי</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806125000 +0000" stop="20260806144500 +0000" channel="ONE.HD.il">
+    <title lang="he">ל. ספרדית 2025/26</title>
+    <sub-title lang="he">ר. מדריד/אלצ'ה(ש.ח)</sub-title>
+    <desc lang="he">ליגה ספרדית 2025/26, מחזור 28: ריאל מדריד מארחת את אלצ'ה.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806144500 +0000" stop="20260806151500 +0000" channel="ONE.HD.il">
+    <title lang="he">הילדים הרעים של הספורט</title>
+    <sub-title lang="he">ניימאר(ש.ח)</sub-title>
+    <desc lang="he">ניימאר, החלוץ הבריזלאי המבריק שידוע בכישרונו ובמגרעותיו. וויין רוני, הילד מליברפול שהצליח בגדול וגם עורר לא מעט סערות מחוץ למגרש.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806151500 +0000" stop="20260806165500 +0000" channel="ONE.HD.il">
+    <title lang="he">דוקו 30 על 30</title>
+    <sub-title lang="he">היה מים - ברוס לי(ש.ח)</sub-title>
+    <desc lang="he">לאחר שנדחה על ידי הוליווד, ברוס לי חוזר להונג קונג כדי להשלים ארבעה סרטים. הסרט מתאר את מאבקיו בשני עולמות, בוחן שאלות של זהות וייצוג באמצעות ארכיון נדיר, ראיונות אינטימיים וכתביו של ברוס לי.</desc>
+    <category lang="he">תעודה טבע ופנאי</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806165500 +0000" stop="20260806174000 +0000" channel="ONE.HD.il">
+    <title lang="he">ONE Podcasts - שיחת היום</title>
+    <sub-title lang="he">(ש.ח)</sub-title>
+    <desc lang="he">תוכנית הספורט שמביאה לכם את כל מה שחם - "שיחת היום" מארחת מדי פרק את כתבי וכתבות אתר ONE לשיחה פתוחה על האירועים המרכזיים שמסעירים את עולם הספורט. יחד עם גידי ליפקין, העורך הראשי של ONE.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806174000 +0000" stop="20260806192500 +0000" channel="ONE.HD.il">
+    <title lang="he">ל. ספרדית 2025/26</title>
+    <sub-title lang="he">אוססונה/ברצלונה(ש.ח)</sub-title>
+    <desc lang="he">ליגה ספרדית 2025/26, מחזור 34: אוססונה מארחת את ברצלונה.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806192500 +0000" stop="20260806194500 +0000" channel="ONE.HD.il">
+    <title lang="he">ל. ספרדית 2025/26</title>
+    <sub-title lang="he">ר. מדריד/את. מדריד - תקציר מורחב(ש.ח)</sub-title>
+    <desc lang="he">דרבי מרתק במדריד הוכרע לטובת ריאל, בזכות שער ניצחון גדול של וינסיוס.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806194500 +0000" stop="20260806201500 +0000" channel="ONE.HD.il">
+    <title lang="he">הטובים ביותר</title>
+    <sub-title lang="he">מרקוס סנה(ש.ח)</sub-title>
+    <desc lang="he">שחקני העבר הטובים ביותר בלה ליגה בוחרים את ה-11 הטובים ביותר ששיחקו איתם.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
+  </programme>
+  <programme start="20260806201500 +0000" stop="20260806204500 +0000" channel="ONE.HD.il">
     <title lang="he">עושים שכונה</title>
-    <sub-title lang="he">פרק 4(ש.ח)</sub-title>
-    <desc lang="he">צמד הקומיקאים ליאור דובדבני ונחום דידי אוהדי בני יהודה יוצאים למסע מרתק אחר קבוצתם האהובה: בדרך הם פוגשים את כוכבי העבר, האוהדים, סוחרים בשוק ומדברים איתם על התרנגול, על האוהדים, על הסמלים ועוד.</desc>
+    <sub-title lang="he">פרק 5(ש.ח)</sub-title>
+    <desc lang="he">הקומיקאים ליאור דובדבני ונחום דידי אוהדי בני יהודה יוצאים למסע מרתק אחר קבוצתם האהובה: בדרך הם פוגשים את כוכבי העבר, האוהדים, סוחרים בשוק ומדברים איתם על התרנגול, על האוהדים, על הסמלים ובעצם על הכל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
-  <programme start="20260803061600 +0000" stop="20260803063300 +0000" channel="ONE2.HD.il">
-    <title lang="he">תוצרת איטליה 2025/26</title>
-    <sub-title lang="he">בולוניה(ש.ח)</sub-title>
-    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+  <programme start="20260806204500 +0000" stop="20260806223000 +0000" channel="ONE.HD.il">
+    <title lang="he">ל. ספרדית 2025/26</title>
+    <sub-title lang="he">אספניול/ברצלונה(ש.ח)</sub-title>
+    <desc lang="he">ליגה ספרדית 2025/26, מחזור 18: אספניול מארחת את ברצלונה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
-  <programme start="20260803063300 +0000" stop="20260803064900 +0000" channel="ONE2.HD.il">
-    <title lang="he">תוצרת איטליה 2025/26</title>
-    <sub-title lang="he">אינטר(ש.ח)</sub-title>
-    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+  <programme start="20260806223000 +0000" stop="20260806231500 +0000" channel="ONE.HD.il">
+    <title lang="he">אליפות העולם בפוקר 2025</title>
+    <sub-title lang="he">פרק 15(ש.ח)</sub-title>
+    <desc lang="he">אליפות העולם בפוקר 2025 - הארוע המרכזי - השחקנים מתחילים את הטורניר הגדול בעולם רק אחד יקח את הפרס הגדול.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
-  <programme start="20260803064900 +0000" stop="20260803070600 +0000" channel="ONE2.HD.il">
-    <title lang="he">תוצרת איטליה 2025/26</title>
-    <sub-title lang="he">אודינזה(ש.ח)</sub-title>
-    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+  <programme start="20260806231500 +0000" stop="20260807000500 +0000" channel="ONE.HD.il">
+    <title lang="he">אליפות העולם בפוקר 2025</title>
+    <sub-title lang="he">פרק 16(ש.ח)</sub-title>
+    <desc lang="he">אליפות העולם בפוקר 2025 - הארוע המרכזי - השחקנים מתחילים את הטורניר הגדול בעולם רק אחד יקח את הפרס הגדול.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
-  <programme start="20260803070600 +0000" stop="20260803081000 +0000" channel="ONE2.HD.il">
-    <title lang="he">מונדיאל המלכים 2026</title>
-    <sub-title lang="he">קראסו/G3X(ש.ח)</sub-title>
-    <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : קראסו מארחת את G3X.</desc>
+  <programme start="20260807000500 +0000" stop="20260807001500 +0000" channel="ONE.HD.il">
+    <title lang="he">טאפסים</title>
+    <sub-title lang="he">מחזור 8(ש.ח)</sub-title>
+    <desc lang="he">מנות קטנות וטעימות של כדורגל ספרדי.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
-  <programme start="20260803081000 +0000" stop="20260803091300 +0000" channel="ONE2.HD.il">
-    <title lang="he">מונדיאל המלכים 2026</title>
-    <sub-title lang="he">אולטימייט מוסטולס/אניקילדורס(ש.ח)</sub-title>
-    <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : אולטימייט מוסטולס מארחת את אניקילדורס.</desc>
+  <programme start="20260807001500 +0000" stop="20260807020500 +0000" channel="ONE.HD.il">
+    <title lang="he">ל. ספרדית 2025/26</title>
+    <sub-title lang="he">ברצלונה/ולנסיה(ש.ח)</sub-title>
+    <desc lang="he">ליגה ספרדית 2025/26, מחזור 4: ברצלונה מארחת את ולנסיה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
-  <programme start="20260803091300 +0000" stop="20260803102500 +0000" channel="ONE2.HD.il">
-    <title lang="he">מונדיאל המלכים 2026</title>
-    <sub-title lang="he">לוס טרונקוס/DR7(ש.ח)</sub-title>
-    <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : לוס טרונקוס מארחת את DR7.</desc>
+  <programme start="20260807020500 +0000" stop="20260807023000 +0000" channel="ONE.HD.il">
+    <title lang="he">תמונות ניצחון</title>
+    <sub-title lang="he">גמר מונדיאל 2018(ש.ח)</sub-title>
+    <desc lang="he">הפעם, ג'ונה לומו, אולי שחקן הרוגבי הגדול בכל הזמנים, פיטר סנל, הרץ האגדי למרחקים בינוניים, וגמר מונדיאל 2018 בין צרפת לקרואטיה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
-  <programme start="20260803102500 +0000" stop="20260803103800 +0000" channel="ONE2.HD.il">
-    <title lang="he">תוצרת איטליה 2025/26</title>
-    <sub-title lang="he">לצ'ה(ש.ח)</sub-title>
-    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+  <programme start="20260807023000 +0000" stop="20260807030000 +0000" channel="ONE.HD.il">
+    <title lang="he">הילדים הרעים של הספורט</title>
+    <sub-title lang="he">ניימאר(ש.ח)</sub-title>
+    <desc lang="he">ניימאר, החלוץ הבריזלאי המבריק שידוע בכישרונו ובמגרעותיו. וויין רוני, הילד מליברפול שהצליח בגדול וגם עורר לא מעט סערות מחוץ למגרש.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
-  <programme start="20260803103800 +0000" stop="20260803121800 +0000" channel="ONE2.HD.il">
-    <title lang="he">ל. איטלקית 2025/26</title>
-    <sub-title lang="he">פיורנטינה/אטאלנטה(ש.ח)</sub-title>
-    <desc lang="he">ליגה איטלקית 2025/26, מחזור 38: פיורנטינה מארחת את אטאלנטה.</desc>
+  <programme start="20260807030000 +0000" stop="20260807035000 +0000" channel="ONE.HD.il">
+    <title lang="he">ליגת ה-WSL: מאחורי הקלעים</title>
+    <sub-title lang="he">אוסטרליה(ש.ח)</sub-title>
+    <desc lang="he">מאחורי הקלעים גלישה מקצועית - 2026 Rip Curl Pro Bells Beach.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
-  <programme start="20260803121800 +0000" stop="20260803123200 +0000" channel="ONE2.HD.il">
-    <title lang="he">תוצרת איטליה 2025/26</title>
-    <sub-title lang="he">בולוניה(ש.ח)</sub-title>
-    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+  <programme start="20260807035000 +0000" stop="20260807040000 +0000" channel="ONE.HD.il">
+    <title lang="he">רגעי השיא</title>
+    <sub-title lang="he">מוריצי(ש.ח)</sub-title>
+    <desc lang="he">רגעי השיא של מוריצי עם כל השערים, והבישולים הגדולים.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260803123200 +0000" stop="20260803133400 +0000" channel="ONE2.HD.il">
-    <title lang="he">מונדיאל המלכים 2026</title>
-    <sub-title lang="he">(ש.ח)</sub-title>
-    <desc lang="he">כדורגל.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260803133400 +0000" stop="20260803153300 +0000" channel="ONE2.HD.il">
-    <title lang="he">תוצרת איטליה 2025/26</title>
-    <sub-title lang="he">אינטר(ש.ח)</sub-title>
-    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260803153300 +0000" stop="20260803172600 +0000" channel="ONE2.HD.il">
-    <title lang="he">ל. איטלקית 2025/26</title>
-    <sub-title lang="he">מילאן/אטאלנטה(ש.ח)</sub-title>
-    <desc lang="he">ליגה איטלקית 2025/26, מחזור 36: מילאן מארחת את אטאלנטה.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260803172600 +0000" stop="20260803181800 +0000" channel="ONE2.HD.il">
-    <title lang="he">פורמולה E</title>
-    <sub-title lang="he">ג'דה(ש.ח)</sub-title>
-    <desc lang="he">הרגעים הגדולים מתוך סיבוב 4 של פורמולה E - אליפות המרוצים החשמלית שמביאה אקשן למסלולים עירוניים ברחבי העולם. הפעם מג'דה (ערב הסעודית).</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260803181800 +0000" stop="20260803192000 +0000" channel="ONE2.HD.il">
-    <title lang="he">מונדיאל המלכים 2026</title>
-    <sub-title lang="he">(ש.ח)</sub-title>
-    <desc lang="he">כדורגל.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260803192000 +0000" stop="20260803201400 +0000" channel="ONE2.HD.il">
-    <title lang="he">המיטב בסרייה A</title>
-    <sub-title lang="he">סיכום עונה(ש.ח)</sub-title>
-    <desc lang="he">תוכנית סיכום עונה עם הרגעים הבלתי נשכחים, הכוכבים הבולטים והדרמות שהכריעו את מאבקי האליפות בליגה האיטלקית.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260803201400 +0000" stop="20260803213000 +0000" channel="ONE2.HD.il">
-    <title lang="he">תוצרת איטליה 2025/26</title>
-    <sub-title lang="he">פיורנטינה(ש.ח)</sub-title>
-    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260803213000 +0000" stop="20260804013500 +0000" channel="ONE2.HD.il">
-    <title lang="he">פרו פאדל ליג</title>
-    <sub-title lang="he">(ש.ח)</sub-title>
-    <desc lang="he">ליגת הפאדל המקצוענית של צפון אמריקה, עם טובי השחקנים מכל העולם.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260804013500 +0000" stop="20260804015100 +0000" channel="ONE2.HD.il">
-    <title lang="he">תוצרת איטליה 2025/26</title>
-    <sub-title lang="he">פיורנטינה(ש.ח)</sub-title>
-    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260804015100 +0000" stop="20260804024400 +0000" channel="ONE2.HD.il">
-    <title lang="he">פורמולה E</title>
-    <sub-title lang="he">ג'דה(ש.ח)</sub-title>
-    <desc lang="he">הרגעים הגדולים מתוך סיבוב 4 של פורמולה E - אליפות המרוצים החשמלית שמביאה אקשן למסלולים עירוניים ברחבי העולם. הפעם מג'דה (ערב הסעודית).</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260804024400 +0000" stop="20260804030000 +0000" channel="ONE2.HD.il">
-    <title lang="he">תוצרת איטליה 2025/26</title>
-    <sub-title lang="he">בולוניה(ש.ח)</sub-title>
-    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260804030000 +0000" stop="20260804040600 +0000" channel="ONE2.HD.il">
-    <title lang="he">מונדיאל המלכים 2026</title>
-    <sub-title lang="he">פורסינוס/פוריה(ש.ח)</sub-title>
-    <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : פורסינוס מארחת את פוריה.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260804040600 +0000" stop="20260804051000 +0000" channel="ONE2.HD.il">
-    <title lang="he">מונדיאל המלכים 2026</title>
-    <sub-title lang="he">קראסו/G3X(ש.ח)</sub-title>
-    <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : קראסו מארחת את G3X.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ac25c59142a24476a6ddadd910c67318/version/0" />
   </programme>
   <programme start="20260804051000 +0000" stop="20260804061300 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">אולטימייט מוסטולס/אניקילדורס(ש.ח)</sub-title>
     <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : אולטימייט מוסטולס מארחת את אניקילדורס.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804061300 +0000" stop="20260804072500 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">לוס טרונקוס/DR7(ש.ח)</sub-title>
     <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : לוס טרונקוס מארחת את DR7.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804072500 +0000" stop="20260804090100 +0000" channel="ONE2.HD.il">
     <title lang="he">ל. איטלקית 2025/26</title>
     <sub-title lang="he">פיורנטינה/אטאלנטה(ש.ח)</sub-title>
     <desc lang="he">ליגה איטלקית 2025/26, מחזור 38: פיורנטינה מארחת את אטאלנטה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804090100 +0000" stop="20260804110200 +0000" channel="ONE2.HD.il">
     <title lang="he">ל. איטלקית 2025/26</title>
     <sub-title lang="he">אינטר/פארמה(ש.ח)</sub-title>
     <desc lang="he">ליגה איטלקית 2025/26, מחזור 35: אינטר מארחת את פארמה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804110200 +0000" stop="20260804120200 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">(ש.ח)</sub-title>
     <desc lang="he">כדורגל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804120200 +0000" stop="20260804130300 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">(ש.ח)</sub-title>
     <desc lang="he">כדורגל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804130300 +0000" stop="20260804131900 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">רומא(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804131900 +0000" stop="20260804141400 +0000" channel="ONE2.HD.il">
     <title lang="he">פורמולה E</title>
     <sub-title lang="he">מקסיקו סיטי(ש.ח)</sub-title>
     <desc lang="he">הרגעים הגדולים מתוך סיבוב 2 של פורמולה E - אליפות המרוצים החשמלית שמביאה אקשן למסלולים עירוניים ברחבי העולם. הפעם ממקסיקו סיטי, על המסלול האייקוני אוטודרומו הרמנוס רודריגס.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804141400 +0000" stop="20260804143200 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">נאפולי(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804143200 +0000" stop="20260804161300 +0000" channel="ONE2.HD.il">
     <title lang="he">ל. איטלקית 2025/26</title>
     <sub-title lang="he">אינטר/יובנטוס(ש.ח)</sub-title>
     <desc lang="he">ליגה איטלקית 2025/26, מחזור 25: אינטר מארחת את יובנטוס.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804161300 +0000" stop="20260804162900 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">לאציו(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804162900 +0000" stop="20260804182200 +0000" channel="ONE2.HD.il">
     <title lang="he">ל. איטלקית 2025/26</title>
     <sub-title lang="he">מילאן/אטאלנטה(ש.ח)</sub-title>
     <desc lang="he">ליגה איטלקית 2025/26, מחזור 36: מילאן מארחת את אטאלנטה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804182200 +0000" stop="20260804184200 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">רומא(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804184200 +0000" stop="20260804185900 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">לצ'ה(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804185900 +0000" stop="20260804200100 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">(ש.ח)</sub-title>
     <desc lang="he">כדורגל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804200100 +0000" stop="20260804210400 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">(ש.ח)</sub-title>
     <desc lang="he">כדורגל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804210400 +0000" stop="20260804220500 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">קראסו/G3X(ש.ח)</sub-title>
     <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : קראסו מארחת את G3X.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804220500 +0000" stop="20260804230300 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">(ש.ח)</sub-title>
     <desc lang="he">כדורגל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804230300 +0000" stop="20260804231800 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">אודינזה(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260804231800 +0000" stop="20260805001400 +0000" channel="ONE2.HD.il">
     <title lang="he">פורמולה E</title>
     <sub-title lang="he">ג'דה(ש.ח)</sub-title>
     <desc lang="he">הרגעים הגדולים מתוך סיבוב 4 של פורמולה E - אליפות המרוצים החשמלית שמביאה אקשן למסלולים עירוניים ברחבי העולם. הפעם מג'דה (ערב הסעודית).</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805001400 +0000" stop="20260805003000 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">פיורנטינה(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805003000 +0000" stop="20260805023000 +0000" channel="ONE2.HD.il">
     <title lang="he">ישיר! גביע ברזילאי 2026/27</title>
     <sub-title lang="he">רמו/סנטוס</sub-title>
     <desc lang="he">גביע ברזילאי 2026/27, שלב שמינית הגמר: רמו מארחת את סנטוס.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805023000 +0000" stop="20260805024600 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">בולוניה(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805024600 +0000" stop="20260805030000 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">קומו(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805030000 +0000" stop="20260805060400 +0000" channel="ONE2.HD.il">
     <title lang="he">One Championship</title>
     <sub-title lang="he">אירוע 163(ש.ח)</sub-title>
     <desc lang="he">אומנויות לחימה - אירוע קרבות של ארגון הלחימה הגדול בעולם One Championship.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805060400 +0000" stop="20260805071600 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">פורסינוס/פוריה(ש.ח)</sub-title>
     <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : פורסינוס מארחת את פוריה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805071600 +0000" stop="20260805073500 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">פיורנטינה(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805073500 +0000" stop="20260805083100 +0000" channel="ONE2.HD.il">
     <title lang="he">המיטב בסרייה A</title>
     <sub-title lang="he">סיכום עונה(ש.ח)</sub-title>
     <desc lang="he">תוכנית סיכום עונה עם הרגעים הבלתי נשכחים, הכוכבים הבולטים והדרמות שהכריעו את מאבקי האליפות בליגה האיטלקית.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805083100 +0000" stop="20260805093500 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">קראסו/G3X(ש.ח)</sub-title>
     <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : קראסו מארחת את G3X.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805093500 +0000" stop="20260805095400 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">לצ'ה(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805095400 +0000" stop="20260805101200 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">פיורנטינה(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805101200 +0000" stop="20260805111600 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">אולטימייט מוסטולס/אניקילדורס(ש.ח)</sub-title>
     <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : אולטימייט מוסטולס מארחת את אניקילדורס.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805111600 +0000" stop="20260805122700 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">לוס טרונקוס/DR7(ש.ח)</sub-title>
     <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : לוס טרונקוס מארחת את DR7.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805122700 +0000" stop="20260805124400 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">ססואולו(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805124400 +0000" stop="20260805144800 +0000" channel="ONE2.HD.il">
     <title lang="he">ל. איטלקית 2025/26</title>
     <sub-title lang="he">אינטר/פארמה(ש.ח)</sub-title>
     <desc lang="he">ליגה איטלקית 2025/26, מחזור 35: אינטר מארחת את פארמה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805144800 +0000" stop="20260805150400 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">נאפולי(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805150400 +0000" stop="20260805165500 +0000" channel="ONE2.HD.il">
     <title lang="he">ל. איטלקית 2025/26</title>
     <sub-title lang="he">מילאן/אטאלנטה(ש.ח)</sub-title>
     <desc lang="he">ליגה איטלקית 2025/26, מחזור 36: מילאן מארחת את אטאלנטה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805165500 +0000" stop="20260805171200 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">פיזה(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805171200 +0000" stop="20260805180600 +0000" channel="ONE2.HD.il">
     <title lang="he">פורמולה E</title>
     <sub-title lang="he">מקסיקו סיטי(ש.ח)</sub-title>
     <desc lang="he">הרגעים הגדולים מתוך סיבוב 2 של פורמולה E - אליפות המרוצים החשמלית שמביאה אקשן למסלולים עירוניים ברחבי העולם. הפעם ממקסיקו סיטי, על המסלול האייקוני אוטודרומו הרמנוס רודריגס.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805180600 +0000" stop="20260805195200 +0000" channel="ONE2.HD.il">
     <title lang="he">ל. איטלקית 2025/26</title>
     <sub-title lang="he">אינטר/פארמה(ש.ח)</sub-title>
     <desc lang="he">ליגה איטלקית 2025/26, מחזור 35: אינטר מארחת את פארמה.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805195200 +0000" stop="20260805205600 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">(ש.ח)</sub-title>
     <desc lang="he">כדורגל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805205600 +0000" stop="20260805220000 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">(ש.ח)</sub-title>
     <desc lang="he">כדורגל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260805220000 +0000" stop="20260805221700 +0000" channel="ONE2.HD.il">
     <title lang="he">תוצרת איטליה 2025/26</title>
     <sub-title lang="he">רומא(ש.ח)</sub-title>
     <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
-  <programme start="20260805221700 +0000" stop="20260805232800 +0000" channel="ONE2.HD.il">
+  <programme start="20260805221700 +0000" stop="20260805231100 +0000" channel="ONE2.HD.il">
     <title lang="he">פורמולה E</title>
     <sub-title lang="he">ג'דה(ש.ח)</sub-title>
     <desc lang="he">הרגעים הגדולים מתוך סיבוב 4 של פורמולה E - אליפות המרוצים החשמלית שמביאה אקשן למסלולים עירוניים ברחבי העולם. הפעם מג'דה (ערב הסעודית).</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
-  <programme start="20260805232800 +0000" stop="20260806003000 +0000" channel="ONE2.HD.il">
+  <programme start="20260805231100 +0000" stop="20260806001300 +0000" channel="ONE2.HD.il">
     <title lang="he">מונדיאל המלכים 2026</title>
     <sub-title lang="he">(ש.ח)</sub-title>
     <desc lang="he">כדורגל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
-  <programme start="20260806003000 +0000" stop="20260806023200 +0000" channel="ONE2.HD.il">
-    <title lang="he">ישיר! גביע ברזילאי 2026/27</title>
-    <sub-title lang="he">פלומיננסה/ואסקו</sub-title>
-    <desc lang="he">גביע ברזילאי 2026/27, שלב שמינית הגמר: פלומיננסה מארחת את ואסקו.</desc>
+  <programme start="20260806001300 +0000" stop="20260806020000 +0000" channel="ONE2.HD.il">
+    <title lang="he">גביע ברזילאי 2026/27</title>
+    <sub-title lang="he">רמו/סנטוס(ש.ח)</sub-title>
+    <desc lang="he">גביע ברזילאי 2026/27, שלב שמינית הגמר: רמו מארחת את סנטוס.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
-  <programme start="20260806023200 +0000" stop="20260806024700 +0000" channel="ONE2.HD.il">
-    <title lang="he">תוצרת איטליה 2025/26</title>
-    <sub-title lang="he">לצ'ה(ש.ח)</sub-title>
-    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+  <programme start="20260806020000 +0000" stop="20260806030000 +0000" channel="ONE2.HD.il">
+    <title lang="he">מונדיאל המלכים 2026</title>
+    <desc lang="he">כדורגל.</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
-  </programme>
-  <programme start="20260806024700 +0000" stop="20260806030000 +0000" channel="ONE2.HD.il">
-    <title lang="he">תוצרת איטליה 2025/26</title>
-    <sub-title lang="he">אודינזה(ש.ח)</sub-title>
-    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
-    <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <programme start="20260806030000 +0000" stop="20260806035400 +0000" channel="ONE2.HD.il">
     <title lang="he">פורמולה E</title>
     <sub-title lang="he">ג'דה(ש.ח)</sub-title>
     <desc lang="he">הרגעים הגדולים מתוך סיבוב 4 של פורמולה E - אליפות המרוצים החשמלית שמביאה אקשן למסלולים עירוניים ברחבי העולם. הפעם מג'דה (ערב הסעודית).</desc>
     <category lang="he">ספורט</category>
-    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/138dbbbecd0d429db51b6f196c097bec/version/0" />
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806035400 +0000" stop="20260806053200 +0000" channel="ONE2.HD.il">
+    <title lang="he">ל. איטלקית 2025/26</title>
+    <sub-title lang="he">פיורנטינה/אטאלנטה(ש.ח)</sub-title>
+    <desc lang="he">ליגה איטלקית 2025/26, מחזור 38: פיורנטינה מארחת את אטאלנטה.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806053200 +0000" stop="20260806063900 +0000" channel="ONE2.HD.il">
+    <title lang="he">מונדיאל המלכים 2026</title>
+    <sub-title lang="he">פורסינוס/פוריה(ש.ח)</sub-title>
+    <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : פורסינוס מארחת את פוריה.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806063900 +0000" stop="20260806074900 +0000" channel="ONE2.HD.il">
+    <title lang="he">מונדיאל המלכים 2026</title>
+    <sub-title lang="he">לוס טרונקוס/DR7(ש.ח)</sub-title>
+    <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : לוס טרונקוס מארחת את DR7.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806074900 +0000" stop="20260806075900 +0000" channel="ONE2.HD.il">
+    <title lang="he">תוצרת איטליה 2025/26</title>
+    <sub-title lang="he">פיורנטינה(ש.ח)</sub-title>
+    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806075900 +0000" stop="20260806080400 +0000" channel="ONE2.HD.il">
+    <title lang="he">ל. איטלקית 2025/26</title>
+    <sub-title lang="he">מילאן/יובנטוס(ש.ח)</sub-title>
+    <desc lang="he">ליגה איטלקית 2025/26, מחזור 34: מילאן מארחת את יובנטוס.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806080400 +0000" stop="20260806090700 +0000" channel="ONE2.HD.il">
+    <title lang="he">מונדיאל המלכים 2026</title>
+    <sub-title lang="he">אולטימייט מוסטולס/אניקילדורס(ש.ח)</sub-title>
+    <desc lang="he">מונדיאל המלכים 2026/27, מחזור 1 : אולטימייט מוסטולס מארחת את אניקילדורס.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806090700 +0000" stop="20260806105800 +0000" channel="ONE2.HD.il">
+    <title lang="he">ל. איטלקית 2025/26</title>
+    <sub-title lang="he">מילאן/אטאלנטה(ש.ח)</sub-title>
+    <desc lang="he">ליגה איטלקית 2025/26, מחזור 36: מילאן מארחת את אטאלנטה.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806105800 +0000" stop="20260806111400 +0000" channel="ONE2.HD.il">
+    <title lang="he">תוצרת איטליה 2025/26</title>
+    <sub-title lang="he">פיורנטינה(ש.ח)</sub-title>
+    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806111400 +0000" stop="20260806131700 +0000" channel="ONE2.HD.il">
+    <title lang="he">ל. איטלקית 2025/26</title>
+    <sub-title lang="he">אינטר/פארמה(ש.ח)</sub-title>
+    <desc lang="he">ליגה איטלקית 2025/26, מחזור 35: אינטר מארחת את פארמה.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806131700 +0000" stop="20260806133400 +0000" channel="ONE2.HD.il">
+    <title lang="he">תוצרת איטליה 2025/26</title>
+    <sub-title lang="he">פיזה(ש.ח)</sub-title>
+    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806133400 +0000" stop="20260806151700 +0000" channel="ONE2.HD.il">
+    <title lang="he">ל. איטלקית 2025/26</title>
+    <sub-title lang="he">אינטר/יובנטוס(ש.ח)</sub-title>
+    <desc lang="he">ליגה איטלקית 2025/26, מחזור 25: אינטר מארחת את יובנטוס.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806151700 +0000" stop="20260806153400 +0000" channel="ONE2.HD.il">
+    <title lang="he">תוצרת איטליה 2025/26</title>
+    <sub-title lang="he">נאפולי(ש.ח)</sub-title>
+    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806153400 +0000" stop="20260806162700 +0000" channel="ONE2.HD.il">
+    <title lang="he">המיטב בסרייה A</title>
+    <sub-title lang="he">סיכום עונה(ש.ח)</sub-title>
+    <desc lang="he">תוכנית סיכום עונה עם הרגעים הבלתי נשכחים, הכוכבים הבולטים והדרמות שהכריעו את מאבקי האליפות בליגה האיטלקית.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806162700 +0000" stop="20260806164200 +0000" channel="ONE2.HD.il">
+    <title lang="he">תוצרת איטליה 2025/26</title>
+    <sub-title lang="he">יובנטוס(ש.ח)</sub-title>
+    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806164200 +0000" stop="20260806202500 +0000" channel="ONE2.HD.il">
+    <title lang="he">PFC MMA</title>
+    <sub-title lang="he">אירוע 53: אלי ארונוב(ש.ח)</sub-title>
+    <desc lang="he">קרב MMA במשקל בינוני. אלי ארונוב מול הלוחם האמריקאי ביילי קינג באירוע PFC 53.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806202500 +0000" stop="20260806203900 +0000" channel="ONE2.HD.il">
+    <title lang="he">תוצרת איטליה 2025/26</title>
+    <sub-title lang="he">טורינו(ש.ח)</sub-title>
+    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806203900 +0000" stop="20260806214200 +0000" channel="ONE2.HD.il">
+    <title lang="he">מונדיאל המלכים 2026</title>
+    <sub-title lang="he">(ש.ח)</sub-title>
+    <desc lang="he">כדורגל.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806214200 +0000" stop="20260806215700 +0000" channel="ONE2.HD.il">
+    <title lang="he">תוצרת איטליה 2025/26</title>
+    <sub-title lang="he">קרמונזה(ש.ח)</sub-title>
+    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806215700 +0000" stop="20260806225900 +0000" channel="ONE2.HD.il">
+    <title lang="he">מונדיאל המלכים 2026</title>
+    <sub-title lang="he">(ש.ח)</sub-title>
+    <desc lang="he">כדורגל.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806225900 +0000" stop="20260806231600 +0000" channel="ONE2.HD.il">
+    <title lang="he">תוצרת איטליה 2025/26</title>
+    <sub-title lang="he">אטאלנטה(ש.ח)</sub-title>
+    <desc lang="he">התרבות והכדורגל הצבעוניים והתוססים מארץ המגף מנקודת מבטם של שחקני סרייה א'.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260806231600 +0000" stop="20260807010300 +0000" channel="ONE2.HD.il">
+    <title lang="he">גביע ברזילאי 2026/27</title>
+    <sub-title lang="he">רמו/סנטוס(ש.ח)</sub-title>
+    <desc lang="he">גביע ברזילאי 2026/27, שלב שמינית הגמר: רמו מארחת את סנטוס.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260807010300 +0000" stop="20260807020700 +0000" channel="ONE2.HD.il">
+    <title lang="he">מונדיאל המלכים 2026</title>
+    <sub-title lang="he">(ש.ח)</sub-title>
+    <desc lang="he">כדורגל.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260807020700 +0000" stop="20260807030000 +0000" channel="ONE2.HD.il">
+    <title lang="he">המיטב בסרייה A</title>
+    <sub-title lang="he">סיכום עונה(ש.ח)</sub-title>
+    <desc lang="he">תוכנית סיכום עונה עם הרגעים הבלתי נשכחים, הכוכבים הבולטים והדרמות שהכריעו את מאבקי האליפות בליגה האיטלקית.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
+  </programme>
+  <programme start="20260807030000 +0000" stop="20260807035400 +0000" channel="ONE2.HD.il">
+    <title lang="he">פורמולה E</title>
+    <sub-title lang="he">מקסיקו סיטי(ש.ח)</sub-title>
+    <desc lang="he">הרגעים הגדולים מתוך סיבוב 2 של פורמולה E - אליפות המרוצים החשמלית שמביאה אקשן למסלולים עירוניים ברחבי העולם. הפעם ממקסיקו סיטי, על המסלול האייקוני אוטודרומו הרמנוס רודריגס.</desc>
+    <category lang="he">ספורט</category>
+    <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bd6a1375da0548818ad8602e03e6dc0d/version/0" />
   </programme>
   <channel id="STAR.SPORTS.1.in">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VmljN1kZ.png" />
