@@ -12914,17 +12914,17 @@
     <title lang="bg">Ергенът: Любов в рая</title>
     <desc lang="bg">романтично риалити с Райна Караянева, с.2.</desc>
   </programme>
-  <channel id="ESPN.br">
-    <icon src="https://www.clarotvmais.com.br/img/channels/espn.png" />
-    <icon src="https://www.clarotvmais.com.br/img/channels/espn.png" />
-    <url>http://www.clarotvmais.com.br</url>
-    <display-name lang="pt">ESPN</display-name>
-  </channel>
   <channel id="ESPN.2.br">
     <icon src="https://www.clarotvmais.com.br/img/channels/espn_2.png" />
     <icon src="https://www.clarotvmais.com.br/img/channels/espn_2.png" />
     <url>http://www.clarotvmais.com.br</url>
     <display-name lang="pt">ESPN 2</display-name>
+  </channel>
+  <channel id="ESPN.br">
+    <icon src="https://www.clarotvmais.com.br/img/channels/espn.png" />
+    <icon src="https://www.clarotvmais.com.br/img/channels/espn.png" />
+    <url>http://www.clarotvmais.com.br</url>
+    <display-name lang="pt">ESPN</display-name>
   </channel>
   <programme channel="ESPN.br" start="20260922043000 +0000" stop="20260922053000 +0000">
     <title lang="pt">Resenha da Rodada</title>
@@ -137382,6 +137382,38 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
     <display-name lang="en">PTV Sports</display-name>
     <url>http://www.ptv.com.pk</url>
   </channel>
+  <channel id="CANAL+.Sport.5.HD.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">CANAL+ Sport 5 HD</display-name>
+  </channel>
+  <channel id="Eurosport.2.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Eurosport 2</display-name>
+  </channel>
+  <channel id="CANAL+.Sport.HD.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">CANAL+ Sport HD</display-name>
+  </channel>
+  <channel id="Polsat.Sport.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Polsat Sport</display-name>
+  </channel>
+  <channel id="TVN.24.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">TVN 24</display-name>
+  </channel>
+  <channel id="TVP.2.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">TVP 2</display-name>
+  </channel>
+  <channel id="Eleven.Sports.3.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Eleven Sports 3</display-name>
+  </channel>
+  <channel id="FilmBox.Premium.HD.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">FilmBox Premium HD</display-name>
+  </channel>
   <channel id="CANAL+.PREMIUM.pl">
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">CANAL+ PREMIUM</display-name>
@@ -137390,105 +137422,73 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">Motowizja</display-name>
   </channel>
-  <channel id="Polsat.News.pl">
+  <channel id="TVP.Sport.pl">
     <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat News</display-name>
-  </channel>
-  <channel id="Eleven.Sports.2.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Eleven Sports 2</display-name>
-  </channel>
-  <channel id="FilmBox.Premium.HD.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">FilmBox Premium HD</display-name>
-  </channel>
-  <channel id="TVN.HD.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">TVN HD</display-name>
-  </channel>
-  <channel id="Eleven.Sports.1.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Eleven Sports 1</display-name>
-  </channel>
-  <channel id="Polsat.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat</display-name>
-  </channel>
-  <channel id="CANAL+.Sport.5.HD.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">CANAL+ Sport 5 HD</display-name>
+    <display-name lang="pl">TVP Sport</display-name>
   </channel>
   <channel id="CANAL+.Sport.3.HD.pl">
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">CANAL+ Sport 3 HD</display-name>
   </channel>
-  <channel id="HBO.pl">
+  <channel id="Eleven.Sports.1.pl">
     <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">HBO</display-name>
-  </channel>
-  <channel id="TVP.Sport.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">TVP Sport</display-name>
-  </channel>
-  <channel id="TVP.1.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">TVP 1</display-name>
-  </channel>
-  <channel id="CANAL+.Sport.2.HD.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">CANAL+ Sport 2 HD</display-name>
-  </channel>
-  <channel id="TVP.2.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">TVP 2</display-name>
-  </channel>
-  <channel id="CANAL+.Seriale.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">CANAL+ Seriale</display-name>
+    <display-name lang="pl">Eleven Sports 1</display-name>
   </channel>
   <channel id="Eurosport.1.pl">
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">Eurosport 1</display-name>
   </channel>
-  <channel id="CANAL+.Sport.HD.pl">
+  <channel id="Polsat.News.pl">
     <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">CANAL+ Sport HD</display-name>
-  </channel>
-  <channel id="Eleven.Sports.3.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Eleven Sports 3</display-name>
-  </channel>
-  <channel id="CANAL+.Family.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">CANAL+ Family</display-name>
-  </channel>
-  <channel id="TVP.Info.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">TVP Info</display-name>
-  </channel>
-  <channel id="Polsat.Sport.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport</display-name>
-  </channel>
-  <channel id="Polsat.Sport.News.HD.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport News HD</display-name>
-  </channel>
-  <channel id="Eurosport.2.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Eurosport 2</display-name>
+    <display-name lang="pl">Polsat News</display-name>
   </channel>
   <channel id="Polsat.Film.pl">
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">Polsat Film</display-name>
   </channel>
+  <channel id="HBO.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">HBO</display-name>
+  </channel>
+  <channel id="Polsat.Sport.News.HD.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Polsat Sport News HD</display-name>
+  </channel>
   <channel id="Polsat.Sport.Extra.pl">
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">Polsat Sport Extra</display-name>
   </channel>
-  <channel id="TVN.24.pl">
+  <channel id="TVN.HD.pl">
     <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">TVN 24</display-name>
+    <display-name lang="pl">TVN HD</display-name>
+  </channel>
+  <channel id="TVP.Info.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">TVP Info</display-name>
+  </channel>
+  <channel id="CANAL+.Seriale.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">CANAL+ Seriale</display-name>
+  </channel>
+  <channel id="CANAL+.Sport.2.HD.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">CANAL+ Sport 2 HD</display-name>
+  </channel>
+  <channel id="CANAL+.Family.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">CANAL+ Family</display-name>
+  </channel>
+  <channel id="Polsat.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Polsat</display-name>
+  </channel>
+  <channel id="TVP.1.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">TVP 1</display-name>
+  </channel>
+  <channel id="Eleven.Sports.2.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Eleven Sports 2</display-name>
   </channel>
   <programme channel="CANAL+.Sport.3.HD.pl" start="20260922001000 -0500" stop="20260922011500 -0500">
     <title lang="pl">Ekstrapaka</title>
