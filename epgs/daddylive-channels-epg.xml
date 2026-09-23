@@ -4595,281 +4595,6 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20260921033000 +0000" stop="20260921043000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI: Zimbabwe v Australia</title>
-    <sub-title lang="en">Zimbabwe v Australia</sub-title>
-    <desc lang="en">ODI.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921043000 +0000" stop="20260921045000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: Zimbabwe v Australia G3</title>
-    <sub-title lang="en">Zimbabwe v Australia G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921045000 +0000" stop="20260921051000 +0000" channel="FoxCricket.au">
-    <title lang="en">T20 Mini: England v Sri Lanka G3</title>
-    <sub-title lang="en">England v Sri Lanka G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921051000 +0000" stop="20260921053000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: Zimbabwe v Australia G3</title>
-    <sub-title lang="en">Zimbabwe v Australia G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921053000 +0000" stop="20260921063000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: 2019/20 AUS v NZL 1st Test</title>
-    <sub-title lang="en">2019/20 AUS v NZL 1st Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921063000 +0000" stop="20260921073000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test Classic: 2020/21 AUS v IND 1st Test</title>
-    <sub-title lang="en">2020/21 AUS v IND 1st Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921073000 +0000" stop="20260921080000 +0000" channel="FoxCricket.au">
-    <title lang="en">CPL: Final</title>
-    <sub-title lang="en">Final</sub-title>
-    <desc lang="en">Caribbean Premier League.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921080000 +0000" stop="20260921090000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI: Zimbabwe v Australia</title>
-    <sub-title lang="en">Zimbabwe v Australia</sub-title>
-    <desc lang="en">ODI.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921090000 +0000" stop="20260921092000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: 2025 AUS v SA Game 1</title>
-    <sub-title lang="en">2025 AUS v SA Game 1</sub-title>
-    <desc lang="en">Mitchell Marsh leads Australia's one-day side against a new-look South Africa in Cairns for the first of three ODIs.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921092000 +0000" stop="20260921094000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: 2025 AUS v SA Game 2</title>
-    <sub-title lang="en">2025 AUS v SA Game 2</sub-title>
-    <desc lang="en">Australia's batters were surprised by spin in Cairns, but Mitch Marsh's men will get a chance to even up the series in Mackay for Game 2.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921094000 +0000" stop="20260921100000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: 2025 AUS v SA Game 3</title>
-    <sub-title lang="en">2025 AUS v SA Game 3</sub-title>
-    <desc lang="en">Australia's winter series in the Top End comes to a close as they seek to end on a high note against South Africa in Mackay.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921100000 +0000" stop="20260921110000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test Classic: 1993/94 AUS v SA 2nd Test</title>
-    <sub-title lang="en">1993/94 AUS v SA 2nd Test</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and look back on the best Test Matches from Australia soil.</desc>
-    <date>2018</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921110000 +0000" stop="20260921120000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test Classic: 2011 SA v AUS 2nd Test</title>
-    <sub-title lang="en">2011 SA v AUS 2nd Test</sub-title>
-    <desc lang="en">A fresh-faced Pat Cummins makes his test debut at the age of just 18 against a powerhouse South African side.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921120000 +0000" stop="20260921122000 +0000" channel="FoxCricket.au">
-    <title lang="en">T20 Mini: England v Sri Lanka G1</title>
-    <sub-title lang="en">England v Sri Lanka G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/wzawf9.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921122000 +0000" stop="20260921124000 +0000" channel="FoxCricket.au">
-    <title lang="en">T20 Mini: England v Sri Lanka G2</title>
-    <sub-title lang="en">England v Sri Lanka G2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921124000 +0000" stop="20260921130000 +0000" channel="FoxCricket.au">
-    <title lang="en">T20 Mini: England v Sri Lanka G3</title>
-    <sub-title lang="en">England v Sri Lanka G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921130000 +0000" stop="20260921140000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI: Zimbabwe v Australia G3</title>
-    <sub-title lang="en">Zimbabwe v Australia G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921140000 +0000" stop="20260921150000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: AUS v BAN 1st Test Day 1</title>
-    <sub-title lang="en">AUS v BAN 1st Test Day 1</sub-title>
-    <desc lang="en">Australia host Bangladesh for the first time in 23 years as the series begins at TIO Stadium, Darwin.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921150000 +0000" stop="20260921160000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: AUS v BAN 1st Test Day 2</title>
-    <sub-title lang="en">AUS v BAN 1st Test Day 2</sub-title>
-    <desc lang="en">An incredible day from Bangladesh sees them in the unlikely position of being on top entering day two.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921160000 +0000" stop="20260921170000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: AUS v BAN 1st Test Day 3</title>
-    <sub-title lang="en">AUS v BAN 1st Test Day 3</sub-title>
-    <desc lang="en">Australia host Bangladesh for the first time in 23 years as the series begins at TIO Stadium, Darwin.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921170000 +0000" stop="20260921180000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: AUS v BAN 1st Test Day 4</title>
-    <sub-title lang="en">AUS v BAN 1st Test Day 4</sub-title>
-    <desc lang="en">Australia host Bangladesh for the first time in 23 years as the series begins at TIO Stadium, Darwin.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921180000 +0000" stop="20260921190000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: AUS v BAN 2nd Test Day 1</title>
-    <sub-title lang="en">AUS v BAN 2nd Test Day 1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/yjlfca.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921190000 +0000" stop="20260921200000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: AUS v BAN 2nd Test Day 2</title>
-    <sub-title lang="en">AUS v BAN 2nd Test Day 2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260921210000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: AUS v BAN 1st Test</title>
-    <sub-title lang="en">AUS v BAN 1st Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921210000 +0000" stop="20260921220000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: AUS v BAN 2nd Test</title>
-    <sub-title lang="en">AUS v BAN 2nd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921220000 +0000" stop="20260921223000 +0000" channel="FoxCricket.au">
-    <title lang="en">CPL: ELIM Tridents v Kingsmen</title>
-    <sub-title lang="en">ELIM Tridents v Kingsmen</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ojztt.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921223000 +0000" stop="20260921230000 +0000" channel="FoxCricket.au">
-    <title lang="en">CPL: Q1 Falcons v Amazon Warriors</title>
-    <sub-title lang="en">Q1 Falcons v Amazon Warriors</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ojztt.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921230000 +0000" stop="20260921233000 +0000" channel="FoxCricket.au">
-    <title lang="en">CPL: Qualifier</title>
-    <sub-title lang="en">Qualifier</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ojztt.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921233000 +0000" stop="20260922000000 +0000" channel="FoxCricket.au">
-    <title lang="en">CPL: Final</title>
-    <sub-title lang="en">Final</sub-title>
-    <desc lang="en">It all comes down to this as the Qualifier winners battle for the 2026 title.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme start="20260922000000 +0000" stop="20260922010000 +0000" channel="FoxCricket.au">
     <title lang="en">Test: ENG v PAK 1st Test</title>
     <sub-title lang="en">ENG v PAK 1st Test</sub-title>
@@ -5169,12 +4894,13 @@
     </rating>
   </programme>
   <programme start="20260923060000 +0000" stop="20260923070000 +0000" channel="FoxCricket.au">
-    <title lang="en">Fox Cricket Classics Domestic ODI: 2006</title>
+    <title lang="en">FOX CRICKET CLASSICS DOMESTIC TEST: 200</title>
     <sub-title lang="en">2006/07 AUS v ENG 4th Test</sub-title>
-    <desc lang="en">Fox Cricket Classics Domestic ODI.</desc>
+    <desc lang="en">We open the Fox Cricket vault and look back on the best Test Matches from Australian soil.</desc>
     <date>2018</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
     <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
@@ -5225,12 +4951,13 @@
     </rating>
   </programme>
   <programme start="20260923120000 +0000" stop="20260923130000 +0000" channel="FoxCricket.au">
-    <title lang="en">Fox Cricket Classics Domestic ODI: 2007</title>
+    <title lang="en">FOX CRICKET CLASSICS DOMESTIC TEST: 200</title>
     <sub-title lang="en">2007/08 AUS v IND 2nd Test</sub-title>
-    <desc lang="en">Fox Cricket Classics Domestic ODI.</desc>
+    <desc lang="en">We open the Fox Cricket vault and look back on the best Test Matches from Australian soil.</desc>
     <date>2018</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
     <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
@@ -5661,12 +5388,13 @@
     </rating>
   </programme>
   <programme start="20260925090000 +0000" stop="20260925100000 +0000" channel="FoxCricket.au">
-    <title lang="en">Fox Cricket Classics Domestic ODI: 2015</title>
+    <title lang="en">FOX CRICKET CLASSICS DOMESTIC TEST: 201</title>
     <sub-title lang="en">2015 AUS v ENG Game 4</sub-title>
-    <desc lang="en">Fox Cricket Classics Domestic ODI.</desc>
-    <date>2024</date>
+    <desc lang="en">FOX CRICKET CLASSICS DOMESTIC TEST.</desc>
+    <date>2018</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
     <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
@@ -5685,23 +5413,27 @@
     </rating>
   </programme>
   <programme start="20260925110000 +0000" stop="20260925120000 +0000" channel="FoxCricket.au">
-    <title lang="en">Fox Cricket Classics Domestic ODI: 2012</title>
+    <title lang="en">FOX CRICKET CLASSICS DOMESTIC TEST: 201</title>
     <sub-title lang="en">2012 AUS v SL 1st Fnl</sub-title>
-    <desc lang="en">Fox Cricket Classics Domestic ODI.</desc>
-    <date>2024</date>
+    <desc lang="en">FOX CRICKET CLASSICS DOMESTIC TEST.</desc>
+    <date>2018</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
     <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
   <programme start="20260925120000 +0000" stop="20260925130000 +0000" channel="FoxCricket.au">
-    <title lang="en">ICC CRICKET WORLD CUP: QF, Australia v</title>
-    <sub-title lang="en">QF, Australia v Pakistan</sub-title>
-    <desc lang="en">ICC CRICKET WORLD CUP.</desc>
+    <title lang="en">Ashes Classic: Marcus Stoinis v NZL 2017</title>
+    <sub-title lang="en">Marcus Stoinis v NZL 2017</sub-title>
+    <desc lang="en">Ashes Classic.</desc>
+    <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -5714,295 +5446,268 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921000600 +0000" stop="20260921010600 +0000" channel="FoxLeague.au">
-    <title lang="en">Finals Footy with Matty Johns</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1kicj0.png" />
+  <programme start="20260925140000 +0000" stop="20260925150000 +0000" channel="FoxCricket.au">
+    <title lang="en">FOX CRICKET CLASSICS DOMESTIC TEST: 198</title>
+    <sub-title lang="en">1985/86 AUS v IND 1st Test</sub-title>
+    <desc lang="en">We open the Fox Cricket vault and look back on the best Test Matches from Australia soil.</desc>
+    <date>2018</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925150000 +0000" stop="20260925160000 +0000" channel="FoxCricket.au">
+    <title lang="en">Test Classic: 1985/86 AUS v IND 2nd Test</title>
+    <sub-title lang="en">1985/86 AUS v IND 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925160000 +0000" stop="20260925170000 +0000" channel="FoxCricket.au">
+    <title lang="en">Test Classic: 1985/86 AUS v IND 3rd Test</title>
+    <sub-title lang="en">1985/86 AUS v IND 3rd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925170000 +0000" stop="20260925180000 +0000" channel="FoxCricket.au">
+    <title lang="en">Test Classic: 2007/08 AUS v IND 1st Test</title>
+    <sub-title lang="en">2007/08 AUS v IND 1st Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925180000 +0000" stop="20260925190000 +0000" channel="FoxCricket.au">
+    <title lang="en">Test Classic: 2007/08 2nd Test</title>
+    <sub-title lang="en">2007/08 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925190000 +0000" stop="20260925200000 +0000" channel="FoxCricket.au">
+    <title lang="en">Test Classic: 2007/08 AUS v IND 3rd Test</title>
+    <sub-title lang="en">2007/08 AUS v IND 3rd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925200000 +0000" stop="20260925210000 +0000" channel="FoxCricket.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="FoxCricket.au">
+    <title lang="en">ODI: South Africa v Australia</title>
+    <sub-title lang="en">South Africa v Australia</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260925222000 +0000" channel="FoxCricket.au">
+    <title lang="en">ODI: England v Sri Lanka</title>
+    <sub-title lang="en">England v Sri Lanka</sub-title>
+    <desc lang="en">ODI.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
     <episode-num system="onscreen">E2</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921010600 +0000" stop="20260921015700 +0000" channel="FoxLeague.au">
-    <title lang="en">NRLW: Wests Tigers Women v Canberra Wom</title>
-    <sub-title lang="en">Wests Tigers Women v Canberra Women</sub-title>
-    <desc lang="en">NRLW.</desc>
+  <programme start="20260925222000 +0000" stop="20260925224000 +0000" channel="FoxCricket.au">
+    <title lang="en">ODI: South Africa v Australia</title>
+    <sub-title lang="en">South Africa v Australia</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925224000 +0000" stop="20260925230000 +0000" channel="FoxCricket.au">
+    <title lang="en">ODI: England v Sri Lanka</title>
+    <sub-title lang="en">England v Sri Lanka</sub-title>
+    <desc lang="en">ODI.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Rugby League</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/buxh06.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921015700 +0000" stop="20260921021800 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL Mini Roosters v Sharks SF</title>
-    <desc lang="en">NRL Mini Roosters v Sharks SF.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921021800 +0000" stop="20260921023900 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL Mini Warriors v Knights SF</title>
-    <desc lang="en">NRL Mini Warriors v Knights SF.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921023900 +0000" stop="20260921030000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL Finals Rewind Warriors v Knights ...</title>
-    <desc lang="en">NRL Finals Rewind Warriors v Knights Round 26.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921030000 +0000" stop="20260921031900 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL Mini Roosters v Sharks SF</title>
-    <desc lang="en">NRL Mini Roosters v Sharks SF.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921031900 +0000" stop="20260921032900 +0000" channel="FoxLeague.au">
-    <title lang="en">Get 'em onside</title>
-    <desc lang="en">Get em onside.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921032900 +0000" stop="20260921040000 +0000" channel="FoxLeague.au">
-    <title lang="en">Face to Face Craig Gower</title>
-    <desc lang="en">Face to Face Craig Gower.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921040000 +0000" stop="20260921043000 +0000" channel="FoxLeague.au">
-    <title lang="en">Finals Footy with Matty Johns</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1kicj0.png" />
+    <category lang="en">Cricket</category>
     <episode-num system="onscreen">E2</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921043000 +0000" stop="20260921060000 +0000" channel="FoxLeague.au">
-    <title lang="en">Finals Footy on Fox</title>
-    <desc lang="en">Finals Footy on Fox.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
+  <programme start="20260925230000 +0000" stop="20260925233000 +0000" channel="FoxCricket.au">
+    <title lang="en">CPL: ELIM Tridents v Kingsmen</title>
+    <sub-title lang="en">ELIM Tridents v Kingsmen</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ojztt.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921060000 +0000" stop="20260921070000 +0000" channel="FoxLeague.au">
-    <title lang="en">Finals Footy with Matty Johns</title>
-    <sub-title lang="en">Finals Footy with Matty Johns</sub-title>
-    <desc lang="en">Finals Footy with Matty Johns.</desc>
-    <date>2026</date>
+  <programme start="20260925233000 +0000" stop="20260926000000 +0000" channel="FoxCricket.au">
+    <title lang="en">CPL: Q1 Falcons v Amazon Warriors</title>
+    <sub-title lang="en">Q1 Falcons v Amazon Warriors</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ojztt.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="FoxCricket.au">
+    <title lang="en">CPL: Qualifier 2 GAW v JAK</title>
+    <sub-title lang="en">Qualifier 2 GAW v JAK</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ojztt.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="FoxCricket.au">
+    <title lang="en">CPL: Final</title>
+    <sub-title lang="en">Final</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ojztt.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="FoxCricket.au">
+    <title lang="en">ODI: South Africa v Australia</title>
+    <sub-title lang="en">South Africa v Australia</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="FoxCricket.au">
+    <title lang="en">Test Classic: 2007/08 2nd Test</title>
+    <sub-title lang="en">2007/08 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="FoxCricket.au">
+    <title lang="en">ODI: South Africa v Australia</title>
+    <sub-title lang="en">South Africa v Australia</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="FoxCricket.au">
+    <title lang="en">CPL: ELIM Tridents v Kingsmen</title>
+    <sub-title lang="en">ELIM Tridents v Kingsmen</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ojztt.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="FoxCricket.au">
+    <title lang="en">CPL: Q1 Falcons v Amazon Warriors</title>
+    <sub-title lang="en">Q1 Falcons v Amazon Warriors</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ojztt.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="FoxCricket.au">
+    <title lang="en">CPL: Qualifier 2 GAW v JAK</title>
+    <sub-title lang="en">Qualifier 2 GAW v JAK</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ojztt.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="FoxCricket.au">
+    <title lang="en">CPL: Final</title>
+    <sub-title lang="en">Final</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ojztt.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926060000 +0000" stop="20260926070000 +0000" channel="FoxCricket.au">
+    <title lang="en">Keepin It Cricket</title>
+    <desc lang="en">The guys discuss all the latest news in the world of cricket.</desc>
+    <date>2018</date>
     <category lang="en">Sport</category>
-    <category lang="en">Rugby League</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926070000 +0000" stop="20260926080000 +0000" channel="FoxCricket.au">
+    <title lang="en">ODI: 1999 AUS v ENG 1st FNL</title>
+    <sub-title lang="en">1999 AUS v ENG 1st FNL</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926080000 +0000" stop="20260926090000 +0000" channel="FoxCricket.au">
+    <title lang="en">ODI Thrillers: 2002/03 AUS v ENG Game 7</title>
+    <sub-title lang="en">2002/03 AUS v ENG Game 7</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926100000 +0000" channel="FoxCricket.au">
+    <title lang="en">ODI: 2002/03 AUS v ENG 1st Final</title>
+    <sub-title lang="en">2002/03 AUS v ENG 1st Final</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926110000 +0000" channel="FoxCricket.au">
+    <title lang="en">ODI Thrillers: 2002/03 AUS v ENG 2nd FNL</title>
+    <sub-title lang="en">2002/03 AUS v ENG 2nd FNL</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926120000 +0000" channel="FoxCricket.au">
+    <title lang="en">FOX CRICKET CLASSICS DOMESTIC TEST: 201</title>
+    <sub-title lang="en">2014 AUS v ENG Game 2</sub-title>
+    <desc lang="en">FOX CRICKET CLASSICS DOMESTIC TEST.</desc>
+    <date>2018</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
     <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921070000 +0000" stop="20260921080000 +0000" channel="FoxLeague.au">
-    <title lang="en">Live: The Run Home with Fletch and Scop</title>
-    <sub-title lang="en">The Run Home with Scope and Fletch</sub-title>
-    <desc lang="en">The Run Home with Fletch and Scope.</desc>
-    <date>2026</date>
+  <programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="FoxCricket.au">
+    <title lang="en">ODI: South Africa v Australia</title>
+    <sub-title lang="en">South Africa v Australia</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="FoxCricket.au">
+    <title lang="en">Keepin It Cricket</title>
+    <desc lang="en">The guys discuss all the latest news in the world of cricket.</desc>
+    <date>2018</date>
     <category lang="en">Sport</category>
-    <category lang="en">Rugby League</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921080000 +0000" stop="20260921083000 +0000" channel="FoxLeague.au">
-    <title lang="en">Live: NRL Tonight</title>
-    <sub-title lang="en">NRL Tonight</sub-title>
-    <desc lang="en">NRL Tonight.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby League</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921083000 +0000" stop="20260921093000 +0000" channel="FoxLeague.au">
-    <title lang="en">Live: NRL 360</title>
-    <sub-title lang="en">NRL 360</sub-title>
-    <desc lang="en">NRL 360.</desc>
-    <credits>
-      <actor>Paul Kent</actor>
-      <actor>Ben Ikin</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby League</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921093000 +0000" stop="20260921100000 +0000" channel="FoxLeague.au">
-    <title lang="en">Matty &amp; Cronk</title>
-    <sub-title lang="en">Matty &amp; Cronk</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hapgph.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921100000 +0000" stop="20260921110000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">NRL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkgwql.jpg" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921110000 +0000" stop="20260921113000 +0000" channel="FoxLeague.au">
-    <title lang="en">Matty &amp; Cronk</title>
-    <sub-title lang="en">Matty &amp; Cronk</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hapgph.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921113000 +0000" stop="20260921123000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">NRL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkgwql.jpg" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921123000 +0000" stop="20260921130000 +0000" channel="FoxLeague.au">
-    <title lang="en">Matty &amp; Cronk</title>
-    <sub-title lang="en">Matty &amp; Cronk</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hapgph.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921130000 +0000" stop="20260921140000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">NRL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkgwql.jpg" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921140000 +0000" stop="20260921143000 +0000" channel="FoxLeague.au">
-    <title lang="en">Matty &amp; Cronk</title>
-    <sub-title lang="en">Matty &amp; Cronk</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hapgph.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921143000 +0000" stop="20260921153000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">NRL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkgwql.jpg" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921153000 +0000" stop="20260921160000 +0000" channel="FoxLeague.au">
-    <title lang="en">Matty &amp; Cronk</title>
-    <sub-title lang="en">Matty &amp; Cronk</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hapgph.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921160000 +0000" stop="20260921170000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Rabbitohs v Knights EF</title>
-    <sub-title lang="en">Rabbitohs v Knights EF</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/zewlif.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921170000 +0000" stop="20260921180000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Warriors v Dolphins QF</title>
-    <sub-title lang="en">Warriors v Dolphins QF</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/lohfjy.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921180000 +0000" stop="20260921190000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Sharks v Cowboys EF</title>
-    <sub-title lang="en">Sharks v Cowboys EF</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/n9whpj.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921190000 +0000" stop="20260921200000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Panthers v Roosters QF</title>
-    <sub-title lang="en">Panthers v Roosters QF</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/u2nd4e.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260921210000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Roosters v Sharks Semi Final</title>
-    <sub-title lang="en">Roosters v Sharks Semi Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4b1zgt.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921210000 +0000" stop="20260921220000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">NRL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkgwql.jpg" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921220000 +0000" stop="20260921223000 +0000" channel="FoxLeague.au">
-    <title lang="en">Matty &amp; Cronk</title>
-    <sub-title lang="en">Matty &amp; Cronk</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hapgph.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921223000 +0000" stop="20260921233000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">NRL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkgwql.jpg" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921233000 +0000" stop="20260922000000 +0000" channel="FoxLeague.au">
-    <title lang="en">League Lounge</title>
-    <sub-title lang="en">League Lounge</sub-title>
-    <desc lang="en">League Lounge.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Rugby League</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/vb72js.png" />
-    <country lang="en">Australia</country>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
+    <episode-num system="onscreen">E4</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -6902,23 +6607,27 @@
     </rating>
   </programme>
   <programme start="20260924223000 +0000" stop="20260924225000 +0000" channel="FoxLeague.au">
-    <title lang="en">FOX MINI 2023 NRL: RND1 DOL v SYD</title>
+    <title lang="en">NRL Mini: RND1 DOL v SYD</title>
     <sub-title lang="en">RND1 DOL v SYD</sub-title>
-    <desc lang="en">FOX MINI 2023 NRL.</desc>
+    <desc lang="en">NRL Mini.</desc>
     <date>2023</date>
     <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <category lang="en">Rugby League</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png" />
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
   <programme start="20260924225000 +0000" stop="20260924231000 +0000" channel="FoxLeague.au">
-    <title lang="en">FOX MINI 2024 NRL: RND22 DOL v SYD</title>
+    <title lang="en">NRL Mini: RND22 DOL v SYD</title>
     <sub-title lang="en">RND22 DOL v SYD</sub-title>
     <desc lang="en">The Roosters make their first trip to Perth since 1995 for this Dolphins home game. Can Wayne Bennett's team regain form to restore their top 8 pursuit?</desc>
     <date>2024</date>
     <category lang="en">Sport</category>
     <category lang="en">Rugby League</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/il7tej.png" />
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -6993,12 +6702,14 @@
     </rating>
   </programme>
   <programme start="20260925034000 +0000" stop="20260925040000 +0000" channel="FoxLeague.au">
-    <title lang="en">FOX MINI 2025 NRL: Round 9 SYD V DOL</title>
+    <title lang="en">NRL Mini: Round 9 SYD V DOL</title>
     <sub-title lang="en">Round 9 SYD V DOL</sub-title>
     <desc lang="en">The Dolphins look to maintain their perfect record at Magic Round when they take on the Roosters who struck form on ANZAC Day.</desc>
     <date>2025</date>
     <category lang="en">Sport</category>
     <category lang="en">Rugby League</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/l7u22p.png" />
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -7143,252 +6854,606 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925140000 +0000" stop="20260925180000 +0000" channel="FoxLeague.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260925180000 +0000" stop="20260925200000 +0000" channel="FoxLeague.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260925200000 +0000" stop="20260925220000 +0000" channel="FoxLeague.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260925220000 +0000" stop="20260926000000 +0000" channel="FoxLeague.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="FoxLeague.au">
-    <title lang="en">Live: Saturday League Kick Off</title>
-    <sub-title lang="en">Saturday League Kick Off</sub-title>
-    <desc lang="en">Denan Kemp &amp; Chad Townsend recap all the action so far &amp; preview the rest of the upcoming round.</desc>
+  <programme start="20260925140000 +0000" stop="20260925150000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL Friday Night Footy</title>
+    <sub-title lang="en">Finals Footy on Fox - 25/09 Post Game</sub-title>
+    <desc lang="en">NRL Friday Night Footy.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Rugby League</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1qa1qd.png" />
     <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260926020000 +0000" stop="20260926060000 +0000" channel="FoxLeague.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
+  <programme start="20260925150000 +0000" stop="20260925160000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">NRL</sub-title>
+    <desc lang="en">NRL.</desc>
     <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925160000 +0000" stop="20260925171000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL Friday Night Footy</title>
+    <sub-title lang="en">Finals Footy on Fox - 25/09 Post Game</sub-title>
+    <desc lang="en">NRL Friday Night Footy.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925171000 +0000" stop="20260925173000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">NRL</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925173000 +0000" stop="20260925183000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL Friday Night Footy</title>
+    <sub-title lang="en">Finals Footy on Fox - 25/09 Post Game</sub-title>
+    <desc lang="en">NRL Friday Night Footy.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925183000 +0000" stop="20260925213000 +0000" channel="FoxLeague.au">
+    <title lang="en">Live: ESL: Leeds v Warrington</title>
+    <sub-title lang="en">Leeds v Warrington</sub-title>
+    <desc lang="en">English Super League.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">United Kingdom</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925213000 +0000" stop="20260925223000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL Friday Night Footy</title>
+    <sub-title lang="en">Finals Footy on Fox - 25/09 Post Game</sub-title>
+    <desc lang="en">NRL Friday Night Footy.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925223000 +0000" stop="20260925230000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRLW on Fox</title>
+    <sub-title lang="en">NRLW on Fox</sub-title>
+    <desc lang="en">NRLW on Fox.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/yvln15.png" />
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925230000 +0000" stop="20260926000000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">NRL</sub-title>
+    <desc lang="en">NRL.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926021000 +0000" channel="FoxLeague.au">
+    <title lang="en">Live: Saturday League Kick Off: Saturda</title>
+    <sub-title lang="en">Saturday League Kick Off</sub-title>
+    <desc lang="en">Saturday League Kick Off.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926021000 +0000" stop="20260926023000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">NRL</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRLW on Fox</title>
+    <sub-title lang="en">NRLW on Fox</sub-title>
+    <desc lang="en">NRLW on Fox.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/yvln15.png" />
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">NRL</sub-title>
+    <desc lang="en">NRL.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926040000 +0000" stop="20260926054500 +0000" channel="FoxLeague.au">
+    <title lang="en">Live: BMD Premiership: Burleigh v South</title>
+    <sub-title lang="en">Burleigh v Souths Logan</sub-title>
+    <desc lang="en">BMD Premiership.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926054500 +0000" stop="20260926061000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260926060000 +0000" stop="20260926093000 +0000" channel="FoxLeague.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
+  <programme start="20260926061000 +0000" stop="20260926081500 +0000" channel="FoxLeague.au">
+    <title lang="en">Live: QLD Cup: Sunshine Coast v Redclif</title>
+    <sub-title lang="en">Sunshine Coast v Redcliffe</sub-title>
+    <desc lang="en">QLD Cup.</desc>
     <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926081500 +0000" stop="20260926084000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL Mini: RND7 NEW v PEN</title>
+    <sub-title lang="en">RND7 NEW v PEN</sub-title>
+    <desc lang="en">NRL Mini.</desc>
+    <date>2023</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926084000 +0000" stop="20260926090000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">NRL</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926095000 +0000" channel="FoxLeague.au">
+    <title lang="en">Live: NRL Friday Night Footy</title>
+    <sub-title lang="en">Finals Footy on Fox - 26/09</sub-title>
+    <desc lang="en">NRL Friday Night Footy.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926095000 +0000" stop="20260926113000 +0000" channel="FoxLeague.au">
+    <title lang="en">Live: NRLW: Sydney Roosters Women v Can</title>
+    <sub-title lang="en">Sydney Roosters Women v Canberra Women</sub-title>
+    <desc lang="en">NRLW.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926113000 +0000" stop="20260926114500 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260926093000 +0000" stop="20260926140000 +0000" channel="FoxLeague.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
+  <programme start="20260926114500 +0000" stop="20260926121500 +0000" channel="FoxLeague.au">
+    <title lang="en">Best of Fletch and Hindy</title>
+    <desc lang="en">Best of Fletch and Hindy.</desc>
     <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7vfkr.png" />
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926121500 +0000" stop="20260926131500 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">NRL</sub-title>
+    <desc lang="en">NRL.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926131500 +0000" stop="20260926133500 +0000" channel="FoxLeague.au">
+    <title lang="en">NRLW: Sydney Roosters Women v Canberra</title>
+    <sub-title lang="en">Sydney Roosters Women v Canberra Women</sub-title>
+    <desc lang="en">NRLW.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926133500 +0000" stop="20260926135500 +0000" channel="FoxLeague.au">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">NRL</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926135500 +0000" stop="20260926140000 +0000" channel="FoxLeague.au">
+    <title lang="en">NRLW: Sydney Roosters Women v Canberra</title>
+    <sub-title lang="en">Sydney Roosters Women v Canberra Women</sub-title>
+    <desc lang="en">NRLW.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926210000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260926140000 +0000" stop="20260926180000 +0000" channel="FoxLeague.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
-    <date>2026</date>
+  <programme start="20260926210000 +0000" stop="20260926212000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260926180000 +0000" stop="20260926200000 +0000" channel="FoxLeague.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
-    <date>2026</date>
+  <programme start="20260926212000 +0000" stop="20260926222000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260926200000 +0000" stop="20260926220000 +0000" channel="FoxLeague.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
-    <date>2026</date>
+  <programme start="20260926222000 +0000" stop="20260926232000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260926220000 +0000" stop="20260927020000 +0000" channel="FoxLeague.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
-    <date>2026</date>
+  <programme start="20260926232000 +0000" stop="20260926234000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921010000 +0000" stop="20260921030000 +0000" channel="FoxSports503.au">
-    <title lang="en">2024 Presidents Cup Final Day</title>
-    <sub-title lang="en">Final Day</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pgrd1l.png" />
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921030000 +0000" stop="20260921050000 +0000" channel="FoxSports503.au">
-    <title lang="en">1998 Presidents Cup Final Day</title>
-    <sub-title lang="en">1998 Final Day</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921050000 +0000" stop="20260921070000 +0000" channel="FoxSports503.au">
-    <title lang="en">2000 Presidents Cup Final Day</title>
-    <sub-title lang="en">2000 Final Day</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921070000 +0000" stop="20260921090000 +0000" channel="FoxSports503.au">
-    <title lang="en">2003 Presidents Cup Final Day</title>
-    <sub-title lang="en">2003 Final Day</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921090000 +0000" stop="20260921100000 +0000" channel="FoxSports503.au">
-    <title lang="en">Road to the Presidents Cup</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8mjpg4.png" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921100000 +0000" stop="20260921110000 +0000" channel="FoxSports503.au">
-    <title lang="en">Presidents Cup Official Film 2024</title>
-    <sub-title lang="en">2024</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921110000 +0000" stop="20260921120000 +0000" channel="FoxSports503.au">
-    <title lang="en">Presidents Cup Official Film 2009</title>
-    <sub-title lang="en">2009</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921120000 +0000" stop="20260921140000 +0000" channel="FoxSports503.au">
-    <title lang="en">2011 Presidents Cup Final Day</title>
-    <sub-title lang="en">2011 Final Day</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921140000 +0000" stop="20260921160000 +0000" channel="FoxSports503.au">
-    <title lang="en">2013 Presidents Cup Final Day</title>
-    <sub-title lang="en">2013 Final Day</sub-title>
-    <desc lang="en">Relive the intensity and excitement of the 2013 Presidents Cup at the Muirfield Village Golf Club in Dublin, Ohio.</desc>
-    <date>2022</date>
+  <programme start="20260926234000 +0000" stop="20260927000000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
     <category lang="en">Sport</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921160000 +0000" stop="20260921180000 +0000" channel="FoxSports503.au">
-    <title lang="en">2015 Presidents Cup Final Day</title>
-    <sub-title lang="en">2015 Final Day</sub-title>
-    <desc lang="en">Relive the intensity and excitement of the 2015 Presidents Cup at the Jack Nicklaus Golf Club Korea in Incheon, South Korea.</desc>
-    <date>2022</date>
+  <programme start="20260927000000 +0000" stop="20260927002000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
     <category lang="en">Sport</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921180000 +0000" stop="20260921200000 +0000" channel="FoxSports503.au">
-    <title lang="en">2017 Presidents Cup Final Day</title>
-    <sub-title lang="en">2017 Final Day</sub-title>
-    <desc lang="en">Relive the intensity and excitement of the 2017 Presidents Cup at the Liberty National Golf Club in Jersey City, New Jersey.</desc>
-    <date>2022</date>
+  <programme start="20260927002000 +0000" stop="20260927012000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
     <category lang="en">Sport</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260921220000 +0000" channel="FoxSports503.au">
-    <title lang="en">2019 Presidents Cup Final Day</title>
-    <sub-title lang="en">2019 Final Day</sub-title>
-    <desc lang="en">Relive the intensity and excitement of the 2019 Presidents Cup at the Royal Melbourne Golf Club in Melbourne, Victoria.</desc>
-    <date>2022</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Golf</category>
+  <programme start="20260927012000 +0000" stop="20260927015000 +0000" channel="FoxLeague.au">
+    <title lang="en">Face to Face on Fox: Justin Hodges Part</title>
+    <sub-title lang="en">Justin Hodges Part 1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v6djcs.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921220000 +0000" stop="20260922000000 +0000" channel="FoxSports503.au">
-    <title lang="en">2022 Presidents Cup Final Day</title>
-    <sub-title lang="en">Final Day</sub-title>
-    <desc lang="en">The final day will see players go head-to-head in competition as they look to swing the PresidentaEURs Cup for their team.</desc>
-    <date>2022</date>
+  <programme start="20260927015000 +0000" stop="20260927022000 +0000" channel="FoxLeague.au">
+    <title lang="en">The Fan</title>
+    <sub-title lang="en">The Fan</sub-title>
+    <desc lang="en">Hosted by Andrew Voss and Lara Pitt, the players tell their stories as we celebrate the game from the big moments to the bizarre and everything in between.</desc>
+    <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v7s1jt.png" />
-    <country lang="en">Canada</country>
+    <category lang="en">Rugby League</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ybm3pu.png" />
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927022000 +0000" stop="20260927023000 +0000" channel="FoxLeague.au">
+    <title lang="en">Get 'Em Onside</title>
+    <sub-title lang="en">Finals Week 3</sub-title>
+    <desc lang="en">Get 'Em Onside.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/htnp63.jpeg" />
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927023000 +0000" stop="20260927031500 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927031500 +0000" stop="20260927050000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927053500 +0000" channel="FoxLeague.au">
+    <title lang="en">Live: NRL Sunday Ticket</title>
+    <sub-title lang="en">Finals Footy on Fox</sub-title>
+    <desc lang="en">NRL Sunday Ticket.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927053500 +0000" stop="20260927080000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927080000 +0000" stop="20260927090000 +0000" channel="FoxLeague.au">
+    <title lang="en">Live: Finals Footy with Matty Johns: Fi</title>
+    <sub-title lang="en">Finals Footy with Matty Johns</sub-title>
+    <desc lang="en">Finals Footy with Matty Johns.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927092000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927092000 +0000" stop="20260927102000 +0000" channel="FoxLeague.au">
+    <title lang="en">Finals Footy with Matty Johns: Finals F</title>
+    <sub-title lang="en">Finals Footy with Matty Johns</sub-title>
+    <desc lang="en">Finals Footy with Matty Johns.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927102000 +0000" stop="20260927114000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927114000 +0000" stop="20260927130000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927141500 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927141500 +0000" stop="20260927151500 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927151500 +0000" stop="20260927161500 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927161500 +0000" stop="20260927171500 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927171500 +0000" stop="20260927181500 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927181500 +0000" stop="20260927191500 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927191500 +0000" stop="20260927205500 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927205500 +0000" stop="20260927215500 +0000" channel="FoxLeague.au">
+    <title lang="en">Finals Footy with Matty Johns: Finals F</title>
+    <sub-title lang="en">Finals Footy with Matty Johns</sub-title>
+    <desc lang="en">Finals Footy with Matty Johns.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Rugby League</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927215500 +0000" stop="20260927225500 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927225500 +0000" stop="20260928000000 +0000" channel="FoxLeague.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -7781,14 +7846,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260924133000 +0000" stop="20260924140000 +0000" channel="FoxSports503.au">
-    <title lang="en">Presidents Cup Official Film 2024</title>
-    <sub-title lang="en">2024</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260924140000 +0000" stop="20260924143000 +0000" channel="FoxSports503.au">
+  <programme start="20260924133000 +0000" stop="20260924143000 +0000" channel="FoxSports503.au">
     <title lang="en">Presidents Cup Official Film 2024</title>
     <sub-title lang="en">2024</sub-title>
     <rating system="AU">
@@ -7806,10 +7864,10 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260924160000 +0000" stop="20260924230000 +0000" channel="FoxSports503.au">
-    <title lang="en">Live: From The President's Cup: Day 1</title>
-    <sub-title lang="en">Day 1</sub-title>
-    <desc lang="en">Live From The President's Cup.</desc>
+  <programme start="20260924160000 +0000" stop="20260924163000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live: The Presidents Cup  (SHOW): Openi</title>
+    <sub-title lang="en">Opening Ceremony</sub-title>
+    <desc lang="en">The Presidents Cup  (SHOW).</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Golf</category>
@@ -7817,22 +7875,34 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260924230000 +0000" stop="20260925010000 +0000" channel="FoxSports503.au">
-    <title lang="en">No Program Information Available</title>
-    <sub-title lang="en">No Program Information Available</sub-title>
-    <desc lang="en">No Program Information Available.</desc>
+  <programme start="20260924163000 +0000" stop="20260924230000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live: Presidents Cup: Day 1</title>
+    <sub-title lang="en">Day 1</sub-title>
+    <desc lang="en">Presidents Cup.</desc>
+    <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/a2mx8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260924230000 +0000" stop="20260925010000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live: From The President's Cup: Day 1</title>
+    <sub-title lang="en">Day 1</sub-title>
+    <desc lang="en">Live From The President's Cup.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
   <programme start="20260925010000 +0000" stop="20260925011500 +0000" channel="FoxSports503.au">
-    <title lang="en">No Program Information Available</title>
-    <sub-title lang="en">No Program Information Available</sub-title>
-    <desc lang="en">No Program Information Available.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <title lang="en">Live From The President's Cup: Day 1</title>
+    <sub-title lang="en">Day 1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -7852,11 +7922,9 @@
     </rating>
   </programme>
   <programme start="20260925044500 +0000" stop="20260925050000 +0000" channel="FoxSports503.au">
-    <title lang="en">No Program Information Available</title>
-    <sub-title lang="en">No Program Information Available</sub-title>
-    <desc lang="en">No Program Information Available.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <title lang="en">Live From The President's Cup: Day 1</title>
+    <sub-title lang="en">Day 1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -7907,248 +7975,254 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921000000 +0000" stop="20260921001500 +0000" channel="FoxFooty.au">
-    <title lang="en">AFLW Mini: RND6 STK v WC</title>
-    <sub-title lang="en">RND6 STK v WC</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cclxd.png" />
+  <programme start="20260925143000 +0000" stop="20260925163000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Day 1</title>
+    <sub-title lang="en">Day 1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921001500 +0000" stop="20260921003000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFLW: Brisbane Lions Women v Adelaide C</title>
-    <sub-title lang="en">Brisbane Lions Women v Adelaide Crows Women</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cclxd.png" />
+  <programme start="20260925163000 +0000" stop="20260925180000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Wednesday</title>
+    <sub-title lang="en">Wednesday</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921003000 +0000" stop="20260921004500 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: PF HAW v BRI</title>
-    <sub-title lang="en">PF HAW v BRI</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png" />
+  <programme start="20260925180000 +0000" stop="20260925230000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live: From The President's Cup: Day 2</title>
+    <sub-title lang="en">Day 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921004500 +0000" stop="20260921010000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: PF: Sydney v Fremantle</title>
-    <sub-title lang="en">PF: Sydney v Fremantle</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
+  <programme start="20260925230000 +0000" stop="20260926010000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live: From The President's Cup: Day 2</title>
+    <sub-title lang="en">Day 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921010000 +0000" stop="20260921011500 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: PF HAW v BRI</title>
-    <sub-title lang="en">PF HAW v BRI</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png" />
+  <programme start="20260926010000 +0000" stop="20260926011500 +0000" channel="FoxSports503.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921011500 +0000" stop="20260921034500 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL: PF: Sydney v Fremantle</title>
-    <sub-title lang="en">PF: Sydney v Fremantle</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png" />
+  <programme start="20260926011500 +0000" stop="20260926031500 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Day 2</title>
+    <sub-title lang="en">Day 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921034500 +0000" stop="20260921041500 +0000" channel="FoxFooty.au">
-    <title lang="en">The W Debrief</title>
-    <sub-title lang="en">The W Debrief</sub-title>
-    <desc lang="en">The W Debrief.</desc>
+  <programme start="20260926031500 +0000" stop="20260926044500 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Day 2</title>
+    <sub-title lang="en">Day 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926044500 +0000" stop="20260926050000 +0000" channel="FoxSports503.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926070000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Day 2</title>
+    <sub-title lang="en">Day 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926070000 +0000" stop="20260926084000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Day 2</title>
+    <sub-title lang="en">Day 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926084000 +0000" stop="20260926090000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Day 2</title>
+    <sub-title lang="en">Day 2</sub-title>
+    <desc lang="en">Live From The President's Cup.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">AFL</category>
-    <country lang="en">Australia</country>
+    <category lang="en">Golf</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921041500 +0000" stop="20260921064500 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL: PF: Hawthorn v Brisbane</title>
-    <sub-title lang="en">PF: Hawthorn v Brisbane</sub-title>
-    <desc lang="en">Hawthorn and Brisbane meet for the very first time in a final, and the Fox Footy team will be right there with the best analysis and entertainment from the MCG.</desc>
+  <programme start="20260926090000 +0000" stop="20260926091500 +0000" channel="FoxSports503.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926091500 +0000" stop="20260926112000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Day 2</title>
+    <sub-title lang="en">Day 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926112000 +0000" stop="20260926114000 +0000" channel="FoxSports503.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926114000 +0000" stop="20260926120000 +0000" channel="FoxSports503.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926120000 +0000" stop="20260926230000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live: From The President's Cup: Day 3</title>
+    <sub-title lang="en">Day 3</sub-title>
+    <desc lang="en">Live From The President's Cup.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">AFL</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png" />
-    <country lang="en">Australia</country>
+    <category lang="en">Golf</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cfqqp.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921064500 +0000" stop="20260921070100 +0000" channel="FoxFooty.au">
-    <title lang="en">In The Back Pocket: Finals Week 3</title>
-    <sub-title lang="en">Finals Week 3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qlh5mb.jpg" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921070100 +0000" stop="20260921080000 +0000" channel="FoxFooty.au">
-    <title lang="en">Live: Sportsday: Sportsday</title>
-    <sub-title lang="en">Sportsday</sub-title>
-    <desc lang="en">Sportsday.</desc>
+  <programme start="20260926230000 +0000" stop="20260927010000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live: Presidents Cup: Day 3</title>
+    <sub-title lang="en">Day 3</sub-title>
+    <desc lang="en">Presidents Cup.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">AFL</category>
+    <category lang="en">Golf</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921080000 +0000" stop="20260921090000 +0000" channel="FoxFooty.au">
-    <title lang="en">Live: AFL 360: AFL 360</title>
-    <sub-title lang="en">AFL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/j3vp3s.png" />
+  <programme start="20260927010000 +0000" stop="20260927011500 +0000" channel="FoxSports503.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921090000 +0000" stop="20260921100000 +0000" channel="FoxFooty.au">
-    <title lang="en">Live: AFL On The Couch: On The Couch</title>
-    <sub-title lang="en">On The Couch</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/knejaw.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921100000 +0000" stop="20260921110000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">AFL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/n8py45.png" />
-    <episode-num system="onscreen">E88</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921110000 +0000" stop="20260921120000 +0000" channel="FoxFooty.au">
-    <title lang="en">On The Couch</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/knejaw.png" />
-    <episode-num system="onscreen">E30</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921120000 +0000" stop="20260921130000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">AFL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/n8py45.png" />
-    <episode-num system="onscreen">E88</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921130000 +0000" stop="20260921140000 +0000" channel="FoxFooty.au">
-    <title lang="en">On The Couch</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/knejaw.png" />
-    <episode-num system="onscreen">E30</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921140000 +0000" stop="20260921150000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">AFL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/n8py45.png" />
-    <episode-num system="onscreen">E88</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921150000 +0000" stop="20260921160000 +0000" channel="FoxFooty.au">
-    <title lang="en">On The Couch</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/knejaw.png" />
-    <episode-num system="onscreen">E30</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921160000 +0000" stop="20260921170000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">AFL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/n8py45.png" />
-    <episode-num system="onscreen">E88</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921170000 +0000" stop="20260921180000 +0000" channel="FoxFooty.au">
-    <title lang="en">On The Couch</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/knejaw.png" />
-    <episode-num system="onscreen">E30</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921180000 +0000" stop="20260921190000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">AFL 360</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/n8py45.png" />
-    <episode-num system="onscreen">E88</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921190000 +0000" stop="20260921200000 +0000" channel="FoxFooty.au">
-    <title lang="en">On The Couch</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/knejaw.png" />
-    <episode-num system="onscreen">E30</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260921201500 +0000" channel="FoxFooty.au">
-    <title lang="en">AFLW Mini: RND6 STK v WC</title>
-    <sub-title lang="en">RND6 STK v WC</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cclxd.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921201500 +0000" stop="20260921203000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFLW: Brisbane Lions Women v Adelaide C</title>
-    <sub-title lang="en">Brisbane Lions Women v Adelaide Crows Women</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cclxd.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921203000 +0000" stop="20260921230000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL: PF: Hawthorn v Brisbane</title>
-    <sub-title lang="en">PF: Hawthorn v Brisbane</sub-title>
-    <desc lang="en">Hawthorn and Brisbane meet for the very first time in a final, and the Fox Footy team will be right there with the best analysis and entertainment from the MCG.</desc>
+  <programme start="20260927011500 +0000" stop="20260927031500 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Day 3</title>
+    <sub-title lang="en">Day 3</sub-title>
+    <desc lang="en">Live From The President's Cup.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">AFL</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png" />
-    <country lang="en">Australia</country>
+    <category lang="en">Golf</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921230000 +0000" stop="20260921232000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: PF: Sydney v Fremantle</title>
-    <sub-title lang="en">PF: Sydney v Fremantle</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
+  <programme start="20260927031500 +0000" stop="20260927044500 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Day 3</title>
+    <sub-title lang="en">Day 3</sub-title>
+    <desc lang="en">Live From The President's Cup.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Golf</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921232000 +0000" stop="20260921234000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: PF HAW v BRI</title>
-    <sub-title lang="en">PF HAW v BRI</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png" />
+  <programme start="20260927044500 +0000" stop="20260927050000 +0000" channel="FoxSports503.au">
+    <title lang="en">No Program Information Available</title>
+    <sub-title lang="en">No Program Information Available</sub-title>
+    <desc lang="en">No Program Information Available.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921234000 +0000" stop="20260922000000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: PF: Sydney v Fremantle</title>
-    <sub-title lang="en">PF: Sydney v Fremantle</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
+  <programme start="20260927050000 +0000" stop="20260927071000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Day 3</title>
+    <sub-title lang="en">Day 3</sub-title>
+    <desc lang="en">Live From The President's Cup.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Golf</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927071000 +0000" stop="20260927073000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live From The President's Cup: Day 3</title>
+    <sub-title lang="en">Day 3</sub-title>
+    <desc lang="en">Live From The President's Cup.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Golf</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927073000 +0000" stop="20260927080000 +0000" channel="FoxSports503.au">
+    <title lang="en">Getting A Round In</title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/63qq50.png" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927080000 +0000" stop="20260927133000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live: Inoue vs. Nasukawa: Takuya Inoue</title>
+    <sub-title lang="en">Takuya Inoue  v . Tenshin Nasukawa</sub-title>
+    <desc lang="en">Tokyo plays host to a scintillating rematch at bantamweight, as WBC champion Inoue takes on Nasukawa.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Boxing &amp; Wrestling</category>
+    <country lang="en">Japan</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927133000 +0000" stop="20260927153000 +0000" channel="FoxSports503.au">
+    <title lang="en">Live: Golf: French Open Final Round</title>
+    <sub-title lang="en">French Open Final Round</sub-title>
+    <desc lang="en">DP World Tour.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Golf</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -8400,22 +8474,26 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260922230000 +0000" stop="20260922233000 +0000" channel="FoxFooty.au">
-    <title lang="en">No Program Information Available</title>
-    <sub-title lang="en">No Program Information Available</sub-title>
-    <desc lang="en">No Program Information Available.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+  <programme start="20260922230000 +0000" stop="20260922232000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL Mini: RND1 FRE v BRI</title>
+    <sub-title lang="en">RND1 FRE v BRI</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/izd92.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260922233000 +0000" stop="20260923000000 +0000" channel="FoxFooty.au">
-    <title lang="en">No Program Information Available</title>
-    <sub-title lang="en">No Program Information Available</sub-title>
-    <desc lang="en">No Program Information Available.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+  <programme start="20260922232000 +0000" stop="20260922234000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL Mini: Round 23 FRE v BRI</title>
+    <sub-title lang="en">Round 23 FRE v BRI</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9ci29.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260922234000 +0000" stop="20260923000000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL Mini: Round 12 BRI v FRE</title>
+    <sub-title lang="en">Round 12 BRI v FRE</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -8489,33 +8567,25 @@
     </rating>
   </programme>
   <programme start="20260923060000 +0000" stop="20260923062000 +0000" channel="FoxFooty.au">
-    <title lang="en">FOX MINI 2024 AFL: RND1 FRE v BRI</title>
+    <title lang="en">AFL Mini: RND1 FRE v BRI</title>
     <sub-title lang="en">RND1 FRE v BRI</sub-title>
-    <desc lang="en">FOX MINI 2024 AFL.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/izd92.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
   <programme start="20260923062000 +0000" stop="20260923064000 +0000" channel="FoxFooty.au">
-    <title lang="en">FOX MINI 2025 AFL: Round 23 FRE v BRI</title>
+    <title lang="en">AFL Mini: Round 23 FRE v BRI</title>
     <sub-title lang="en">Round 23 FRE v BRI</sub-title>
-    <desc lang="en">With the top 8 tighter than ever, itaEURs a must win game for these two sides as they meet in a monster clash, Friday night on Fox.A.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">AFL</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9ci29.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
   <programme start="20260923064000 +0000" stop="20260923070000 +0000" channel="FoxFooty.au">
-    <title lang="en">FOX MINI 2026 AFL: Round 12 BRI v FRE</title>
+    <title lang="en">AFL Mini: Round 12 BRI v FRE</title>
     <sub-title lang="en">Round 12 BRI v FRE</sub-title>
-    <desc lang="en">The vulnerable Lions face a huge test as ladder-leading Fremantle chase an 11th straight win in a blockbuster Super Saturday clash.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -8838,33 +8908,25 @@
     </rating>
   </programme>
   <programme start="20260924054500 +0000" stop="20260924060500 +0000" channel="FoxFooty.au">
-    <title lang="en">FOX MINI 2024 AFL: RND1 FRE v BRI</title>
+    <title lang="en">AFL Mini: RND1 FRE v BRI</title>
     <sub-title lang="en">RND1 FRE v BRI</sub-title>
-    <desc lang="en">FOX MINI 2024 AFL.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/izd92.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
   <programme start="20260924060500 +0000" stop="20260924062500 +0000" channel="FoxFooty.au">
-    <title lang="en">FOX MINI 2025 AFL: Round 23 FRE v BRI</title>
+    <title lang="en">AFL Mini: Round 23 FRE v BRI</title>
     <sub-title lang="en">Round 23 FRE v BRI</sub-title>
-    <desc lang="en">With the top 8 tighter than ever, itaEURs a must win game for these two sides as they meet in a monster clash, Friday night on Fox.A.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">AFL</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9ci29.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
   <programme start="20260924062500 +0000" stop="20260924064500 +0000" channel="FoxFooty.au">
-    <title lang="en">FOX MINI 2026 AFL: Round 12 BRI v FRE</title>
+    <title lang="en">AFL Mini: Round 12 BRI v FRE</title>
     <sub-title lang="en">Round 12 BRI v FRE</sub-title>
-    <desc lang="en">The vulnerable Lions face a huge test as ladder-leading Fremantle chase an 11th straight win in a blockbuster Super Saturday clash.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -9153,164 +9215,206 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921000000 +0000" stop="20260921003000 +0000" channel="FoxSports505.au">
-    <title lang="en">MotoGP: Austria Sprint Race</title>
-    <sub-title lang="en">Austria Sprint Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4xwsnc.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921003000 +0000" stop="20260921023000 +0000" channel="FoxSports505.au">
-    <title lang="en">Darts: World Series Darts Finals Day 4</title>
-    <sub-title lang="en">World Series Darts Finals Day 4 Night Session</sub-title>
-    <desc lang="en">World Series of Darts.</desc>
+  <programme start="20260926150000 +0000" stop="20260926151500 +0000" channel="FoxFooty.au">
+    <title lang="en">AFLW: Carlton v Richmond</title>
+    <sub-title lang="en">Carlton v Richmond</sub-title>
+    <desc lang="en">AFLW.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921023000 +0000" stop="20260921040000 +0000" channel="FoxSports505.au">
-    <title lang="en">SailGP: Geneva Day 1</title>
-    <sub-title lang="en">Geneva Day 1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/62kztr.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921040000 +0000" stop="20260921053000 +0000" channel="FoxSports505.au">
-    <title lang="en">SailGP: Geneva Day 2</title>
-    <sub-title lang="en">Geneva Day 2</sub-title>
-    <desc lang="en">SailGP.</desc>
+  <programme start="20260926151500 +0000" stop="20260926153000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFLW: AFL Women's</title>
+    <sub-title lang="en">AFL Women's</sub-title>
+    <desc lang="en">AFLW.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <country lang="en">United States</country>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921053000 +0000" stop="20260921063000 +0000" channel="FoxSports505.au">
-    <title lang="en">International Brawling Championship</title>
-    <sub-title lang="en">IBC01</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/g1qesf.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921063000 +0000" stop="20260921083000 +0000" channel="FoxSports505.au">
-    <title lang="en">Darts: World Series Darts Finals Day 4</title>
-    <sub-title lang="en">World Series Darts Finals Day 4 Night Session</sub-title>
-    <desc lang="en">World Series of Darts.</desc>
+  <programme start="20260926153000 +0000" stop="20260926180000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL: Fremantle Dockers v Brisbane Lions</title>
+    <sub-title lang="en">Fremantle Dockers v Brisbane Lions</sub-title>
+    <desc lang="en">AFL.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921083000 +0000" stop="20260921093000 +0000" channel="FoxSports505.au">
-    <title lang="en">Golf: USPGA: Biltmore Championship</title>
-    <sub-title lang="en">Biltmore Championship</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s0u7jz.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921093000 +0000" stop="20260921100000 +0000" channel="FoxSports505.au">
-    <title lang="en">Getting A Round In</title>
-    <sub-title lang="en">Carter Gordon</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/63qq50.png" />
-    <episode-num system="onscreen">E9</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921100000 +0000" stop="20260921110000 +0000" channel="FoxSports505.au">
-    <title lang="en">Supercars: The Bend 500</title>
-    <sub-title lang="en">The Bend 500</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xa0137.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921110000 +0000" stop="20260921130000 +0000" channel="FoxSports505.au">
-    <title lang="en">Darts: World Series Darts Finals Day 4</title>
-    <sub-title lang="en">World Series Darts Finals Day 4 Night Session</sub-title>
-    <desc lang="en">World Series of Darts.</desc>
+  <programme start="20260926180000 +0000" stop="20260926182000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL: Fremantle Dockers v Brisbane Lions</title>
+    <sub-title lang="en">Fremantle Dockers v Brisbane Lions</sub-title>
+    <desc lang="en">AFL.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921130000 +0000" stop="20260921140000 +0000" channel="FoxSports505.au">
-    <title lang="en">MotoGP: 2025 Austria Race</title>
-    <sub-title lang="en">Austria Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4xwsnc.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921140000 +0000" stop="20260921153000 +0000" channel="FoxSports505.au">
-    <title lang="en">SailGP: Geneva Day 1</title>
-    <sub-title lang="en">Geneva Day 1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1xyvle.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921153000 +0000" stop="20260921170000 +0000" channel="FoxSports505.au">
-    <title lang="en">SailGP: Geneva Day 2</title>
-    <sub-title lang="en">Geneva Day 2</sub-title>
-    <desc lang="en">Tom Slingsby and the Bonds Flying Roos hold a commanding lead in the overall placing as SailGP heads to Switzerland.</desc>
+  <programme start="20260926182000 +0000" stop="20260926204500 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL: Fremantle Dockers v Brisbane Lions</title>
+    <sub-title lang="en">Fremantle Dockers v Brisbane Lions</sub-title>
+    <desc lang="en">AFL.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <country lang="en">United States</country>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921170000 +0000" stop="20260921203000 +0000" channel="FoxSports505.au">
-    <title lang="en">Live: Ultimate Pool NxtGen</title>
-    <sub-title lang="en">Nxtgen Adult Pairs Group 3</sub-title>
-    <desc lang="en">Ultimate Pool NxtGen Adult Pairs.</desc>
+  <programme start="20260926204500 +0000" stop="20260926211000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL: Fremantle Dockers v Brisbane Lions</title>
+    <sub-title lang="en">Fremantle Dockers v Brisbane Lions</sub-title>
+    <desc lang="en">AFL.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Other</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/u9555o.png" />
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921203000 +0000" stop="20260921220000 +0000" channel="FoxSports505.au">
-    <title lang="en">SailGP: Geneva Day 1</title>
-    <sub-title lang="en">Geneva Day 1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1xyvle.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921220000 +0000" stop="20260921233000 +0000" channel="FoxSports505.au">
-    <title lang="en">SailGP: Geneva Day 2</title>
-    <sub-title lang="en">Geneva Day 2</sub-title>
-    <desc lang="en">Tom Slingsby and the Bonds Flying Roos hold a commanding lead in the overall placing as SailGP heads to Switzerland.</desc>
+  <programme start="20260926211000 +0000" stop="20260926234000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL: Fremantle Dockers v Brisbane Lions</title>
+    <sub-title lang="en">Fremantle Dockers v Brisbane Lions</sub-title>
+    <desc lang="en">AFL.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <country lang="en">United States</country>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921233000 +0000" stop="20260922003100 +0000" channel="FoxSports505.au">
-    <title lang="en">Pro Bull Riders Team Series</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6teblf.png" />
-    <episode-num system="onscreen">E4</episode-num>
+  <programme start="20260926234000 +0000" stop="20260927000000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL: Fremantle Dockers v Brisbane Lions</title>
+    <sub-title lang="en">Fremantle Dockers v Brisbane Lions</sub-title>
+    <desc lang="en">AFL.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927000000 +0000" stop="20260927001500 +0000" channel="FoxFooty.au">
+    <title lang="en">AFLW: Carlton v Richmond</title>
+    <sub-title lang="en">Carlton v Richmond</sub-title>
+    <desc lang="en">AFLW.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927001500 +0000" stop="20260927003000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFLW: AFL Women's</title>
+    <sub-title lang="en">AFL Women's</sub-title>
+    <desc lang="en">AFLW.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927003000 +0000" stop="20260927030000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL: Fremantle Dockers v Brisbane Lions</title>
+    <sub-title lang="en">Fremantle Dockers v Brisbane Lions</sub-title>
+    <desc lang="en">AFL.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927030000 +0000" stop="20260927050000 +0000" channel="FoxFooty.au">
+    <title lang="en">Live: AFLW: AFL Women's</title>
+    <sub-title lang="en">AFL Women's</sub-title>
+    <desc lang="en">AFLW.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="FoxFooty.au">
+    <title lang="en">Live: AFLW: AFL Women's</title>
+    <sub-title lang="en">AFL Women's</sub-title>
+    <desc lang="en">AFLW.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927070000 +0000" stop="20260927090000 +0000" channel="FoxFooty.au">
+    <title lang="en">Live: AFLW: AFL Women's</title>
+    <sub-title lang="en">AFL Women's</sub-title>
+    <desc lang="en">AFLW.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927093000 +0000" channel="FoxFooty.au">
+    <title lang="en">Live: The W Debrief: The W Debrief</title>
+    <sub-title lang="en">The W Debrief</sub-title>
+    <desc lang="en">The W Debrief.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927093000 +0000" stop="20260927120000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL: Fremantle Dockers v Brisbane Lions</title>
+    <sub-title lang="en">Fremantle Dockers v Brisbane Lions</sub-title>
+    <desc lang="en">AFL.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927120000 +0000" stop="20260927143000 +0000" channel="FoxFooty.au">
+    <title lang="en">AFL: Fremantle Dockers v Brisbane Lions</title>
+    <sub-title lang="en">Fremantle Dockers v Brisbane Lions</sub-title>
+    <desc lang="en">AFL.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -9898,18 +10002,30 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925083000 +0000" stop="20260925093000 +0000" channel="FoxSports505.au">
-    <title lang="en">SailGP Highlights: Sail GP Highlights</title>
-    <sub-title lang="en">Sail GP Highlights</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b3vv8.png" />
+  <programme start="20260925083000 +0000" stop="20260925090000 +0000" channel="FoxSports505.au">
+    <title lang="en">Getting A Round In</title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/63qq50.png" />
+    <episode-num system="onscreen">E10</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925093000 +0000" stop="20260925113000 +0000" channel="FoxSports505.au">
-    <title lang="en">Darts: World Series Finals FD NS</title>
-    <sub-title lang="en">Finals FD NS</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6gfnf5.png" />
+  <programme start="20260925090000 +0000" stop="20260925110000 +0000" channel="FoxSports505.au">
+    <title lang="en">Live: AFLW: Melbourne Demons Women v No</title>
+    <sub-title lang="en">Melbourne Demons Women v North Melbourne Kangaroos Women</sub-title>
+    <desc lang="en">AFLW.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925110000 +0000" stop="20260925113000 +0000" channel="FoxSports505.au">
+    <title lang="en">T100 Triathlon World Tour: France</title>
+    <sub-title lang="en">France</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/j3zpu0.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -9925,232 +10041,294 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921000000 +0000" stop="20260921010000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: The Bend 500</title>
-    <sub-title lang="en">The Bend 500</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xa0137.png" />
+  <programme start="20260925163000 +0000" stop="20260925180000 +0000" channel="FoxSports505.au">
+    <title lang="en">SailGP: Geneva Day 1</title>
+    <sub-title lang="en">Geneva Day 1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/64rvf1.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921010000 +0000" stop="20260921015500 +0000" channel="FoxSports506.au">
-    <title lang="en">Porsche Carrera Cup Highlights</title>
-    <sub-title lang="en">Carrera Cup Australia Highlights</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bw3er.png" />
-    <episode-num system="onscreen">E4</episode-num>
+  <programme start="20260925180000 +0000" stop="20260925193000 +0000" channel="FoxSports505.au">
+    <title lang="en">SailGP: Geneva Day 2</title>
+    <sub-title lang="en">Geneva Day 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/62kztr.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921015500 +0000" stop="20260921025000 +0000" channel="FoxSports506.au">
-    <title lang="en">FIM Speedway SGP Highlights</title>
-    <sub-title lang="en">FIM Speedway Grand Prix Highlights</sub-title>
-    <desc lang="en">Bartosz Zmarzlik defends his championship lead, 4 points ahead of Aussie Brady Kurtz in the penultimate round in Denmark.</desc>
+  <programme start="20260925193000 +0000" stop="20260925213000 +0000" channel="FoxSports505.au">
+    <title lang="en">Darts: World Series Finals FD NS</title>
+    <sub-title lang="en">Finals FD NS</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6gfnf5.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925213000 +0000" stop="20260925230000 +0000" channel="FoxSports505.au">
+    <title lang="en">Golf: French Open Round 2</title>
+    <sub-title lang="en">French Open Round 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/l06dzd.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925230000 +0000" stop="20260926000000 +0000" channel="FoxSports505.au">
+    <title lang="en">Pro Bull Riders Team Series</title>
+    <desc lang="en">Pro Bull Riders.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ovvbkl.png" />
-    <country lang="en">United States</country>
+    <category lang="en">Extreme Sports</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6teblf.png" />
+    <episode-num system="onscreen">E6</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921025000 +0000" stop="20260921032000 +0000" channel="FoxSports506.au">
-    <title lang="en">MotoGP: Austria Sprint Race</title>
-    <sub-title lang="en">Austria Sprint Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4xwsnc.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921032000 +0000" stop="20260921034000 +0000" channel="FoxSports506.au">
-    <title lang="en">MotoGP Mini: Austria</title>
-    <sub-title lang="en">Austria MotoGP Race</sub-title>
-    <desc lang="en">Marc Marquez and Jorge Martin renew their fierce title rivalry at Spielberg as Red Bull Ring hosts Round 15 of the MotoGP World Championship.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4xwsnc.png" />
-    <country lang="en">United States</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921034000 +0000" stop="20260921043000 +0000" channel="FoxSports506.au">
-    <title lang="en">FIM Speedway SGP Highlights</title>
-    <sub-title lang="en">FIM Speedway Grand Prix Highlights</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ovvbkl.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921043000 +0000" stop="20260921053000 +0000" channel="FoxSports506.au">
-    <title lang="en">Moto2: Austria Race</title>
-    <sub-title lang="en">Austria Moto2Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9t7qq.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921053000 +0000" stop="20260921060000 +0000" channel="FoxSports506.au">
-    <title lang="en">MotoGP: Austria Sprint</title>
-    <sub-title lang="en">Austria Sprint</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4xwsnc.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921060000 +0000" stop="20260921070000 +0000" channel="FoxSports506.au">
+  <programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="FoxSports505.au">
     <title lang="en">MotoGP: Austria Race</title>
-    <sub-title lang="en">Austria MotoGP Race</sub-title>
+    <sub-title lang="en">Austria Race</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7bjv4r.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921070000 +0000" stop="20260921073000 +0000" channel="FoxSports506.au">
-    <title lang="en">MotoGP After the Flag: Austria</title>
-    <sub-title lang="en">Austria</sub-title>
-    <desc lang="en">MotoGP After the Flag.</desc>
-    <date>2025</date>
+  <programme start="20260926010000 +0000" stop="20260926023000 +0000" channel="FoxSports505.au">
+    <title lang="en">USLPGA: Arkansas Championship Round 1</title>
+    <sub-title lang="en">Arkansas Championship Round 1</sub-title>
+    <desc lang="en">USLPGA.</desc>
+    <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">News &amp; Variety</category>
+    <category lang="en">Golf</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921073000 +0000" stop="20260921083000 +0000" channel="FoxSports506.au">
-    <title lang="en">Motorsport: Shannons SpeedSeries</title>
-    <sub-title lang="en">Shannons Series</sub-title>
-    <desc lang="en">Shannons SpeedSeries.</desc>
+  <programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="FoxSports505.au">
+    <title lang="en">Inside Sailing</title>
+    <desc lang="en">Inside Sailing.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921083000 +0000" stop="20260921093000 +0000" channel="FoxSports506.au">
-    <title lang="en">NASCAR Cup Series Highlights: Bristol</title>
-    <sub-title lang="en">Bristol</sub-title>
-    <desc lang="en">NASCAR Cup Series Highlights.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">News &amp; Variety</category>
     <country lang="en">United States</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921093000 +0000" stop="20260921100000 +0000" channel="FoxSports506.au">
-    <title lang="en">MotoGP: Austria Sprint</title>
-    <sub-title lang="en">Austria Sprint</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4xwsnc.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921100000 +0000" stop="20260921110000 +0000" channel="FoxSports506.au">
-    <title lang="en">MotoGP: Austria Race</title>
-    <sub-title lang="en">Austria MotoGP Race</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921110000 +0000" stop="20260921113000 +0000" channel="FoxSports506.au">
-    <title lang="en">MotoGP After the Flag: Austria</title>
-    <sub-title lang="en">Austria</sub-title>
-    <desc lang="en">MotoGP After the Flag.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">News &amp; Variety</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921113000 +0000" stop="20260921123000 +0000" channel="FoxSports506.au">
-    <title lang="en">Moto2: Austria Race</title>
-    <sub-title lang="en">Austria Moto2Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9t7qq.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921123000 +0000" stop="20260921143000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: The Bend 500</title>
-    <sub-title lang="en">The Bend 500</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/jhzx2b.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921143000 +0000" stop="20260921153000 +0000" channel="FoxSports506.au">
-    <title lang="en">Golf: USPGA: Biltmore Championship</title>
-    <sub-title lang="en">Biltmore Championship</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s0u7jz.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921153000 +0000" stop="20260921160000 +0000" channel="FoxSports506.au">
-    <title lang="en">Getting A Round In</title>
-    <sub-title lang="en">Carter Gordon</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/63qq50.png" />
     <episode-num system="onscreen">E9</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921160000 +0000" stop="20260921170000 +0000" channel="FoxSports506.au">
-    <title lang="en">NASCAR Auto Parts Highlights</title>
+  <programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="FoxSports505.au">
+    <title lang="en">F1: Azerbaijan Practice 3</title>
+    <sub-title lang="en">Azerbaijan Practice 3</sub-title>
+    <desc lang="en">Drivers head out for the final practice session on the Baku City Circuit ahead of the all-important qualifying.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="FoxSports505.au">
+    <title lang="en">F1: Azerbaijan Qualifying</title>
+    <sub-title lang="en">Azerbaijan Qualifying</sub-title>
+    <desc lang="en">Formula 1.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="FoxSports505.au">
+    <title lang="en">F1: Azerbaijan Practice 3</title>
+    <sub-title lang="en">Azerbaijan Practice 3</sub-title>
+    <desc lang="en">Drivers head out for the final practice session on the Baku City Circuit ahead of the all-important qualifying.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926060000 +0000" stop="20260926070000 +0000" channel="FoxSports505.au">
+    <title lang="en">F1: Azerbaijan Qualifying</title>
+    <sub-title lang="en">Azerbaijan Qualifying</sub-title>
+    <desc lang="en">Formula 1.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926070000 +0000" stop="20260926090000 +0000" channel="FoxSports505.au">
+    <title lang="en">Darts: World Series Finals FD NS</title>
+    <sub-title lang="en">Finals FD NS</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6gfnf5.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926130000 +0000" channel="FoxSports505.au">
+    <title lang="en">Live: PDC ANZ Premier League Darts: Wee</title>
+    <sub-title lang="en">Week 1</sub-title>
+    <desc lang="en">PDC ANZ Premier League Darts.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926153000 +0000" channel="FoxSports505.au">
+    <title lang="en">Live: Golf: French Open Round 3</title>
+    <sub-title lang="en">French Open Round 3</sub-title>
+    <desc lang="en">DP World Tour.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Golf</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926163000 +0000" channel="FoxSports505.au">
+    <title lang="en">MotoGP: Austria Race</title>
+    <sub-title lang="en">Austria Race</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7bjv4r.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926173000 +0000" channel="FoxSports505.au">
+    <title lang="en">NASCAR Cup Series Highlights</title>
     <sub-title lang="en">The Chase Bristol</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/t8kpmw.png" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/tbere6.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260921170000 +0000" stop="20260921180000 +0000" channel="FoxSports506.au">
-    <title lang="en">NASCAR Cup Series Highlights: Bristol</title>
-    <sub-title lang="en">Bristol</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921180000 +0000" stop="20260921200000 +0000" channel="FoxSports506.au">
-    <title lang="en">F1: Spain Race</title>
-    <sub-title lang="en">Spain Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/waihvw.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921200000 +0000" stop="20260921210000 +0000" channel="FoxSports506.au">
-    <title lang="en">Golf: USPGA: Biltmore Championship</title>
-    <sub-title lang="en">Biltmore Championship</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s0u7jz.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921210000 +0000" stop="20260921220000 +0000" channel="FoxSports506.au">
-    <title lang="en">NASCAR Auto Parts Highlights</title>
-    <sub-title lang="en">The Chase Bristol</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/t8kpmw.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921220000 +0000" stop="20260921230000 +0000" channel="FoxSports506.au">
-    <title lang="en">NASCAR Cup Series Highlights: Bristol</title>
-    <sub-title lang="en">Bristol</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260921230000 +0000" stop="20260922000000 +0000" channel="FoxSports506.au">
+  <programme start="20260926173000 +0000" stop="20260926183000 +0000" channel="FoxSports505.au">
     <title lang="en">Moto2: Austria Race</title>
-    <sub-title lang="en">Austria Moto2Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9t7qq.png" />
+    <sub-title lang="en">Austria Race</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/29el3p.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926200000 +0000" channel="FoxSports505.au">
+    <title lang="en">USLPGA: Arkansas Championship Round 1</title>
+    <sub-title lang="en">Arkansas Championship Round 1</sub-title>
+    <desc lang="en">USLPGA.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Golf</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926200000 +0000" stop="20260926230000 +0000" channel="FoxSports505.au">
+    <title lang="en">Live: USLPGA: Arkansas Championship Fin</title>
+    <sub-title lang="en">Arkansas Championship Final Round</sub-title>
+    <desc lang="en">USLPGA.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Golf</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926230000 +0000" stop="20260927010000 +0000" channel="FoxSports505.au">
+    <title lang="en">Darts: World Series Finals FD NS</title>
+    <sub-title lang="en">Finals FD NS</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6gfnf5.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927010000 +0000" stop="20260927030000 +0000" channel="FoxSports505.au">
+    <title lang="en">PDC ANZ Premier League Darts: Week 1</title>
+    <sub-title lang="en">Week 1</sub-title>
+    <desc lang="en">PDC ANZ Premier League Darts.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927030000 +0000" stop="20260927050000 +0000" channel="FoxSports505.au">
+    <title lang="en">Live: AFLW: Adelaide Crows Women v Frem</title>
+    <sub-title lang="en">Adelaide Crows Women v Fremantle Dockers Women</sub-title>
+    <desc lang="en">AFLW.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">AFL</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="FoxSports505.au">
+    <title lang="en">F1: QATAR AIRWAYS AZERBAIJAN GRAND PRIX</title>
+    <sub-title lang="en">QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 - CORRIDA</sub-title>
+    <desc lang="en">Assiste, em direto do Azerbaijao, ao Formula 1 Qatar Airways Azerbaijan Grand Prix 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927070000 +0000" stop="20260927080000 +0000" channel="FoxSports505.au">
+    <title lang="en">Pro Bull Riders Team Series</title>
+    <desc lang="en">Pro Bull Riders.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Extreme Sports</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6teblf.png" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927080000 +0000" stop="20260927083000 +0000" channel="FoxSports505.au">
+    <title lang="en">F1: Azerbaijan Race</title>
+    <sub-title lang="en">Azerbaijan Race</sub-title>
+    <desc lang="en">Formula 1.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927083000 +0000" stop="20260927090000 +0000" channel="FoxSports505.au">
+    <title lang="en">F1: Ted's Notebook</title>
+    <sub-title lang="en">Azerbaijan Race</sub-title>
+    <desc lang="en">Ted Kravitz and his notebook of storylines are all you need to wrap up the Azerbaijan Grand Prix.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/290uz4.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927173000 +0000" channel="FoxSports505.au">
+    <title lang="en">Live: ODI: England v Sri Lanka</title>
+    <sub-title lang="en">England v Sri Lanka</sub-title>
+    <desc lang="en">ODI.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <episode-num system="onscreen">E3</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -10247,9 +10425,9 @@
     </rating>
   </programme>
   <programme start="20260922100000 +0000" stop="20260922110000 +0000" channel="FoxSports506.au">
-    <title lang="en">Pro Bull Riding: Team Series</title>
+    <title lang="en">Pro Bull Riders Team Series</title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6teblf.png" />
-    <episode-num system="onscreen">E5</episode-num>
+    <episode-num system="onscreen">E3</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -10348,10 +10526,9 @@
     </rating>
   </programme>
   <programme start="20260922220000 +0000" stop="20260922223000 +0000" channel="FoxSports506.au">
-    <title lang="en">Porsche Supercup Highlights: R8 Italy</title>
-    <sub-title lang="en">Round 8 Italy</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mecp5s.png" />
-    <episode-num system="onscreen">E7</episode-num>
+    <title lang="en">Porsche Supercup Series: Italy Race</title>
+    <sub-title lang="en">Italy Race</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6z50s.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -10729,11 +10906,9 @@
     </rating>
   </programme>
   <programme start="20260924111000 +0000" stop="20260924113000 +0000" channel="FoxSports506.au">
-    <title lang="en">F2</title>
-    <desc lang="en">Ritomo Miyata delivers a breakout weekend with two podium finishes, while Dino Beganovic puts on a dominating display to take a lights-to-flag Feature Race win.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
+    <title lang="en">F2 Chasing The Dream</title>
+    <sub-title lang="en">Madrid</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8e0ks.png" />
     <episode-num system="onscreen">E12</episode-num>
     <rating system="AU">
       <value>NC</value>
@@ -10775,7 +10950,8 @@
     </rating>
   </programme>
   <programme start="20260924151500 +0000" stop="20260924153000 +0000" channel="FoxSports506.au">
-    <title lang="en">F2</title>
+    <title lang="en">F2 Chasing The Dream</title>
+    <sub-title lang="en">Madrid</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8e0ks.png" />
     <episode-num system="onscreen">E12</episode-num>
     <rating system="AU">
@@ -10874,39 +11050,37 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925010000 +0000" stop="20260925020000 +0000" channel="FoxSports506.au">
+  <programme start="20260925010000 +0000" stop="20260925015500 +0000" channel="FoxSports506.au">
     <title lang="en">The F1 Show: Azerbaijan</title>
     <sub-title lang="en">Azerbaijan</sub-title>
     <desc lang="en">Go behind the scenes of the Azerbaijan Grand Prix to get a flavour of life behind the race for drivers, teams &amp; fans.</desc>
     <date>2025</date>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hjtdcn.png" />
     <country lang="en">United Kingdom</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925020000 +0000" stop="20260925021500 +0000" channel="FoxSports506.au">
-    <title lang="en">F2</title>
+  <programme start="20260925015500 +0000" stop="20260925021000 +0000" channel="FoxSports506.au">
+    <title lang="en">F2 Chasing The Dream</title>
+    <sub-title lang="en">Madrid</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8e0ks.png" />
     <episode-num system="onscreen">E12</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925021500 +0000" stop="20260925031500 +0000" channel="FoxSports506.au">
+  <programme start="20260925021000 +0000" stop="20260925031000 +0000" channel="FoxSports506.au">
     <title lang="en">F1: Azerbaijan Practice 1</title>
     <sub-title lang="en">Azerbaijan Practice 1</sub-title>
-    <desc lang="en">Formula 1.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <country lang="en">Spain</country>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b207rv.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925031500 +0000" stop="20260925041000 +0000" channel="FoxSports506.au">
+  <programme start="20260925031000 +0000" stop="20260925041000 +0000" channel="FoxSports506.au">
     <title lang="en">F1: Azerbaijan Practice 2</title>
     <sub-title lang="en">Azerbaijan Practice 2</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b207rv.png" />
@@ -10925,86 +11099,68 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925051500 +0000" stop="20260925064500 +0000" channel="FoxSports506.au">
+  <programme start="20260925051500 +0000" stop="20260925061500 +0000" channel="FoxSports506.au">
     <title lang="en">F1: Azerbaijan Practice 1</title>
     <sub-title lang="en">Azerbaijan Practice 1</sub-title>
-    <desc lang="en">Formula 1.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <country lang="en">Spain</country>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b207rv.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925064500 +0000" stop="20260925074500 +0000" channel="FoxSports506.au">
+  <programme start="20260925061500 +0000" stop="20260925071500 +0000" channel="FoxSports506.au">
     <title lang="en">F1: Azerbaijan Practice 2</title>
     <sub-title lang="en">Azerbaijan Practice 2</sub-title>
-    <desc lang="en">Formula 1.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <country lang="en">Spain</country>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b207rv.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925074500 +0000" stop="20260925084500 +0000" channel="FoxSports506.au">
+  <programme start="20260925071500 +0000" stop="20260925081500 +0000" channel="FoxSports506.au">
     <title lang="en">The F1 Show: Azerbaijan</title>
     <sub-title lang="en">Azerbaijan</sub-title>
     <desc lang="en">Go behind the scenes of the Azerbaijan Grand Prix to get a flavour of life behind the race for drivers, teams &amp; fans.</desc>
     <date>2025</date>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hjtdcn.png" />
     <country lang="en">United Kingdom</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925084500 +0000" stop="20260925101500 +0000" channel="FoxSports506.au">
+  <programme start="20260925081500 +0000" stop="20260925101000 +0000" channel="FoxSports506.au">
     <title lang="en">Live: F1: Azerbaijan Practice 3</title>
     <sub-title lang="en">Azerbaijan Practice 3</sub-title>
-    <desc lang="en">Formula 1.</desc>
+    <desc lang="en">Drivers head out for the final practice session on the Baku City Circuit ahead of the all-important qualifying.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b207rv.png" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/d7fpze.png" />
     <country lang="en">Spain</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925101500 +0000" stop="20260925110000 +0000" channel="FoxSports506.au">
-    <title lang="en">No Program Information Available</title>
-    <sub-title lang="en">No Program Information Available</sub-title>
-    <desc lang="en">No Program Information Available.</desc>
+  <programme start="20260925101000 +0000" stop="20260925113000 +0000" channel="FoxSports506.au">
+    <title lang="en">Live: F2: Azerbaijan Feature Race 1 (KA</title>
+    <sub-title lang="en">Azerbaijan Feature Race 1 (KAYO)</sub-title>
+    <desc lang="en">Formula 2.</desc>
+    <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8e0ks.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925110000 +0000" stop="20260925130500 +0000" channel="FoxSports506.au">
+  <programme start="20260925113000 +0000" stop="20260925140000 +0000" channel="FoxSports506.au">
     <title lang="en">Live: F1: Azerbaijan Qualifying</title>
     <sub-title lang="en">Azerbaijan Qualifying</sub-title>
     <desc lang="en">Formula 1.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b207rv.png" />
-    <country lang="en">Spain</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20260925130500 +0000" stop="20260925140000 +0000" channel="FoxSports506.au">
-    <title lang="en">Live: F1: Azerbajian Pit Lane Qualifying</title>
-    <sub-title lang="en">Azerbajian Pit Lane Qualifying</sub-title>
-    <desc lang="en">Get up close and personal with all the teams and drivers as the F1 team present live from the Pit Lane after qualifying.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b207rv.png" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/sa90zy.png" />
     <country lang="en">Spain</country>
     <rating system="AU">
       <value>NC</value>
@@ -11022,57 +11178,206 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925143000 +0000" stop="20260925180000 +0000" channel="FoxSports506.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+  <programme start="20260925143000 +0000" stop="20260925150000 +0000" channel="FoxSports506.au">
+    <title lang="en">F1 Academy Highlights: Netherlands</title>
+    <sub-title lang="en">Netherlands</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/kxkjzd.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925180000 +0000" stop="20260925220000 +0000" channel="FoxSports506.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
+  <programme start="20260925150000 +0000" stop="20260925153000 +0000" channel="FoxSports506.au">
+    <title lang="en">Porsche Supercup Highlights</title>
+    <sub-title lang="en">Rnd 6 &amp; 7 Netherlands</sub-title>
+    <desc lang="en">The series returns to Zandvoort with a very close title fight. Championship contender Flynt Schuring looks to capitalise on his home track advantage.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mecp5s.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260925220000 +0000" stop="20260926020000 +0000" channel="FoxSports506.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+  <programme start="20260925153000 +0000" stop="20260925160000 +0000" channel="FoxSports506.au">
+    <title lang="en">Porsche Supercup Series: Italy Race</title>
+    <sub-title lang="en">Italy Race</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6z50s.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260926020000 +0000" stop="20260926060000 +0000" channel="FoxSports506.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+  <programme start="20260925160000 +0000" stop="20260925170000 +0000" channel="FoxSports506.au">
+    <title lang="en">Moto2: Austria Race</title>
+    <sub-title lang="en">Austria Race</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/29el3p.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20260926060000 +0000" stop="20260926093000 +0000" channel="FoxSports506.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">Sport Special.</desc>
+  <programme start="20260925170000 +0000" stop="20260925180000 +0000" channel="FoxSports506.au">
+    <title lang="en">MotoGP: Grand Prix of Austria : Race</title>
+    <sub-title lang="en">Grand Prix of Austria : Race</sub-title>
+    <desc lang="en">MotoGP.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <category lang="en">Other</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/oklgft.png" />
+    <country lang="en">United States</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925180000 +0000" stop="20260925190000 +0000" channel="FoxSports506.au">
+    <title lang="en">World Superbikes Championship</title>
+    <sub-title lang="en">France Race 1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/f5jg70.png" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925190000 +0000" stop="20260925200000 +0000" channel="FoxSports506.au">
+    <title lang="en">World Superbikes Championship</title>
+    <sub-title lang="en">France Race 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ceu0.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925200000 +0000" stop="20260925210000 +0000" channel="FoxSports506.au">
+    <title lang="en">F1: Azerbaijan Practice 3</title>
+    <sub-title lang="en">Azerbaijan Practice 3</sub-title>
+    <desc lang="en">Drivers head out for the final practice session on the Baku City Circuit ahead of the all-important qualifying.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="FoxSports506.au">
+    <title lang="en">F1: Azerbaijan Qualifying</title>
+    <sub-title lang="en">Azerbaijan Qualifying</sub-title>
+    <desc lang="en">Formula 1.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260925223000 +0000" channel="FoxSports506.au">
+    <title lang="en">F1: Ted's Notebook</title>
+    <sub-title lang="en">Azerbaijan Qualifying</sub-title>
+    <desc lang="en">Ted's Notebook.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925223000 +0000" stop="20260925233000 +0000" channel="FoxSports506.au">
+    <title lang="en">F1: Azerbaijan Practice 3</title>
+    <sub-title lang="en">Azerbaijan Practice 3</sub-title>
+    <desc lang="en">Drivers head out for the final practice session on the Baku City Circuit ahead of the all-important qualifying.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260925233000 +0000" stop="20260926003000 +0000" channel="FoxSports506.au">
+    <title lang="en">F1: Azerbaijan Qualifying</title>
+    <sub-title lang="en">Azerbaijan Qualifying</sub-title>
+    <desc lang="en">Formula 1.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926003000 +0000" stop="20260926013000 +0000" channel="FoxSports506.au">
+    <title lang="en">F1: Azerbaijan Practice 3</title>
+    <sub-title lang="en">Azerbaijan Practice 3</sub-title>
+    <desc lang="en">Drivers head out for the final practice session on the Baku City Circuit ahead of the all-important qualifying.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926013000 +0000" stop="20260926023000 +0000" channel="FoxSports506.au">
+    <title lang="en">F1: Azerbaijan Qualifying</title>
+    <sub-title lang="en">Azerbaijan Qualifying</sub-title>
+    <desc lang="en">Formula 1.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="FoxSports506.au">
+    <title lang="en">F1: Ted's Notebook</title>
+    <sub-title lang="en">Azerbaijan Qualifying</sub-title>
+    <desc lang="en">Ted's Notebook.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926030000 +0000" stop="20260926070100 +0000" channel="FoxSports506.au">
+    <title lang="en">Live: Hi-Tec Oils Super Series: Rnd 5 W</title>
+    <sub-title lang="en">Rnd 5 Winton Day 2</sub-title>
+    <desc lang="en">Hi-Tec Oils Super Series.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926070100 +0000" stop="20260926081500 +0000" channel="FoxSports506.au">
+    <title lang="en">Live: F2: Azerbaijan Feature Race 2 (KA</title>
+    <sub-title lang="en">Azerbaijan Feature Race 2 (KAYO</sub-title>
+    <desc lang="en">Formula 2.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926081500 +0000" stop="20260926083000 +0000" channel="FoxSports506.au">
+    <title lang="en">F2 Chasing The Dream</title>
+    <sub-title lang="en">Madrid</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8e0ks.png" />
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20260926083000 +0000" stop="20260926093000 +0000" channel="FoxSports506.au">
+    <title lang="en">F1: Azerbaijan Qualifying</title>
+    <sub-title lang="en">Azerbaijan Qualifying</sub-title>
+    <desc lang="en">Formula 1.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Spain</country>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -93790,17 +94095,17 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
     <category lang="he">ספורט</category>
     <icon src="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/d11baf96255d4d6297fac9da7505dbcd/version/0" />
   </programme>
-  <channel id="STAR.SPORTS.1.HINDI.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ghnwMD3M.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ghnwMD3M.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR SPORTS 1 HINDI</display-name>
-  </channel>
   <channel id="SONY.SPORTS.TEN.3.HD.in">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N2uHRQdk.png" />
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N2uHRQdk.png" />
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">SONY SPORTS TEN 3 HD</display-name>
+  </channel>
+  <channel id="STAR.SPORTS.1.HINDI.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ghnwMD3M.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ghnwMD3M.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR SPORTS 1 HINDI</display-name>
   </channel>
   <channel id="STAR.SPORTS.1.in">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VmljN1kZ.png" />
