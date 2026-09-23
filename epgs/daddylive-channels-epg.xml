@@ -94101,17 +94101,17 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">SONY SPORTS TEN 3 HD</display-name>
   </channel>
-  <channel id="STAR.SPORTS.1.HINDI.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ghnwMD3M.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ghnwMD3M.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR SPORTS 1 HINDI</display-name>
-  </channel>
   <channel id="STAR.SPORTS.1.in">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VmljN1kZ.png" />
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VmljN1kZ.png" />
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">STAR SPORTS 1</display-name>
+  </channel>
+  <channel id="STAR.SPORTS.1.HINDI.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ghnwMD3M.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ghnwMD3M.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR SPORTS 1 HINDI</display-name>
   </channel>
   <programme channel="SONY.SPORTS.TEN.3.HD.in" start="20260922210000 +0530" stop="20260922213000 +0530">
     <title lang="en">3rd T20: Afghanistan vs India; T20 Cricket</title>
