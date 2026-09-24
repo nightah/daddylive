@@ -75002,57 +75002,9 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p383155_b_v8_ae.jpg" />
     <previously-shown />
   </programme>
-<channel id="beIN.SPORTS.MAX.10.fr">
-    <url>http://www.tv.sfr.fr</url>
-    <display-name lang="fr">beIN SPORTS MAX 10</display-name>
-  </channel>
-  <channel id="beIN.SPORTS.MAX.4.fr">
-    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
-    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
-    <url>http://www.telerama.fr</url>
-    <display-name lang="fr">beIN SPORTS MAX 4</display-name>
-  </channel>
-  <channel id="beIN.SPORTS.MAX.8.fr">
-    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
-    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
-    <url>http://www.telerama.fr</url>
-    <display-name lang="fr">beIN SPORTS MAX 8</display-name>
-  </channel>
-  <channel id="CANAL+.fr">
-    <url>http://www.canalplus.com</url>
-    <display-name lang="fr">CANAL+</display-name>
-  </channel>
-  <channel id="beIN.SPORTS.MAX.6.fr">
-    <url>http://www.tv.sfr.fr</url>
-    <display-name lang="fr">beIN SPORTS MAX 6</display-name>
-  </channel>
-  <channel id="RMC.Sport.1.fr">
-    <url>http://www.tv.sfr.fr</url>
-    <display-name lang="fr">RMC Sport 1</display-name>
-  </channel>
-  <channel id="TF1.fr">
+<channel id="TF1.fr">
     <url>http://www.tv.sfr.fr</url>
     <display-name lang="fr">TF1</display-name>
-  </channel>
-  <channel id="Canal+.Foot.fr">
-    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
-    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
-    <url>http://www.telerama.fr</url>
-    <display-name lang="fr">Canal+ Foot</display-name>
-  </channel>
-  <channel id="beIN.SPORTS.MAX.7.fr">
-    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
-    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
-    <url>http://www.telerama.fr</url>
-    <display-name lang="fr">beIN SPORTS MAX 7</display-name>
-  </channel>
-  <channel id="beIN.SPORTS.3.fr">
-    <url>http://www.tv.sfr.fr</url>
-    <display-name lang="fr">beIN SPORTS 3</display-name>
-  </channel>
-  <channel id="La.chaine.l’Équipe.fr">
-    <url>http://www.tv.sfr.fr</url>
-    <display-name lang="fr">La chaine l’Équipe</display-name>
   </channel>
   <channel id="beIN.SPORTS.MAX.9.fr">
     <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
@@ -75060,11 +75012,71 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
     <url>http://www.telerama.fr</url>
     <display-name lang="fr">beIN SPORTS MAX 9</display-name>
   </channel>
+  <channel id="CANAL+.fr">
+    <url>http://www.canalplus.com</url>
+    <display-name lang="fr">CANAL+</display-name>
+  </channel>
+  <channel id="RMC.Sport.1.fr">
+    <url>http://www.tv.sfr.fr</url>
+    <display-name lang="fr">RMC Sport 1</display-name>
+  </channel>
   <channel id="beIN.SPORTS.MAX.5.fr">
     <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
     <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
     <url>http://www.telerama.fr</url>
     <display-name lang="fr">beIN SPORTS MAX 5</display-name>
+  </channel>
+  <channel id="Canal+.Foot.fr">
+    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
+    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
+    <url>http://www.telerama.fr</url>
+    <display-name lang="fr">Canal+ Foot</display-name>
+  </channel>
+  <channel id="La.chaine.l’Équipe.fr">
+    <url>http://www.tv.sfr.fr</url>
+    <display-name lang="fr">La chaine l’Équipe</display-name>
+  </channel>
+  <channel id="beIN.SPORTS.MAX.7.fr">
+    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
+    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
+    <url>http://www.telerama.fr</url>
+    <display-name lang="fr">beIN SPORTS MAX 7</display-name>
+  </channel>
+  <channel id="M6.fr">
+    <icon src="https://assets-bundle.6cloud.fr/m6/15/svg-sprite/marginless.svg#M6" />
+    <icon src="https://assets-bundle.6cloud.fr/m6/15/svg-sprite/marginless.svg#M6" />
+    <url>http://www.m6.fr</url>
+    <display-name lang="fr">M6</display-name>
+  </channel>
+  <channel id="beIN.SPORTS.MAX.4.fr">
+    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
+    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
+    <url>http://www.telerama.fr</url>
+    <display-name lang="fr">beIN SPORTS MAX 4</display-name>
+  </channel>
+  <channel id="beIN.SPORTS.MAX.10.fr">
+    <url>http://www.tv.sfr.fr</url>
+    <display-name lang="fr">beIN SPORTS MAX 10</display-name>
+  </channel>
+  <channel id="beIN.SPORTS.MAX.8.fr">
+    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
+    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
+    <url>http://www.telerama.fr</url>
+    <display-name lang="fr">beIN SPORTS MAX 8</display-name>
+  </channel>
+  <channel id="beIN.SPORTS.1.fr">
+    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
+    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
+    <url>http://www.tv.sfr.fr</url>
+    <display-name lang="fr">beIN SPORTS 1</display-name>
+  </channel>
+  <channel id="beIN.SPORTS.3.fr">
+    <url>http://www.tv.sfr.fr</url>
+    <display-name lang="fr">beIN SPORTS 3</display-name>
+  </channel>
+  <channel id="beIN.SPORTS.MAX.6.fr">
+    <url>http://www.tv.sfr.fr</url>
+    <display-name lang="fr">beIN SPORTS MAX 6</display-name>
   </channel>
   <channel id="Canal+.Sport.360.fr">
     <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
@@ -75079,18 +75091,6 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
     <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
     <url>http://www.telerama.fr</url>
     <display-name lang="fr">beIN SPORTS 2</display-name>
-  </channel>
-  <channel id="M6.fr">
-    <icon src="https://assets-bundle.6cloud.fr/m6/15/svg-sprite/marginless.svg#M6" />
-    <icon src="https://assets-bundle.6cloud.fr/m6/15/svg-sprite/marginless.svg#M6" />
-    <url>http://www.m6.fr</url>
-    <display-name lang="fr">M6</display-name>
-  </channel>
-  <channel id="beIN.SPORTS.1.fr">
-    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
-    <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
-    <url>http://www.tv.sfr.fr</url>
-    <display-name lang="fr">beIN SPORTS 1</display-name>
   </channel>
   <programme channel="CANAL+.fr" start="20260922010700 +0000" stop="20260922025000 +0000">
     <title lang="fr">Rembrandt</title>
@@ -173880,17 +173880,17 @@ Pierwszy torpedowiec został skonstruowany w Chiswick nad Tamizą. Mimo że pion
       <value>M3</value>
     </rating>
   </programme>
-  <channel id="Digi.Sport.1.ro">
-    <icon src="https://static.cinemagia.ro/img/tv_station/digi-sport-1.jpg" />
-    <icon src="https://static.cinemagia.ro/img/tv_station/digi-sport-1.jpg" />
+  <channel id="Prima.TV.ro">
+    <icon src="https://static.cinemagia.ro/img/tv_station/prima-tv.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv_station/prima-tv.jpg" />
     <url>http://www.programetv.ro</url>
-    <display-name lang="ro">Digi Sport 1</display-name>
+    <display-name lang="ro">Prima TV</display-name>
   </channel>
-  <channel id="Prima.Sport.3.ro">
-    <icon src="https://static.cinemagia.ro/img/tv_station/prima-sport-3.jpg" />
-    <icon src="https://static.cinemagia.ro/img/tv_station/prima-sport-3.jpg" />
+  <channel id="Digi.Sport.3.ro">
+    <icon src="https://static.cinemagia.ro/img/tv_station/digi-sport-3.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv_station/digi-sport-3.jpg" />
     <url>http://www.programetv.ro</url>
-    <display-name lang="ro">Prima Sport 3</display-name>
+    <display-name lang="ro">Digi Sport 3</display-name>
   </channel>
   <channel id="Prima.Sport.4.ro">
     <icon src="https://static.cinemagia.ro/img/tv_station/prima-sport-4.jpg" />
@@ -173904,17 +173904,17 @@ Pierwszy torpedowiec został skonstruowany w Chiswick nad Tamizą. Mimo że pion
     <url>http://www.programetv.ro</url>
     <display-name lang="ro">Digi Sport 4</display-name>
   </channel>
-  <channel id="Prima.TV.ro">
-    <icon src="https://static.cinemagia.ro/img/tv_station/prima-tv.jpg" />
-    <icon src="https://static.cinemagia.ro/img/tv_station/prima-tv.jpg" />
+  <channel id="Prima.Sport.1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv_station/prima-sport-1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv_station/prima-sport-1.jpg" />
     <url>http://www.programetv.ro</url>
-    <display-name lang="ro">Prima TV</display-name>
+    <display-name lang="ro">Prima Sport 1</display-name>
   </channel>
-  <channel id="Digi.Sport.3.ro">
-    <icon src="https://static.cinemagia.ro/img/tv_station/digi-sport-3.jpg" />
-    <icon src="https://static.cinemagia.ro/img/tv_station/digi-sport-3.jpg" />
+  <channel id="Digi.Sport.1.ro">
+    <icon src="https://static.cinemagia.ro/img/tv_station/digi-sport-1.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv_station/digi-sport-1.jpg" />
     <url>http://www.programetv.ro</url>
-    <display-name lang="ro">Digi Sport 3</display-name>
+    <display-name lang="ro">Digi Sport 1</display-name>
   </channel>
   <channel id="Prima.Sport.2.ro">
     <icon src="https://static.cinemagia.ro/img/tv_station/prima-sport-2.jpg" />
@@ -173922,17 +173922,17 @@ Pierwszy torpedowiec został skonstruowany w Chiswick nad Tamizą. Mimo że pion
     <url>http://www.programetv.ro</url>
     <display-name lang="ro">Prima Sport 2</display-name>
   </channel>
-  <channel id="Prima.Sport.1.ro">
-    <icon src="https://static.cinemagia.ro/img/tv_station/prima-sport-1.jpg" />
-    <icon src="https://static.cinemagia.ro/img/tv_station/prima-sport-1.jpg" />
-    <url>http://www.programetv.ro</url>
-    <display-name lang="ro">Prima Sport 1</display-name>
-  </channel>
   <channel id="Digi.Sport.2.ro">
     <icon src="https://static.cinemagia.ro/img/tv_station/digi-sport-2.jpg" />
     <icon src="https://static.cinemagia.ro/img/tv_station/digi-sport-2.jpg" />
     <url>http://www.programetv.ro</url>
     <display-name lang="ro">Digi Sport 2</display-name>
+  </channel>
+  <channel id="Prima.Sport.3.ro">
+    <icon src="https://static.cinemagia.ro/img/tv_station/prima-sport-3.jpg" />
+    <icon src="https://static.cinemagia.ro/img/tv_station/prima-sport-3.jpg" />
+    <url>http://www.programetv.ro</url>
+    <display-name lang="ro">Prima Sport 3</display-name>
   </channel>
   <programme channel="Prima.Sport.3.ro" start="20260922000000 -0500" stop="20260922015959 -0500">
     <title lang="ro">Petrolul - Csikszereda</title>
@@ -180088,45 +180088,65 @@ Pierwszy torpedowiec został skonstruowany w Chiswick nad Tamizą. Mimo że pion
   <programme start="20260925144500 +0300" stop="20260925150000 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Yarış Başlıyor</title>
   </programme>
-  <channel id="Film4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
+  <channel id="MTV.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3831.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3831.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Film4 HD</display-name>
+    <display-name lang="en">MTV HD</display-name>
   </channel>
-  <channel id="SkySp.F1.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
+  <channel id="Sky.Cinema.Select.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp F1</display-name>
+    <display-name lang="en">Sky Cinema Select</display-name>
   </channel>
-  <channel id="TNT.Sports.1.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+  <channel id="SkySp.Mix.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Mix HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.3.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
     <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 1 HD</display-name>
+    <display-name lang="en">TNT Sports 3 HD</display-name>
   </channel>
-  <channel id="Channel.5.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1800.png" />
+  <channel id="Sky.Greats.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Channel 5</display-name>
+    <display-name lang="en">Sky Greats</display-name>
   </channel>
-  <channel id="S4C.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5701.png" />
+  <channel id="Sky.Premiere.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">S4C</display-name>
+    <display-name lang="en">Sky Premiere</display-name>
   </channel>
-  <channel id="Sky.Witness.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4066.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4066.png" />
+  <channel id="BBC.Three.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Witness HD</display-name>
+    <display-name lang="en">BBC Three HD</display-name>
   </channel>
-  <channel id="SkySp.Fball.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
+  <channel id="SkySp.News.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Fball</display-name>
+    <display-name lang="en">SkySp News HD</display-name>
+  </channel>
+  <channel id="SkySp.Action.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1333.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1333.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Action</display-name>
+  </channel>
+  <channel id="Sky.Drama.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4016.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4016.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Drama HD</display-name>
   </channel>
   <channel id="SkySp.Golf.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1322.png" />
@@ -180134,35 +180154,77 @@ Pierwszy torpedowiec został skonstruowany w Chiswick nad Tamizą. Mimo że pion
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp Golf</display-name>
   </channel>
+  <channel id="Sky.Family.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Family HD</display-name>
+  </channel>
+  <channel id="BBC.Four.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">BBC Four HD</display-name>
+  </channel>
+  <channel id="Film4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Film4 HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.1.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 1 HD</display-name>
+  </channel>
+  <channel id="SkySp.Tennis.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Tennis HD</display-name>
+  </channel>
+  <channel id="Sky.Arts.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Arts HD</display-name>
+  </channel>
+  <channel id="Sky.ScFi/HorHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky ScFi/HorHD</display-name>
+  </channel>
+  <channel id="Sky.HistoryHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky HistoryHD</display-name>
+  </channel>
+  <channel id="TNT.Sports.4.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
+    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 4 HD</display-name>
+  </channel>
   <channel id="Sky.Comedy.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Comedy HD</display-name>
   </channel>
+  <channel id="Sky.Cinema.Hits.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Sky Cinema Hits HD</display-name>
+  </channel>
   <channel id="5.USA.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3022.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3022.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">5 USA</display-name>
-  </channel>
-  <channel id="SkySp.Cricket.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Cricket</display-name>
-  </channel>
-  <channel id="Sky.Action.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Action</display-name>
-  </channel>
-  <channel id="TNT.Sports.3.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 3 HD</display-name>
   </channel>
   <channel id="MUTV.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1003.png" />
@@ -180172,105 +180234,11 @@ Pierwszy torpedowiec został skonstruowany w Chiswick nad Tamizą. Mimo że pion
     <url>http://www.sky.com</url>
     <display-name lang="en">MUTV HD</display-name>
   </channel>
-  <channel id="ITV4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
+  <channel id="Sky.Witness.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4066.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4066.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">ITV4 HD</display-name>
-  </channel>
-  <channel id="Sky.Drama.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4016.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4016.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Drama HD</display-name>
-  </channel>
-  <channel id="SkySp.Tennis.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Tennis HD</display-name>
-  </channel>
-  <channel id="Racing.TV.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3636.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Racing TV</display-name>
-  </channel>
-  <channel id="TNT.Sports.2.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 2 HD</display-name>
-  </channel>
-  <channel id="LFCTV.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">LFCTV HD</display-name>
-  </channel>
-  <channel id="Sky.HistoryHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky HistoryHD</display-name>
-  </channel>
-  <channel id="SkySp.Mix.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Mix HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.4.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
-    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 4 HD</display-name>
-  </channel>
-  <channel id="ITV2.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ITV2 HD</display-name>
-  </channel>
-  <channel id="Sky.Arts.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Arts HD</display-name>
-  </channel>
-  <channel id="SkySp.News.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp News HD</display-name>
-  </channel>
-  <channel id="Sky.Crime.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1212.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1212.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Crime HD</display-name>
-  </channel>
-  <channel id="ITV3.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ITV3 HD</display-name>
-  </channel>
-  <channel id="Sky.ScFi/HorHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky ScFi/HorHD</display-name>
-  </channel>
-  <channel id="BBC.Three.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">BBC Three HD</display-name>
-  </channel>
-  <channel id="SkySp.Racing.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1354.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Racing</display-name>
+    <display-name lang="en">Sky Witness HD</display-name>
   </channel>
   <channel id="ITV1.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
@@ -180278,65 +180246,51 @@ Pierwszy torpedowiec został skonstruowany w Chiswick nad Tamizą. Mimo że pion
     <url>http://www.sky.com</url>
     <display-name lang="en">ITV1 HD</display-name>
   </channel>
-  <channel id="Sky.Cinema.Select.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Cinema Select</display-name>
-  </channel>
-  <channel id="BBC.Two.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">BBC Two HD</display-name>
-  </channel>
-  <channel id="SkySp.Action.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1333.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1333.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Action</display-name>
-  </channel>
   <channel id="Sky.Atlantic.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Atlantic HD</display-name>
   </channel>
-  <channel id="E4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
+  <channel id="Sky.Crime.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1212.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1212.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">E4 HD</display-name>
+    <display-name lang="en">Sky Crime HD</display-name>
   </channel>
-  <channel id="BBC.Four.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">BBC Four HD</display-name>
+  <channel id="TNT.Sports.2.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 2 HD</display-name>
   </channel>
-  <channel id="Sky.Premiere.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
+  <channel id="ITV4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Premiere</display-name>
+    <display-name lang="en">ITV4 HD</display-name>
   </channel>
-  <channel id="Sky.Family.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
+  <channel id="S4C.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5701.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Family HD</display-name>
+    <display-name lang="en">S4C</display-name>
   </channel>
-  <channel id="Sky.Greats.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
+  <channel id="ITV2.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Greats</display-name>
+    <display-name lang="en">ITV2 HD</display-name>
   </channel>
-  <channel id="MTV.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3831.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3831.png" />
+  <channel id="SkySp.Cricket.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">MTV HD</display-name>
+    <display-name lang="en">SkySp Cricket</display-name>
+  </channel>
+  <channel id="Racing.TV.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3636.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Racing TV</display-name>
   </channel>
   <channel id="Sky.Thriller.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
@@ -180344,11 +180298,57 @@ Pierwszy torpedowiec został skonstruowany w Chiswick nad Tamizą. Mimo że pion
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Thriller HD</display-name>
   </channel>
-  <channel id="Sky.Cinema.Hits.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Sky Cinema Hits HD</display-name>
+  <channel id="Channel.5.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1800.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Channel 5</display-name>
+  </channel>
+  <channel id="BBC.Two.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">BBC Two HD</display-name>
+  </channel>
+  <channel id="SkySp.Racing.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1354.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Racing</display-name>
+  </channel>
+  <channel id="SkySp.Fball.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Fball</display-name>
+  </channel>
+  <channel id="Sky.Action.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Action</display-name>
+  </channel>
+  <channel id="E4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">E4 HD</display-name>
+  </channel>
+  <channel id="LFCTV.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">LFCTV HD</display-name>
+  </channel>
+  <channel id="SkySp.F1.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp F1</display-name>
+  </channel>
+  <channel id="ITV3.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ITV3 HD</display-name>
   </channel>
   <programme channel="Sky.HistoryHD.uk" start="20260921001500 +0000" stop="20260921011500 +0000">
     <title lang="en">Pawn Stars</title>
