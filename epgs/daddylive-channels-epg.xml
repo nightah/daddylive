@@ -97093,8 +97093,9 @@
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f9bf8ebc67f34e9e85461aceb55cb2b6_thumb.jpg" />
   </programme>
   <programme start="20261011170000 +0200" stop="20261011173000 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Van Kadra</title>
-    <desc lang="hr">Uživajte u opuštenoj atmosferi i poslušajte razgovore s našim poznatim sportašima!</desc>
+    <title lang="hr">Magazin Lige Prvaka</title>
+    <desc lang="hr">Pregled vijesti vezanih uz zbivanja na nogometnom travnjaku, za sve ljubitelje nogometa.</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/9991f985112d4fbda302f37f84ee0ea8_thumb.jpg" />
   </programme>
   <programme start="20261011173000 +0200" stop="20261011193000 +0200" channel="Arena.Sport.1.HD.hr">
     <title lang="hr">Nogomet – Premier League: Liverpool – Manchester City</title>
@@ -97107,8 +97108,12 @@
     <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cb6948d832394754ab9155b4da4c255e_thumb.jpg" />
   </programme>
   <programme start="20261011200000 +0200" stop="20261011204500 +0200" channel="Arena.Sport.1.HD.hr">
-    <title lang="hr">Sport Bez Granica</title>
-    <desc lang="hr">Uđite u svijet sporta uz našu emisiju i saznajte najnovije vijesti i zanimljivosti!</desc>
+    <title lang="hr">Bts With A Legend</title>
+    <desc lang="hr">Neymar Jr. kroz osobnu priču otkriva život između nogometnih stadiona, obitelji i trenutaka koji su obilježili njegov put do svjetske slave.</desc>
+    <credits>
+      <actor>Neymar</actor>
+    </credits>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6d3aa50e962743e68dba8e2af0ae1ae0_thumb.jpg" />
   </programme>
   <programme start="20261011204500 +0200" stop="20261011230000 +0200" channel="Arena.Sport.1.HD.hr">
     <title lang="hr">Nogomet – Talijanska Liga: Cagliari – Juventus</title>
@@ -97413,6 +97418,7 @@
   <programme start="20261011070000 +0200" stop="20261011090000 +0200" channel="Arena.Sport.2.HD.hr">
     <title lang="hr">Nogomet – Premier League: Arsenal – Leeds</title>
     <desc lang="hr">Leeds United neporažen je u novoj sezoni Premier League, a u šestom kolu gostuje kod Arsenala, koji je prije reprezentativne stanke upisao neočekivani poraz.</desc>
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/0129b1ee2e564bf6b88b5166fb9a239c_thumb.jpg" />
   </programme>
   <programme start="20261011090000 +0200" stop="20261011103000 +0200" channel="Arena.Sport.2.HD.hr">
     <title lang="hr">Atletika: Dijamantna Liga: Bruxelles 2</title>
@@ -97846,7 +97852,7 @@
   <programme start="20261013030000 +0200" stop="20261013050000 +0200" channel="Arena.Sport.3.HD.hr">
     <title lang="hr">Odbojka – Europsko Prvenstvo (ž): 1/2 Finala</title>
     <desc lang="hr">Od 21. kolovoza do 6. rujna 2026. najbolje europske ženske odbojkaške reprezentacije okupit će se na CEV EuroVolleyju 2026, Europskom prvenstvu koje će se održati u Turskoj, Češkoj, Azerbajdžanu i...</desc>
-    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4a496fcd4a2e4504b9bfa71e3b539279_thumb.jpg" />
+    <icon src="http://epg.bnet.hr/images/https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/682602242b8a431bbfacfe018bafc7b4_thumb.jpg" />
   </programme>
   <programme start="20261013050000 +0200" stop="20261013070000 +0200" channel="Arena.Sport.3.HD.hr">
     <title lang="hr">Košarka – Kvalifikacije Za Sp: Slovenija – Mađarska</title>
@@ -108338,7 +108344,7 @@
     <date>2024</date>
     <category lang="it">Film</category>
     <category lang="it">Thriller</category>
-    <icon src="https://guidatv.sky.it/uuid/47b6498b-c619-3ea9-832f-879f193a288b/COVER_TITLE_TALL?territory=IT&amp;version=381c692c-83eb-3502-8c15-6caff92b54f8&amp;w=600&amp;h=800&amp;md5ChecksumParam=cb16ce7d04da77d9a327c8edf1fde7b9" />
+    <icon src="https://guidatv.sky.it/uuid/47b6498b-c619-3ea9-832f-879f193a288b/COVER_TITLE_TALL?territory=IT&amp;version=5f202524-9cae-3cd8-ba86-e6ecc7b31f05&amp;w=600&amp;h=800&amp;md5ChecksumParam=51e7cff23bff1b7dfd5d5f4b1611f6de" />
     <country lang="it">USA</country>
     <rating>
       <value>12</value>
@@ -113615,7 +113621,7 @@
     <country lang="it">ITA</country>
     <premiere />
   </programme>
-  <programme start="20261011051000 +0000" stop="20261011061500 +0000" channel="Sky.Sport.Uno.it">
+  <programme start="20261011051000 +0000" stop="20261011062500 +0000" channel="Sky.Sport.Uno.it">
     <title lang="it">GP Indonesia: Gara</title>
     <desc lang="it">Diciassettesimo appuntamento del mondiale 2026: a Mandalika, in Indonesia, si accendono i motori per la gara della Moto2. Telecronaca Triolo-Pasini\n.</desc>
     <date>2026</date>
@@ -113626,7 +113632,7 @@
     <episode-num system="onscreen">S2026 E305</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011061500 +0000" stop="20261011063000 +0000" channel="Sky.Sport.Uno.it">
+  <programme start="20261011062500 +0000" stop="20261011063000 +0000" channel="Sky.Sport.Uno.it">
     <title lang="it">Indonesia</title>
     <desc lang="it">Mancano pochi minuti alla partenza delle gara più attesa del weekend. In questo Paddock live spazio alle ultime notizie dal paddock e dai box.\n.</desc>
     <date>2026</date>
@@ -113690,7 +113696,7 @@
     <episode-num system="onscreen">S2026 E47</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011101000 +0000" stop="20261011102500 +0000" channel="Sky.Sport.Uno.it">
+  <programme start="20261011101000 +0000" stop="20261011103500 +0000" channel="Sky.Sport.Uno.it">
     <title lang="it">Estoril: Superpole Race</title>
     <desc lang="it">Decimo Round della stagione 2026. Dal circuito di Estoril, la Superpole Race della World Superbike. Telecronaca Vercellesi - Temporali\n.</desc>
     <date>2026</date>
@@ -113701,7 +113707,7 @@
     <episode-num system="onscreen">S2026 E120</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011102500 +0000" stop="20261011104500 +0000" channel="Sky.Sport.Uno.it">
+  <programme start="20261011103500 +0000" stop="20261011104500 +0000" channel="Sky.Sport.Uno.it">
     <title lang="it">Estoril</title>
     <desc lang="it">Il post gara della World Superbike, dove piloti e addetti ai lavori ci raccontano le loro sensazioni subito dopo il traguardo.\n.</desc>
     <date>2026</date>
@@ -114418,7 +114424,7 @@
     <country lang="it">IT</country>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20261011102000 +0000" stop="20261011122500 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20261011102000 +0000" stop="20261011123500 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Team Altamura - Catania</title>
     <desc lang="it">Dallo Stadio Antonio D'Angelo di Altamura, Italia.</desc>
     <date>2026</date>
@@ -114429,7 +114435,7 @@
     <episode-num system="onscreen">S2026 E81</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011122500 +0000" stop="20261011125500 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20261011123500 +0000" stop="20261011125500 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Vialli</title>
     <desc lang="it">Calcio.</desc>
     <date>2026</date>
@@ -114439,7 +114445,7 @@
     <country lang="it">IT</country>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20261011125500 +0000" stop="20261011150000 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20261011125500 +0000" stop="20261011151000 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Hull City - Everton</title>
     <desc lang="it">Dall'MKM Stadium di Hull, Inghilterra, Regno Unito.</desc>
     <date>2026</date>
@@ -114450,7 +114456,7 @@
     <episode-num system="onscreen">S2026 E57</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011150000 +0000" stop="20261011155500 +0000" channel="Sky.Sport.Calcio.it">
+  <programme start="20261011151000 +0000" stop="20261011155500 +0000" channel="Sky.Sport.Calcio.it">
     <title lang="it">Sky Sunday Football Prepartita</title>
     <desc lang="it">Sky Sunday Football Prepartita - La presentazione del match di Serie A, le immagini e le interviste ai protagonisti. Nello studio di Leo Di Bello, anche calcio internazionale e le news di tutti gli sport di Sky.</desc>
     <date>2024</date>
@@ -115213,7 +115219,7 @@
     <episode-num system="onscreen">S2026 E222</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011100000 +0000" stop="20261011142000 +0000" channel="Sky.Sport.Tennis.it">
+  <programme start="20261011100000 +0000" stop="20261011154500 +0000" channel="Sky.Sport.Tennis.it">
     <title lang="it">5a Giornata</title>
     <desc lang="it">Dalla Qizhong Forest Sports City Arena di Shanghai, Cina.</desc>
     <date>2026</date>
@@ -115223,17 +115229,7 @@
     <country lang="it">CN</country>
     <premiere />
   </programme>
-  <programme start="20261011142000 +0000" stop="20261011160000 +0000" channel="Sky.Sport.Tennis.it">
-    <title lang="it">Germania P2: Finale Maschile</title>
-    <desc lang="it">Seguiamo le gare del Premier Padel Major.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Altri</category>
-    <icon src="https://guidatv.sky.it/uuid/e1c93f3b-cf34-4208-9487-7921912f2280/cover?territory=IT&amp;md5ChecksumParam=a2da9a5e82e997c8990dff1534a05e37" />
-    <episode-num system="onscreen">S2026 E127</episode-num>
-    <premiere />
-  </programme>
-  <programme start="20261011160000 +0000" stop="20261011190000 +0000" channel="Sky.Sport.Tennis.it">
+  <programme start="20261011154500 +0000" stop="20261011190000 +0000" channel="Sky.Sport.Tennis.it">
     <title lang="it">5a giornata</title>
     <desc lang="it">Dalla Qizhong Forest Sports City Arena di Shanghai, Cina.</desc>
     <date>2026</date>
@@ -116051,7 +116047,7 @@
     <country lang="it">ITA</country>
     <premiere />
   </programme>
-  <programme start="20261011115500 +0000" stop="20261011134500 +0000" channel="Sky.Sport.F1.it">
+  <programme start="20261011115500 +0000" stop="20261011140000 +0000" channel="Sky.Sport.F1.it">
     <title lang="it">GP Singapore: Gara</title>
     <desc lang="it">Gara n° 17 della stagione: tra le luci di Marina Bay Verstappen non ha mai vinto e negli ultimi 4 anni hanno trionfato 4 team diversi. Telecronaca di Carlo Vanzini, Marc Gené e Roberto Chinchero.</desc>
     <date>2026</date>
@@ -116062,7 +116058,7 @@
     <episode-num system="onscreen">S2026 E90</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011134500 +0000" stop="20261011143000 +0000" channel="Sky.Sport.F1.it">
+  <programme start="20261011140000 +0000" stop="20261011143000 +0000" channel="Sky.Sport.F1.it">
     <title lang="it">F1 Paddock Live Post Gara</title>
     <desc lang="it">I commenti dei piloti e dei team principal accompagnano l’analisi della gara appena conclusa. Con Davide Camicioli e tutta la squadra di Sky Sport F1.</desc>
     <date>2024</date>
@@ -117141,7 +117137,7 @@
     <country lang="it">ITA</country>
     <premiere />
   </programme>
-  <programme start="20261011051000 +0000" stop="20261011061500 +0000" channel="Sky.Sport.MotoGP.it">
+  <programme start="20261011051000 +0000" stop="20261011062500 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">GP Indonesia: Gara</title>
     <desc lang="it">Diciassettesimo appuntamento del mondiale 2026: a Mandalika, in Indonesia, si accendono i motori per la gara della Moto2. Telecronaca Triolo-Pasini\n.</desc>
     <date>2026</date>
@@ -117152,7 +117148,7 @@
     <episode-num system="onscreen">S2026 E305</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011061500 +0000" stop="20261011063000 +0000" channel="Sky.Sport.MotoGP.it">
+  <programme start="20261011062500 +0000" stop="20261011063000 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">Indonesia</title>
     <desc lang="it">Mancano pochi minuti alla partenza delle gara più attesa del weekend. In questo Paddock live spazio alle ultime notizie dal paddock e dai box.\n.</desc>
     <date>2026</date>
@@ -117216,7 +117212,7 @@
     <episode-num system="onscreen">S2026 E47</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011101000 +0000" stop="20261011102500 +0000" channel="Sky.Sport.MotoGP.it">
+  <programme start="20261011101000 +0000" stop="20261011103500 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">Estoril: Superpole Race</title>
     <desc lang="it">Decimo Round della stagione 2026. Dal circuito di Estoril, la Superpole Race della World Superbike. Telecronaca Vercellesi - Temporali\n.</desc>
     <date>2026</date>
@@ -117227,7 +117223,7 @@
     <episode-num system="onscreen">S2026 E120</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011102500 +0000" stop="20261011104500 +0000" channel="Sky.Sport.MotoGP.it">
+  <programme start="20261011103500 +0000" stop="20261011104500 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">Estoril</title>
     <desc lang="it">Il post gara della World Superbike, dove piloti e addetti ai lavori ci raccontano le loro sensazioni subito dopo il traguardo.\n.</desc>
     <date>2026</date>
@@ -117266,7 +117262,7 @@
     <category lang="it">Fiction</category>
     <icon src="https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&amp;md5ChecksumParam=352072f7c196c6542a1e97073a0f0508" />
   </programme>
-  <programme start="20261011125500 +0000" stop="20261011134000 +0000" channel="Sky.Sport.MotoGP.it">
+  <programme start="20261011125500 +0000" stop="20261011141000 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">Estoril: Gara 2</title>
     <desc lang="it">Decimo Round della stagione 2026. Dal circuito di Estoril, la Race 2 della World Supersport. Telecronaca Vercellesi - Temporali\n.</desc>
     <date>2026</date>
@@ -117277,23 +117273,13 @@
     <episode-num system="onscreen">S2026 E121</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011134000 +0000" stop="20261011140000 +0000" channel="Sky.Sport.MotoGP.it">
-    <title lang="it">La svolta di Alex</title>
-    <desc lang="it">La svolta di Alex.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Motori</category>
-    <icon src="https://guidatv.sky.it/uuid/e7d963e0-52a2-4740-a2ce-8abd85755cc8/cover?territory=IT&amp;md5ChecksumParam=e10c6b50175e928e6f77efa76446b8db" />
-    <country lang="it">ITA</country>
-  </programme>
-  <programme start="20261011140000 +0000" stop="20261011141500 +0000" channel="Sky.Sport.MotoGP.it">
-    <title lang="it">Acosta, Indimenticabile Spielberg</title>
-    <desc lang="it">Il racconto della prima indimenticabile vittoria di Pedro Acosta in MotoGP in sella alla KTM nel GP di Austria, con tante immagini inedite dalla pista e dai box.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Motori</category>
-    <icon src="https://guidatv.sky.it/uuid/4db4cd23-d791-45e0-b213-1cf0b3f77809/cover?territory=IT&amp;md5ChecksumParam=bcc159d570961ceed2aeab1c654bb6ff" />
-    <country lang="it">ITA</country>
+  <programme start="20261011141000 +0000" stop="20261011141500 +0000" channel="Sky.Sport.MotoGP.it">
+    <title lang="it">Programmazione non disponibile</title>
+    <desc lang="it">Programmazione non disponibile.</desc>
+    <date>2025</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/a66dc379-a517-48cd-8e58-587794b0f617/cover?territory=IT&amp;md5ChecksumParam=352072f7c196c6542a1e97073a0f0508" />
   </programme>
   <programme start="20261011141500 +0000" stop="20261011143000 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">Estoril</title>
@@ -117306,7 +117292,7 @@
     <episode-num system="onscreen">S2026 E47</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011143000 +0000" stop="20261011145500 +0000" channel="Sky.Sport.MotoGP.it">
+  <programme start="20261011143000 +0000" stop="20261011151500 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">Estoril: Gara 2</title>
     <desc lang="it">Decimo Round della stagione 2026. Dal circuito di Estoril, la Race 2 della World Superbike. Telecronaca Vercellesi - Temporali\n.</desc>
     <date>2026</date>
@@ -117317,7 +117303,7 @@
     <episode-num system="onscreen">S2026 E122</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011145500 +0000" stop="20261011151500 +0000" channel="Sky.Sport.MotoGP.it">
+  <programme start="20261011151500 +0000" stop="20261011153000 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">Estoril</title>
     <desc lang="it">Il post gara della World Superbike, dove piloti e addetti ai lavori ci raccontano le loro sensazioni subito dopo il traguardo.\n.</desc>
     <date>2026</date>
@@ -117328,7 +117314,7 @@
     <episode-num system="onscreen">S2026 E48</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011151500 +0000" stop="20261011161500 +0000" channel="Sky.Sport.MotoGP.it">
+  <programme start="20261011153000 +0000" stop="20261011161500 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">GP Indonesia: Gara</title>
     <desc lang="it">Diciassettesimo appuntamento del mondiale 2026: a Mandalika, in Indonesia, si accendono i motori per la gara della MotoGP. Telecronaca Meda- Sanchini\n.</desc>
     <date>2026</date>
@@ -117691,7 +117677,7 @@
   </programme>
   <programme start="20261012183000 +0000" stop="20261012184500 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">Giappone</title>
-    <desc lang="it">Inside Ducati.</desc>
+    <desc lang="it">Il dietro le quinte del team Ducati Lenovo del gran premio del Giappone raccontato attraverso le immagini e le parole dei piloti e dei tecnici del team di Borgo Panigale \n.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
     <category lang="it">Motori</category>
@@ -117787,7 +117773,7 @@
   </programme>
   <programme start="20261013003500 +0000" stop="20261013005000 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">Giappone</title>
-    <desc lang="it">Inside Ducati.</desc>
+    <desc lang="it">Il dietro le quinte del team Ducati Lenovo del gran premio del Giappone raccontato attraverso le immagini e le parole dei piloti e dei tecnici del team di Borgo Panigale \n.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
     <category lang="it">Motori</category>
@@ -117883,7 +117869,7 @@
   </programme>
   <programme start="20261013063000 +0000" stop="20261013064500 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">Giappone</title>
-    <desc lang="it">Inside Ducati.</desc>
+    <desc lang="it">Il dietro le quinte del team Ducati Lenovo del gran premio del Giappone raccontato attraverso le immagini e le parole dei piloti e dei tecnici del team di Borgo Panigale \n.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
     <category lang="it">Motori</category>
@@ -117979,7 +117965,7 @@
   </programme>
   <programme start="20261013123000 +0000" stop="20261013124500 +0000" channel="Sky.Sport.MotoGP.it">
     <title lang="it">Giappone</title>
-    <desc lang="it">Inside Ducati.</desc>
+    <desc lang="it">Il dietro le quinte del team Ducati Lenovo del gran premio del Giappone raccontato attraverso le immagini e le parole dei piloti e dei tecnici del team di Borgo Panigale \n.</desc>
     <date>2026</date>
     <category lang="it">Sport</category>
     <category lang="it">Motori</category>
@@ -118600,7 +118586,7 @@
     <country lang="it">ITA</country>
     <episode-num system="onscreen">S2026 E11</episode-num>
   </programme>
-  <programme start="20261011113000 +0000" stop="20261011132500 +0000" channel="Sky.Sport.Max.it">
+  <programme start="20261011113000 +0000" stop="20261011135500 +0000" channel="Sky.Sport.Max.it">
     <title lang="it">WTA: Finale</title>
     <desc lang="it">Dall'Olympic Green Tennis Center di Pechino, Cina.</desc>
     <date>2026</date>
@@ -118611,17 +118597,7 @@
     <episode-num system="onscreen">S2026 E18</episode-num>
     <premiere />
   </programme>
-  <programme start="20261011132500 +0000" stop="20261011135500 +0000" channel="Sky.Sport.Max.it">
-    <title lang="it">Boat Show 2026 Ep.31 08/10/2026</title>
-    <desc lang="it">Regate, grandi eventi, saloni nautici e tutto il nuovo che arriva dal mondo della cantieristica, a vela e a motore. In ogni occasione, un personaggio del mondo della nautica si racconta al pubblico.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Altri</category>
-    <icon src="https://guidatv.sky.it/uuid/ed7dc612-5f61-47ef-9874-fa61e290a3b0/cover?territory=IT&amp;md5ChecksumParam=59580a26a517ade13f6a9d7a3f0c65da" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2026 E31</episode-num>
-  </programme>
-  <programme start="20261011135500 +0000" stop="20261011152000 +0000" channel="Sky.Sport.Max.it">
+  <programme start="20261011135500 +0000" stop="20261011155000 +0000" channel="Sky.Sport.Max.it">
     <title lang="it">8a Giornata</title>
     <desc lang="it">Ai Campionati Mondiali di judo di Baku (Azerbaigian) si disputano le finali della prova a squadre miste. Telecronaca: Bonzi-Scapin.</desc>
     <date>2026</date>
@@ -118631,7 +118607,7 @@
     <country lang="it">AZE</country>
     <premiere />
   </programme>
-  <programme start="20261011152000 +0000" stop="20261011173000 +0000" channel="Sky.Sport.Max.it">
+  <programme start="20261011155000 +0000" stop="20261011173000 +0000" channel="Sky.Sport.Max.it">
     <title lang="it">Forlì - Livorno</title>
     <desc lang="it">Tutte le partite del campionato di Serie C italiano.</desc>
     <date>2026</date>
@@ -118860,6 +118836,7 @@
     <category lang="it">Altri</category>
     <icon src="https://guidatv.sky.it/uuid/782b04e3-0b41-4b58-bc4c-c4fa859cd6b9/cover?territory=IT&amp;md5ChecksumParam=cea6ddfa29586f299ebf70dcdecdb2ad" />
     <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2025 E50</episode-num>
   </programme>
   <programme start="20261013010000 +0000" stop="20261013020000 +0000" channel="Sky.Sport.Max.it">
     <title lang="it">Ginevra</title>
@@ -119090,6 +119067,7 @@
     <category lang="it">Altri</category>
     <icon src="https://guidatv.sky.it/uuid/782b04e3-0b41-4b58-bc4c-c4fa859cd6b9/cover?territory=IT&amp;md5ChecksumParam=cea6ddfa29586f299ebf70dcdecdb2ad" />
     <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2025 E50</episode-num>
   </programme>
   <programme start="20261014100000 +0000" stop="20261014120000 +0000" channel="Sky.Sport.Max.it">
     <title lang="it">Scarlets - Benetton Rugby</title>
@@ -119184,6 +119162,7 @@
     <category lang="it">Altri</category>
     <icon src="https://guidatv.sky.it/uuid/782b04e3-0b41-4b58-bc4c-c4fa859cd6b9/cover?territory=IT&amp;md5ChecksumParam=cea6ddfa29586f299ebf70dcdecdb2ad" />
     <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2025 E50</episode-num>
   </programme>
   <programme start="20261011140000 +0000" stop="20261011152500 +0000" channel="Sky.Sport.Arena.it">
     <title lang="it">5a giornata</title>
@@ -119365,6 +119344,7 @@
     <category lang="it">Altri</category>
     <icon src="https://guidatv.sky.it/uuid/782b04e3-0b41-4b58-bc4c-c4fa859cd6b9/cover?territory=IT&amp;md5ChecksumParam=cea6ddfa29586f299ebf70dcdecdb2ad" />
     <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2025 E50</episode-num>
   </programme>
   <programme start="20261012213000 +0000" stop="20261012233000 +0000" channel="Sky.Sport.Arena.it">
     <title lang="it">Tennis Atp World Tour Masters 1000 - Stag. 2026 Ep. 196 - Tennis Atp Masters 1000 2026 Shanghai 6a Giornata (Solo Repl) 12/10/2026</title>
@@ -119425,6 +119405,7 @@
     <category lang="it">Altri</category>
     <icon src="https://guidatv.sky.it/uuid/782b04e3-0b41-4b58-bc4c-c4fa859cd6b9/cover?territory=IT&amp;md5ChecksumParam=cea6ddfa29586f299ebf70dcdecdb2ad" />
     <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2025 E50</episode-num>
   </programme>
   <programme start="20261013043000 +0000" stop="20261013053000 +0000" channel="Sky.Sport.Arena.it">
     <title lang="it">Il Film Delle Finali NBA 2026</title>
@@ -119593,6 +119574,7 @@
     <category lang="it">Altri</category>
     <icon src="https://guidatv.sky.it/uuid/782b04e3-0b41-4b58-bc4c-c4fa859cd6b9/cover?territory=IT&amp;md5ChecksumParam=cea6ddfa29586f299ebf70dcdecdb2ad" />
     <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2025 E50</episode-num>
   </programme>
   <programme start="20261014060000 +0000" stop="20261014080000 +0000" channel="Sky.Sport.Arena.it">
     <title lang="it">EA7 Emporio Armani Milano - Real Madrid</title>
@@ -122566,13 +122548,15 @@
   </programme>
   <programme start="20261011102500 +0000" stop="20261011110600 +0000" channel="Italia.1.it">
     <title lang="it">Studio Aperto</title>
-    <desc lang="it">Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto.</desc>
+    <desc lang="it">Notizie e approfondimenti in diretta sui temi di attualità quotidiani a cura della redazione giornalistica di Studio Aperto.</desc>
     <category lang="it">Telegiornale</category>
+    <icon src="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314217201056701/media/22/86/25d1ac74-e1c1-40a2-a193-dbd91d5b902b/95f89685-4ca2-4d68-98e1-fbd7f8036efc.jpg" />
   </programme>
   <programme start="20261011110600 +0000" stop="20261011120200 +0000" channel="Italia.1.it">
     <title lang="it">Sport Mediaset</title>
     <desc lang="it">Approfondimento in diretta sul mondo del calcio e dello sport a cura della redazione giornalistica di Sport Mediaset.</desc>
     <category lang="it">Calcio</category>
+    <icon src="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314666401000601/media/16/80/cc9db088-5c94-45ec-aa0d-60345e755e98/1174620c-e23f-467a-8257-7a4f911932f1.jpg" />
     <episode-num system="onscreen">SXXL</episode-num>
   </programme>
   <programme start="20261011120200 +0000" stop="20261011123200 +0000" channel="Italia.1.it">
@@ -122624,13 +122608,15 @@
   </programme>
   <programme start="20261011163000 +0000" stop="20261011165600 +0000" channel="Italia.1.it">
     <title lang="it">Studio Aperto</title>
-    <desc lang="it">Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto.</desc>
+    <desc lang="it">Segui tutte le notizie dell'edizione integrale di Studio Aperto.</desc>
     <category lang="it">Telegiornale</category>
+    <icon src="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314217201056801/media/22/86/25d1ac74-e1c1-40a2-a193-dbd91d5b902b/95f89685-4ca2-4d68-98e1-fbd7f8036efc.jpg" />
   </programme>
   <programme start="20261011165600 +0000" stop="20261011172200 +0000" channel="Italia.1.it">
     <title lang="it">Studio Aperto Mag</title>
-    <desc lang="it">Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto.</desc>
+    <desc lang="it">Notizie e approfondimenti in diretta sui temi di attualità quotidiani a cura della redazione giornalistica di Studio Aperto.</desc>
     <category lang="it">Magazine</category>
+    <icon src="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F314217801028401/media/2/2/9bac4643-370c-4bab-a6fb-fd11c0d9b542/4ba4406d-336c-4c02-b388-f03c0d635a7b.jpg" />
   </programme>
   <programme start="20261011172200 +0000" stop="20261011182600 +0000" channel="Italia.1.it">
     <title lang="it">C.s.i. Scena Del Crimine</title>
@@ -124008,9 +123994,16 @@
   <programme start="20261011070500 +0200" stop="20261011080000 +0200" channel="Rai1.it">
     <title lang="it">Unomattina in famiglia</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
-    <date>2019</date>
+    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana. Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
+    <credits>
+      <director>Alessandra De Sanctis</director>
+      <presenter>Monica Setta</presenter>
+      <presenter>Ingrid Muccitelli</presenter>
+    </credits>
+    <date>2027</date>
+    <category lang="it">Talk Show</category>
     <icon src="https://www.raiplay.it/dl/img/2023/09/11/1694449777082_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011080000 +0200" stop="20261011081800 +0200" channel="Rai1.it">
     <title lang="it">Tg1</title>
@@ -124021,9 +124014,16 @@
   <programme start="20261011081800 +0200" stop="20261011090000 +0200" channel="Rai1.it">
     <title lang="it">Unomattina in famiglia</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
-    <date>2019</date>
+    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana. Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
+    <credits>
+      <director>Alessandra De Sanctis</director>
+      <presenter>Monica Setta</presenter>
+      <presenter>Ingrid Muccitelli</presenter>
+    </credits>
+    <date>2027</date>
+    <category lang="it">Talk Show</category>
     <icon src="https://www.raiplay.it/dl/img/2023/09/11/1694449777082_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011090000 +0200" stop="20261011090400 +0200" channel="Rai1.it">
     <title lang="it">Tg1</title>
@@ -124034,94 +124034,153 @@
   <programme start="20261011090400 +0200" stop="20261011092500 +0200" channel="Rai1.it">
     <title lang="it">Unomattina in famiglia</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
-    <date>2019</date>
+    <desc lang="it">Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana. Il buongiorno di Monica Setta, Beppe Convertini e Ingrid Muccitelli che commentano con gli ospiti l'attualità e i fatti di cronaca più importanti della settimana.</desc>
+    <credits>
+      <director>Alessandra De Sanctis</director>
+      <presenter>Monica Setta</presenter>
+      <presenter>Ingrid Muccitelli</presenter>
+    </credits>
+    <date>2027</date>
+    <category lang="it">Talk Show</category>
     <icon src="https://www.raiplay.it/dl/img/2023/09/11/1694449777082_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011092500 +0200" stop="20261011093000 +0200" channel="Rai1.it">
     <title lang="it">TG1 LIS</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2023/03/31/1680272500388_TG1_LIS_per_RaiPlay_ORIZZONTALE.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011093000 +0200" stop="20261011101500 +0200" channel="Rai1.it">
     <title lang="it">Check Up</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Luana Ravegnini approfondisce i principali temi legati alla salute e alla prevenzione. Dall'infarto e l'importanza di riconoscerne i sintomi ai disturbi dell'anca e al glaucoma. Spazio anche all'alimentazione, alle patologie gastrointestinali, ai cambiamenti legati all'invecchiamento e alle diverse forme di dolore, con il contributo di medici e specialisti.</desc>
-    <date>2019</date>
+    <desc lang="it">Luana Ravegnini approfondisce i principali temi legati alla salute e alla prevenzione. Dall'infarto e l'importanza di riconoscerne i sintomi ai disturbi dell'anca e al glaucoma. Spazio anche all'alimentazione, alle patologie gastrointestinali, ai cambiamenti legati all'invecchiamento e alle diverse forme di dolore, con il contributo di medici e specialisti. Luana Ravegnini approfondisce i principali temi legati alla salute e alla prevenzione. Dall'infarto e l'importanza di riconoscerne i sintomi ai disturbi dell'anca e al glaucoma. Spazio anche all'alimentazione, alle patologie gastrointestinali, ai cambiamenti legati all'invecchiamento e alle diverse forme di dolore, con il contributo di medici e specialisti.</desc>
+    <credits>
+      <presenter>Luana Ravegnini</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791558701409_21707.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011101500 +0200" stop="20261011105500 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/10/05/1791187507306_1788614209165_1774802239757_A%20sua%20immagine.jpg" />
+    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV. Lorena Bianchetti ricorda San Giovanni XXIII, il \"Papa buono\.</desc>
+    <credits>
+      <director>Gaia Valeria Rosa</director>
+      <presenter>Lorena Bianchetti</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Religioso</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735108146_1791735104526.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011105500 +0200" stop="20261011115000 +0200" channel="Rai1.it">
     <title lang="it">Santa Messa</title>
     <sub-title lang="it">Santa Messa dalla Cattedrale di Sulmona (L'Aquila) - 11/10/2026</sub-title>
-    <desc lang="it">Santa Messa dalla Cattedrale di Sulmona (L'Aquila). Regia di Simone Chiappetta. Commento liturgico di Orazio Coclite.</desc>
-    <date>2019</date>
+    <desc lang="it">Santa Messa dalla Cattedrale di Sulmona (L'Aquila). Regia di Simone Chiappetta. Commento liturgico di Orazio Coclite. Santa Messa dalla Cattedrale di Sulmona (L'Aquila). Regia di Simone Chiappetta. Commento liturgico di Orazio Coclite.</desc>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2019/11/19/1574153990363_Santa%20Messa%202048x1152.jpg" />
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
   <programme start="20261011115000 +0200" stop="20261011120000 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/10/05/1791187507306_1788614209165_1774802239757_A%20sua%20immagine.jpg" />
+    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV. Lorena Bianchetti ricorda San Giovanni XXIII, il \"Papa buono\.</desc>
+    <credits>
+      <director>Gaia Valeria Rosa</director>
+      <presenter>Lorena Bianchetti</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Religioso</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735108146_1791735104526.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011120000 +0200" stop="20261011121000 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine</title>
     <sub-title lang="it">Recita dell'Angelus da Piazza San Pietro del 11/10/2026</sub-title>
-    <desc lang="it">L'Angelus recitato da Leone XIV dalla finestra del Palazzo Apostolico su Piazza San Pietro.</desc>
-    <date>2019</date>
+    <desc lang="it">L'Angelus recitato da Leone XIV dalla finestra del Palazzo Apostolico su Piazza San Pietro. L'Angelus recitato da Leone XIV dalla finestra del Palazzo Apostolico su Piazza San Pietro.</desc>
+    <credits>
+      <director>Gaia Valeria Rosa</director>
+      <presenter>Lorena Bianchetti</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Religioso</category>
     <icon src="https://www.raiplay.it/dl/img/2025/08/21/1755783584044_Angelus-San-Pietro-2048x1152.jpg" />
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
   <programme start="20261011121000 +0200" stop="20261011122000 +0200" channel="Rai1.it">
     <title lang="it">A Sua immagine</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/10/05/1791187507306_1788614209165_1774802239757_A%20sua%20immagine.jpg" />
+    <desc lang="it">Lorena Bianchetti ricorda San Giovanni XXIII, il "Papa buono", ripercorrendo il suo pontificato, dal Concilio Vaticano II all'impegno per la pace. In studio Marco Roncalli, Agostino Giovagnoli e don Ezio Bolis. Spazio anche alla rubrica "Chiesa in viaggio", con un approfondimento sul santuario della Beata Vergine di San Luca a Bologna. A seguire, la Santa Messa dalla Cattedrale di Sulmona e l'Angelus di Papa Leone XIV. Lorena Bianchetti ricorda San Giovanni XXIII, il \"Papa buono\.</desc>
+    <credits>
+      <director>Gaia Valeria Rosa</director>
+      <presenter>Lorena Bianchetti</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Religioso</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735108146_1791735104526.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011122000 +0200" stop="20261011133000 +0200" channel="Rai1.it">
     <title lang="it">Linea Verde</title>
     <sub-title lang="it">The Ciociaria - 11/10/2026</sub-title>
-    <desc lang="it">Peppone Calabrese, Fabio Gallo e Margherita Granbassi, attraversano la Ciociaria, precisamente la Valle di Comino. Dal Lago di Posta Fibreno a Picinisco, il tema del viaggio punta a far emergere la doppia anima di questo tratto di Ciociaria: da un lato la dimensione agricola pastorale; Dall'altro lato invece, un respiro internazionale, poco conosciuto, innescato da una serie di fattori determinanti, anzitutto quelli legati alle grandi emigrazioni della seconda metà dell'Ottocento. Peppone, nell'incontro con pastori, casari, agricoltori, artigiani fa emergere l'anima più strettamente contadina della valle che ha saputo far parlare di sé grazie al Pecorino, al Fagiolo Cannellino di Atina e ad una piccola gelateria di Picinisco che fa un solo gusto di gelato, quello alla crema inglese. Storie di terra, di uomini e di donne che ci aiutano a scoprire i segreti di un luogo poco conosciuto che ha attratto i viaggiatori del Grand Tour nell'800 e grandi scrittori come D. H. Lawrence che ha ambientato proprio a Picinisco uno dei suoi romanzi più conosciuti "La ragazza perduta". Fabio invece approfondisce le storie più internazionali: c'è chi dopo una vita in Scozia è rientrato per recuperare le vigne dei nonni, chi ha puntato sulla ristorazione ma soprattutto racconta le storie dei ragazzi e delle ragazze ciociare che, alla fine dell'800 lasciavano i pascoli e le campagne per andare a posare per i più grandi pittori e scultori d'Europa come modelli. Margherita invece indaga gli aspetti più legati alla musica ciociara itinerante, che ha girato il mondo con le sue sonorità pastorali di ciaramelle e zampogne. Infine, un grande pranzo della domenica a Villa Lawrence, la dimora rurale che porta il nome dello scrittore inglese.</desc>
-    <date>2019</date>
+    <desc lang="it">Peppone Calabrese, Fabio Gallo e Margherita Granbassi, attraversano la Ciociaria, precisamente la Valle di Comino. Dal Lago di Posta Fibreno a Picinisco, il tema del viaggio punta a far emergere la doppia anima di questo tratto di Ciociaria: da un lato la dimensione agricola pastorale; Dall'altro lato invece, un respiro internazionale, poco conosciuto, innescato da una serie di fattori determinanti, anzitutto quelli legati alle grandi emigrazioni della seconda metà dell'Ottocento. Peppone, nell'incontro con pastori, casari, agricoltori, artigiani fa emergere l'anima più strettamente contadina della valle che ha saputo far parlare di sé grazie al Pecorino, al Fagiolo Cannellino di Atina e ad una piccola gelateria di Picinisco che fa un solo gusto di gelato, quello alla crema inglese. Storie di terra, di uomini e di donne che ci aiutano a scoprire i segreti di un luogo poco conosciuto che ha attratto i viaggiatori del Grand Tour nell'800 e grandi scrittori come D. H. Lawrence che ha ambientato proprio a Picinisco uno dei suoi romanzi più conosciuti "La ragazza perduta". Fabio invece approfondisce le storie più internazionali: c'è chi dopo una vita in Scozia è rientrato per recuperare le vigne dei nonni, chi ha puntato sulla ristorazione ma soprattutto racconta le storie dei ragazzi e delle ragazze ciociare che, alla fine dell'800 lasciavano i pascoli e le campagne per andare a posare per i più grandi pittori e scultori d'Europa come modelli. Margherita invece indaga gli aspetti più legati alla musica ciociara itinerante, che ha girato il mondo con le sue sonorità pastorali di ciaramelle e zampogne. Infine, un grande pranzo della domenica a Villa Lawrence, la dimora rurale che porta il nome dello scrittore inglese. Peppone Calabrese, Fabio Gallo e Margherita Granbassi, attraversano la Ciociaria, precisamente la Valle di Comino. Dal Lago di Posta Fibreno a Picinisco, il tema del viaggio punta a far emergere la doppia anima di questo tratto di Ciociaria: da un lato la dimensione agricola pastorale; Dall'altro lato invece, un respiro internazionale, poco conosciuto, innescato da una serie di fattori determinanti, anzitutto quelli legati alle grandi emigrazioni della seconda metà dell'Ottocento. Peppone, nell'incontro con pastori, casari, agricoltori, artigiani fa emergere l'anima più strettamente contadina della valle che ha saputo far parlare di sé grazie al Pecorino, al Fagiolo Cannellino di Atina e ad una piccola gelateria di Picinisco che fa un solo gusto di gelato, quello alla crema inglese. Storie di terra, di uomini e di donne che ci aiutano a scoprire i segreti di un luogo poco conosciuto che ha attratto i viaggiatori del Grand Tour nell'800 e grandi scrittori come D. H. Lawrence che ha ambientato proprio a Picinisco uno dei suoi romanzi più conosciuti \"La ragazza perduta\". Fabio invece approfondisce le storie più internazionali: c'è chi dopo una vita in Scozia è rientrato per recuperare le vigne dei nonni, chi ha puntato sulla ristorazione ma soprattutto racconta le storie dei ragazzi e delle ragazze ciociare che, alla fine dell'800 lasciavano i pascoli e le campagne per andare a posare per i più grandi pittori e scultori d'Europa come modelli. Margherita invece indaga gli aspetti più legati alla musica ciociara itinerante, che ha girato il mondo con le sue sonorità pastorali di ciaramelle e zampogne. Infine, un grande pranzo della domenica a Villa Lawrence, la dimora rurale che porta il nome dello scrittore inglese.</desc>
+    <credits>
+      <director>Daniele Carminati</director>
+      <presenter>Peppone</presenter>
+      <presenter>Margherita Granbassi</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Viaggi &amp; Avventure</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/10/1791585459195_1088.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011133000 +0200" stop="20261011140000 +0200" channel="Rai1.it">
     <title lang="it">Tg1</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011140000 +0200" stop="20261011171500 +0200" channel="Rai1.it">
     <title lang="it">Domenica In</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Mara Venier, la "signora della domenica", accoglie i protagonisti dell'attualità, i grandi nomi e i nuovi talenti dello spettacolo, per una domenica pomeriggio piena di allegria, ospiti, interviste, musica e storie di vita.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/09/25/1790324675855_2048x1152.jpg" />
+    <desc lang="it">Musica, cinema, spettacolo e attualità sono al centro della puntata di oggi di Domenica In con Mara Venier, affiancata da Tommaso Cerno ed Enzo Miccio. Ospite atteso Al Bano, che si racconta tra carriera e vita privata e si esibisce con alcuni dei suoi brani più amati. Spazio poi a Ballando con le Stelle, con diversi ospiti pronti a commentare la seconda puntata del programma, e al cinema con Rocco Papaleo e Giorgio Pasotti, che presentano "Sotto a chi tocca", e Massimiliano Caiazzo, protagonista di "Je so' pazzo", il film dedicato a Pino Daniele. Per l'attualità, in studio ci sono Leonardo Bove e Kean Talingdan, due dei ragazzi sopravvissuti alla tragedia di Crans-Montana, accompagnati dalle rispettive mamme. Non manca Il pranzo della domenica, con Savino Zaba in collegamento da Cellino San Marco, mentre la musica è affidata alla nuova band guidata da Timothy Cavicchini. Musica, cinema, spettacolo e attualità sono al centro della puntata di oggi di Domenica In con Mara Venier, affiancata da Tommaso Cerno ed Enzo Miccio. Ospite atteso Al Bano, che si racconta tra carriera e vita privata e si esibisce con alcuni dei suoi brani più amati. Spazio poi a Ballando con le Stelle, con diversi ospiti pronti a commentare la seconda puntata del programma, e al cinema con Rocco Papaleo e Giorgio Pasotti, che presentano \"Sotto a chi tocca\.</desc>
+    <credits>
+      <director>Mauro Stancati</director>
+      <presenter>Mara Venier</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Talk Show</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791726500986_1791726345938%201.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011171500 +0200" stop="20261011171800 +0200" channel="Rai1.it">
     <title lang="it">Tg1</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765885004911_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011171800 +0200" stop="20261011172000 +0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
-    <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645586214_RaiMeteo2048x1152.png" />
   </programme>
   <programme start="20261011172000 +0200" stop="20261011184000 +0200" channel="Rai1.it">
     <title lang="it">Da noi... a ruota libera</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un "giro di ruota" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/09/24/1790256093558_2048x1152.jpg" />
+    <desc lang="it">Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un "giro di ruota" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza. Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un \"giro di ruota\" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza.</desc>
+    <credits>
+      <director>Elisabetta Pierelli</director>
+      <presenter>Francesca Fialdini</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Talk Show</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735156155_1791735152262.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011184000 +0200" stop="20261011200000 +0200" channel="Rai1.it">
     <title lang="it">Reazione a catena</title>
@@ -124159,7 +124218,7 @@
   <programme start="20261011235000 +0200" stop="20261012010500 +0200" channel="Rai1.it">
     <title lang="it">Speciale Tg1</title>
     <sub-title lang="it">Cambio rotta: Undertourism - 11/10/2026</sub-title>
-    <desc lang="it">Settimanale del Tg1.</desc>
+    <desc lang="it">Il reportage di Valentina Bisti nell'Italia alle prese con il turismo di massa, tra località sempre più affollate e territori alla ricerca di un nuovo equilibrio tra accoglienza, tutela del paesaggio e qualità della vita dei residenti. Un reportage che racconta le misure adottate dalle amministrazioni locali per contenere i flussi turistici e valorizzare destinazioni meno conosciute. Dalle Dolomiti, tra il lago di Sorapis, le Tre Cime di Lavaredo e il monte Civetta, alle spiagge della Puglia e della Sicilia, il racconto attraversa alcuni dei luoghi più visitati del Paese, dove prenotazioni obbligatorie e accessi contingentati cercano di contrastare gli effetti del sovraffollamento. Spazio anche alle alternative al turismo tradizionale, dai borghi delle Dolomiti lucane ai percorsi naturalistici della Majella. Il viaggio prosegue tra la Baia del Silenzio a Sestri Levante, la spiaggia della Pelosa in Sardegna, le Cinque Terre e i paesaggi della Val d'Orcia. Attraverso le testimonianze di amministratori, esperti e operatori del settore, emerge una diversa idea di turismo, più attenta ai territori e alle comunità che li abitano.</desc>
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2026/10/10/1791586110982_Thumb-EP.jpg" />
   </programme>
@@ -124173,9 +124232,15 @@
   <programme start="20261012023500 +0200" stop="20261012035000 +0200" channel="Rai1.it">
     <title lang="it">Da noi... a ruota libera</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un "giro di ruota" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza.</desc>
-    <date>2019</date>
+    <desc lang="it">Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un "giro di ruota" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza. Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un \"giro di ruota\" originale e positivo alla propria vita e a quella degli altri compiendo scelte coraggiose e anticonvenzionali. Un percorso di emozioni, ricordi, riflessioni, momenti d'ironia e leggerezza.</desc>
+    <credits>
+      <director>Elisabetta Pierelli</director>
+      <presenter>Francesca Fialdini</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Talk Show</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/05/1791187458114_1790256093558_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261012035000 +0200" stop="20261012043500 +0200" channel="Rai1.it">
     <title lang="it">Doc Martin</title>
@@ -124790,7 +124855,7 @@
     <desc lang="it">Adriana Pannitteri racconta storie dall'Italia e dal mondo, tra attualità, memoria e cultura. In apertura, Alessio Vassallo ripercorre la figura di Biagio Conte, mentre le fotografie di Francesco Zizola accendono i riflettori sul disagio psichico. Spazio poi alla crisi dell'ex Ilva, alla tragedia del bus di Mestre e alla testimonianza di una sopravvissuta agli ostaggi del 7 ottobre. Tra gli altri racconti, l'arte del restauro degli strumenti musicali, la storia di Arrigo Cipriani, la scuola e il mondo dei fumetti con Silvia Ziche. Adriana Pannitteri racconta storie dall'Italia e dal mondo, tra attualità, memoria e cultura. In apertura, Alessio Vassallo ripercorre la figura di Biagio Conte, mentre le fotografie di Francesco Zizola accendono i riflettori sul disagio psichico. Spazio poi alla crisi dell'ex Ilva, alla tragedia del bus di Mestre e alla testimonianza di una sopravvissuta agli ostaggi del 7 ottobre. Tra gli altri racconti, l'arte del restauro degli strumenti musicali, la storia di Arrigo Cipriani, la scuola e il mondo dei fumetti con Silvia Ziche.</desc>
     <date>2026</date>
     <category lang="it">Approfondimento</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/10/21/1761056243708_tg2%20storie%202025.png" />
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735465027_1791735452649.png" />
     <country lang="it">Italia</country>
   </programme>
   <programme start="20261011004700 +0200" stop="20261011005500 +0200" channel="Rai2.it">
@@ -124878,7 +124943,7 @@
     <desc lang="it">Adriana Pannitteri racconta storie dall'Italia e dal mondo, tra attualità, memoria e cultura. In apertura, Alessio Vassallo ripercorre la figura di Biagio Conte, mentre le fotografie di Francesco Zizola accendono i riflettori sul disagio psichico. Spazio poi alla crisi dell'ex Ilva, alla tragedia del bus di Mestre e alla testimonianza di una sopravvissuta agli ostaggi del 7 ottobre. Tra gli altri racconti, l'arte del restauro degli strumenti musicali, la storia di Arrigo Cipriani, la scuola e il mondo dei fumetti con Silvia Ziche. Adriana Pannitteri racconta storie dall'Italia e dal mondo, tra attualità, memoria e cultura. In apertura, Alessio Vassallo ripercorre la figura di Biagio Conte, mentre le fotografie di Francesco Zizola accendono i riflettori sul disagio psichico. Spazio poi alla crisi dell'ex Ilva, alla tragedia del bus di Mestre e alla testimonianza di una sopravvissuta agli ostaggi del 7 ottobre. Tra gli altri racconti, l'arte del restauro degli strumenti musicali, la storia di Arrigo Cipriani, la scuola e il mondo dei fumetti con Silvia Ziche.</desc>
     <date>2026</date>
     <category lang="it">Approfondimento</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/10/21/1761056243708_tg2%20storie%202025.png" />
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735465027_1791735452649.png" />
     <country lang="it">Italia</country>
   </programme>
   <programme start="20261011073500 +0200" stop="20261011074500 +0200" channel="Rai2.it">
@@ -124919,69 +124984,116 @@
   <programme start="20261011082500 +0200" stop="20261011094000 +0200" channel="Rai2.it">
     <title lang="it">Radio2 Social Club</title>
     <sub-title lang="it">Il meglio di Radio2 Social Club - 11/10/2026</sub-title>
-    <desc lang="it">Una selezione dei momenti più significativi della settimana di Radio2 Social Club.</desc>
-    <date>2019</date>
+    <desc lang="it">Una selezione dei momenti più significativi della settimana di Radio2 Social Club. Una selezione dei momenti più significativi della settimana di Radio2 Social Club.</desc>
+    <credits>
+      <director>Mauro Sebastianelli</director>
+      <director>Giuseppe Caporale</director>
+      <presenter>Luca Barbarossa</presenter>
+      <presenter>Ema Stokholma</presenter>
+    </credits>
+    <date>2025</date>
+    <category lang="it">Musica</category>
     <icon src="https://www.raiplay.it/dl/img/2024/09/25/1727249175034_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011094000 +0200" stop="20261011111000 +0200" channel="Rai2.it">
     <title lang="it">Un amore in fondo al mare</title>
-    <desc lang="it">Durante l'organizzazione del matrimonio di sua sorella Kate in un lussuosissimo resort alle Hawaii, Addie perde l'anello che sua nonna Helen le aveva regalato, simbolo dell'amore incondizionato dei nonni. Decide di assumere il marinaio e maestro di sub, Jack, per ritrovarlo. Tra i due inizialmente non c'è grande intesa, ma poco alla volta, cominciano a conoscersi meglio e capiscono di avere molto altro in comune.</desc>
-    <date>2019</date>
+    <desc lang="it">Durante l'organizzazione del matrimonio di sua sorella Kate in un lussuosissimo resort alle Hawaii, Addie perde l'anello che sua nonna Helen le aveva regalato, simbolo dell'amore incondizionato dei nonni. Decide di assumere il marinaio e maestro di sub, Jack, per ritrovarlo. Tra i due inizialmente non c'è grande intesa, ma poco alla volta, cominciano a conoscersi meglio e capiscono di avere molto altro in comune. Durante l'organizzazione del matrimonio di sua sorella Kate in un lussuosissimo resort alle Hawaii, Addie perde l'anello che sua nonna Helen le aveva regalato, simbolo dell'amore incondizionato dei nonni. Decide di assumere il marinaio e maestro di sub, Jack, per ritrovarlo. Tra i due inizialmente non c'è grande intesa, ma poco alla volta, cominciano a conoscersi meglio e capiscono di avere molto altro in comune.</desc>
+    <credits>
+      <director>Maclain Nelson</director>
+      <actor>Hunter King</actor>
+      <actor>Beau Mirchoff</actor>
+      <actor>Eliza Hayes Maher</actor>
+      <actor>Jordan Matlock</actor>
+      <actor>Diane Sargent</actor>
+      <actor>Brian Connors</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="it">Sentimentale</category>
     <icon src="https://www.raiplay.it/dl/img/2023/06/09/1686318735994_2048x1152.jpg" />
+    <country lang="it">USA</country>
   </programme>
   <programme start="20261011111000 +0200" stop="20261011112000 +0200" channel="Rai2.it">
     <title lang="it">Tg Sport</title>
-    <desc lang="it">A cura di Rai Sport.</desc>
-    <date>2019</date>
+    <desc lang="it">A cura di Rai Sport. A cura di Rai Sport.</desc>
+    <credits>
+      <presenter>Vari</presenter>
+    </credits>
+    <category lang="it">Sport</category>
     <icon src="https://www.raiplay.it/dl/img/2025/12/16/1765898521589_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011112000 +0200" stop="20261011130000 +0200" channel="Rai2.it">
     <title lang="it">Un'estate a Oxford</title>
-    <desc lang="it">Nina accetta l'invito, da parte dell'università di Oxford, a tenere un seminario estivo. Appena arrivata, incontra il suo vecchio professore, Thomas Rothwell, con il quale, anni prima, aveva intrecciato una relazione mentre lavoravano alla stesura del libro "lettere a Hedy". Questo libro è una raccolta di lettere scritte in gioventù da Lord Addington e indirizzate al suo unico vero amore segreto, la domestica Hedy. Nina, durante il suo seminario, conosce un ragazzo di nome Daniel molto interessato alla storia di Hedy. Il ragazzo le confida che Hedy era sua nonna. Nina e Daniel decidono, allora, di recarsi in visita da Lord Addington per saperne di più.</desc>
-    <date>2019</date>
+    <desc lang="it">Nina accetta l'invito, da parte dell'università di Oxford, a tenere un seminario estivo. Appena arrivata, incontra il suo vecchio professore, Thomas Rothwell, con il quale, anni prima, aveva intrecciato una relazione mentre lavoravano alla stesura del libro "lettere a Hedy". Questo libro è una raccolta di lettere scritte in gioventù da Lord Addington e indirizzate al suo unico vero amore segreto, la domestica Hedy. Nina, durante il suo seminario, conosce un ragazzo di nome Daniel molto interessato alla storia di Hedy. Il ragazzo le confida che Hedy era sua nonna. Nina e Daniel decidono, allora, di recarsi in visita da Lord Addington per saperne di più. Nina accetta l'invito, da parte dell'università di Oxford, a tenere un seminario estivo. Appena arrivata, incontra il suo vecchio professore, Thomas Rothwell, con il quale, anni prima, aveva intrecciato una relazione mentre lavoravano alla stesura del libro \"lettere a Hedy\". Questo libro è una raccolta di lettere scritte in gioventù da Lord Addington e indirizzate al suo unico vero amore segreto, la domestica Hedy. Nina, durante il suo seminario, conosce un ragazzo di nome Daniel molto interessato alla storia di Hedy. Il ragazzo le confida che Hedy era sua nonna. Nina e Daniel decidono, allora, di recarsi in visita da Lord Addington per saperne di più.</desc>
+    <credits>
+      <director>Karola Meeder</director>
+      <actor>Mira Bartuschek</actor>
+      <actor>Dominic Raacke</actor>
+      <actor>Michael Raphael</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Sentimentale</category>
     <icon src="https://www.raiplay.it/dl/img/2020/08/21/1598022847013_2048x1152.jpg" />
+    <country lang="it">Germania</country>
   </programme>
   <programme start="20261011130000 +0200" stop="20261011133000 +0200" channel="Rai2.it">
     <title lang="it">Tg2</title>
-    <date>2019</date>
+    <date>2024</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011133000 +0200" stop="20261011135800 +0200" channel="Rai2.it">
     <title lang="it">TG2 Motori</title>
-    <desc lang="it">Direttore Antonio Preziosi A cura di Maria Leitner.</desc>
-    <date>2019</date>
+    <desc lang="it">Direttore Antonio Preziosi A cura di Maria Leitner. Direttore Antonio Preziosi A cura di Maria Leitner.</desc>
     <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616313810740_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011135800 +0200" stop="20261011140000 +0200" channel="Rai2.it">
     <title lang="it">Meteo 2</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2025/11/20/1763645323036_RaiMeteo2048x1152.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011140000 +0200" stop="20261011145500 +0200" channel="Rai2.it">
     <title lang="it">Maserati - Il secolo del Tridente</title>
-    <desc lang="it">1^ Visione Rai - Un viaggio alle origini della casa automobilistica Maserati, fondata a Bologna nel 1914 come officina specializzata e che, nel 1926, ha prodotto la prima automobile con il proprio marchio, la Tipo 26.</desc>
-    <date>2019</date>
+    <desc lang="it">1^ Visione Rai - Un viaggio alle origini della casa automobilistica Maserati, fondata a Bologna nel 1914 come officina specializzata e che, nel 1926, ha prodotto la prima automobile con il proprio marchio, la Tipo 26. 1^ Visione Rai - Un viaggio alle origini della casa automobilistica Maserati, fondata a Bologna nel 1914 come officina specializzata e che, nel 1926, ha prodotto la prima automobile con il proprio marchio, la Tipo 26.</desc>
+    <date>2026</date>
+    <category lang="it">Uomini &amp; Società</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791541635811_2048x1152.jpg" />
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20261011145500 +0200" stop="20261011180500 +0200" channel="Rai2.it">
+  <programme start="20261011145500 +0200" stop="20261011161500 +0200" channel="Rai2.it">
     <title lang="it">Serie C</title>
     <sub-title lang="it">9a giornata: Casarano - Salernitana</sub-title>
-    <desc lang="it">Serie C - 9a giornata: Casarano - Salernitana.</desc>
-    <date>2019</date>
+    <desc lang="it">Serie C - 9a giornata: Casarano - Salernitana. Serie C - 9a giornata: Casarano - Salernitana.</desc>
+    <date>2024</date>
+    <category lang="it">Calcio</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/04/1791146908899_Nuovo%20progetto.jpg" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20261011161500 +0200" stop="20261011180500 +0200" channel="Rai2.it">
+    <title lang="it">La Domenica Sportiva</title>
+    <sub-title lang="it">Puntata del 11/10/2026</sub-title>
+    <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2026/08/21/1787316377807_domenica%20sportiva%202026%20-%202048x1152.jpg" />
   </programme>
   <programme start="20261011180500 +0200" stop="20261011185500 +0200" channel="Rai2.it">
     <title lang="it">TG2 Dossier</title>
     <sub-title lang="it">C'era una volta un burattino - 10/10/2026</sub-title>
-    <desc lang="it">A 200 anni dalla nascita di Collodi, il viaggio senza fine di Pinocchio tra letteratura, cinema e immaginario collettivo. L'inviata Cinzia Terlizzi porta i telespettatori nel mondo di uno degli autori italiani più conosciuti: Carlo Lorenzini, in arte Collodi, giornalista, scrittore e osservatore ironico della società del suo tempo. Il racconto della sua vita e della sua opera più celebre: Pinocchio, il burattino diventato un'icona universale della letteratura, del cinema e della cultura popolare, che è molto più di una favola. Un classico senza tempo, un patrimonio culturale italiano che il mondo continua a reinterpretare e che, attraverso il cinema, non smette di rinnovare la propria magia.</desc>
-    <date>2019</date>
+    <desc lang="it">A 200 anni dalla nascita di Collodi, il viaggio senza fine di Pinocchio tra letteratura, cinema e immaginario collettivo. L'inviata Cinzia Terlizzi porta i telespettatori nel mondo di uno degli autori italiani più conosciuti: Carlo Lorenzini, in arte Collodi, giornalista, scrittore e osservatore ironico della società del suo tempo. Il racconto della sua vita e della sua opera più celebre: Pinocchio, il burattino diventato un'icona universale della letteratura, del cinema e della cultura popolare, che è molto più di una favola. Un classico senza tempo, un patrimonio culturale italiano che il mondo continua a reinterpretare e che, attraverso il cinema, non smette di rinnovare la propria magia. A 200 anni dalla nascita di Collodi, il viaggio senza fine di Pinocchio tra letteratura, cinema e immaginario collettivo. L'inviata Cinzia Terlizzi porta i telespettatori nel mondo di uno degli autori italiani più conosciuti: Carlo Lorenzini, in arte Collodi, giornalista, scrittore e osservatore ironico della società del suo tempo. Il racconto della sua vita e della sua opera più celebre: Pinocchio, il burattino diventato un'icona universale della letteratura, del cinema e della cultura popolare, che è molto più di una favola. Un classico senza tempo, un patrimonio culturale italiano che il mondo continua a reinterpretare e che, attraverso il cinema, non smette di rinnovare la propria magia.</desc>
+    <date>2026</date>
     <icon src="https://www.raiplay.it/dl/img/2026/10/08/1791489599297_Thumb-EP.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011185500 +0200" stop="20261011190000 +0200" channel="Rai2.it">
     <title lang="it">TG2 LIS</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616314226970_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011190000 +0200" stop="20261011194500 +0200" channel="Rai2.it">
     <title lang="it">Blue Bloods</title>
@@ -125931,57 +126043,82 @@
   <programme start="20261011080000 +0200" stop="20261011101500 +0200" channel="Rai3.it">
     <title lang="it">Mi manda Rai Tre</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">La grazia parziale – cioè una riduzione della pena da scontare – che il presidente della Repubblica ha concesso a Guido Gianni, gioielliere condannato per aver ucciso due rapinatori nel 2008, riaccende il dibattito sulla legittima difesa. A seguire, il pane è un alimento che non manca mai sulle tavole italiane, ma si sa davvero quello che si compra? Non è sempre facile orientarsi fra diciture ed etichette, da artigianale a precotto, da fresco a congelato e comprendere qual è il prodotto migliore da scegliere. Coi Carabinieri dei Nas indagini per verificare la conservazione e le etichette regolari di alcuni prodotti da forno. In diretta anche il caso, esploso la scorsa estate, delle maglie dei Vigili del fuoco che si sciolgono in acqua: cosa è accaduto realmente? Tra gli ospiti di Federico Ruffo: Massimo Lugli, giornalista e scrittore; Francesco Borgonovo, vicedirettore La Verità; Antonio Di Pietro, ex magistrato; Fulvio Marino, panettiere; Daniele Paci, agronomo; Gaetano Marconato, panificatore Cna; Rodolfo Molettieri, panificatore Confesercenti.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/08/19/1755616587306_MI%20manda%20Raitre.jpg" />
+    <desc lang="it">La grazia parziale – cioè una riduzione della pena da scontare – che il presidente della Repubblica ha concesso a Guido Gianni, gioielliere condannato per aver ucciso due rapinatori nel 2008, riaccende il dibattito sulla legittima difesa. A seguire, il pane è un alimento che non manca mai sulle tavole italiane, ma si sa davvero quello che si compra? Non è sempre facile orientarsi fra diciture ed etichette, da artigianale a precotto, da fresco a congelato e comprendere qual è il prodotto migliore da scegliere. Coi Carabinieri dei Nas indagini per verificare la conservazione e le etichette regolari di alcuni prodotti da forno. In diretta anche il caso, esploso la scorsa estate, delle maglie dei Vigili del fuoco che si sciolgono in acqua: cosa è accaduto realmente? Tra gli ospiti di Federico Ruffo: Massimo Lugli, giornalista e scrittore; Francesco Borgonovo, vicedirettore La Verità; Antonio Di Pietro, ex magistrato; Fulvio Marino, panettiere; Daniele Paci, agronomo; Gaetano Marconato, panificatore Cna; Rodolfo Molettieri, panificatore Confesercenti. La grazia parziale – cioè una riduzione della pena da scontare – che il presidente della Repubblica ha concesso a Guido Gianni, gioielliere condannato per aver ucciso due rapinatori nel 2008, riaccende il dibattito sulla legittima difesa. A seguire, il pane è un alimento che non manca mai sulle tavole italiane, ma si sa davvero quello che si compra? Non è sempre facile orientarsi fra diciture ed etichette, da artigianale a precotto, da fresco a congelato e comprendere qual è il prodotto migliore da scegliere. Coi Carabinieri dei Nas indagini per verificare la conservazione e le etichette regolari di alcuni prodotti da forno. In diretta anche il caso, esploso la scorsa estate, delle maglie dei Vigili del fuoco che si sciolgono in acqua: cosa è accaduto realmente? Tra gli ospiti di Federico Ruffo: Massimo Lugli, giornalista e scrittore; Francesco Borgonovo, vicedirettore La Verità; Antonio Di Pietro, ex magistrato; Fulvio Marino, panettiere; Daniele Paci, agronomo; Gaetano Marconato, panificatore Cna; Rodolfo Molettieri, panificatore Confesercenti.</desc>
+    <credits>
+      <director>Fabio Calabrò</director>
+      <presenter>Federico Ruffo</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Talk Show</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735409646_1791735385634.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011101500 +0200" stop="20261011110500 +0200" channel="Rai3.it">
     <title lang="it">O anche no</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste.</desc>
-    <date>2019</date>
+    <desc lang="it">Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste. Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste.</desc>
+    <credits>
+      <director>Gabriele Mammarella</director>
+      <presenter>Paola Severini Melograni</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791558654537_7495.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011110500 +0200" stop="20261011113000 +0200" channel="Rai3.it">
     <title lang="it">TGR Estovest</title>
-    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Ines Maggiolini. A cura della TGR Friuli-Venezia Giulia e Puglia.</desc>
-    <date>2019</date>
+    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Ines Maggiolini. A cura della TGR Friuli-Venezia Giulia e Puglia. Direttore Roberto Pacchetti. Vicedirettrice Ines Maggiolini. A cura della TGR Friuli-Venezia Giulia e Puglia.</desc>
+    <date>2026</date>
     <icon src="https://www.raiplay.it/dl/img/2025/10/10/1760118059999_TGREstOvest2048x1152.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011113000 +0200" stop="20261011120000 +0200" channel="Rai3.it">
     <title lang="it">TGR Mediterraneo</title>
-    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettore Roberto Gueli. A cura della TGR Sicilia.</desc>
-    <date>2019</date>
+    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettore Roberto Gueli. A cura della TGR Sicilia. Direttore Roberto Pacchetti. Vicedirettore Roberto Gueli. A cura della TGR Sicilia.</desc>
+    <date>2026</date>
     <icon src="https://www.raiplay.it/dl/img/2025/09/15/1757942929150_TGRMediterraneo2048x1152.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011120000 +0200" stop="20261011121700 +0200" channel="Rai3.it">
     <title lang="it">Tg3</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/09/24/1790256622733_TG3_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011121700 +0200" stop="20261011122500 +0200" channel="Rai3.it">
     <title lang="it">Tg3 Fuorilinea</title>
-    <desc lang="it">A cura di Giovanni Battista Tomassini.</desc>
-    <date>2019</date>
+    <desc lang="it">A cura di Giovanni Battista Tomassini. A cura di Giovanni Battista Tomassini.</desc>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/08/1791475669006_TG3Fuorilinea_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011122500 +0200" stop="20261011125500 +0200" channel="Rai3.it">
     <title lang="it">TGR Alta Quota</title>
-    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Roberta Serdoz. A cura della TGR Lazio, Piemonte, Trentino-Alto Adige e Valle d'Aosta.</desc>
-    <date>2019</date>
+    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Roberta Serdoz. A cura della TGR Lazio, Piemonte, Trentino-Alto Adige e Valle d'Aosta. Direttore Roberto Pacchetti. Vicedirettrice Roberta Serdoz. A cura della TGR Lazio, Piemonte, Trentino-Alto Adige e Valle d'Aosta.</desc>
+    <date>2026</date>
     <icon src="https://www.raiplay.it/dl/img/2025/10/15/1760538349666_TGRAltaQuota2048x1152.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011125500 +0200" stop="20261011130000 +0200" channel="Rai3.it">
     <title lang="it">TG3 LIS</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/09/30/1790783451323_TG3LIS_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011130000 +0200" stop="20261011140000 +0200" channel="Rai3.it">
     <title lang="it">Il cacciatore di sogni</title>
     <sub-title lang="it">Luna Blu - 11/10/2026</sub-title>
-    <desc lang="it">Stefano Buttafuoco racconta la realtà di "Luna Blu", una struttura che promuove l'inclusione delle persone con disabilità attraverso accoglienza, formazione professionale, lavoro e autonomia. Ospite in studio Ainett Stephens, che condivide la propria esperienza di madre di un figlio nello spettro autistico e il suo ruolo di caregiver.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2026/10/02/1790973986495_cacciatore%20dei%20sogni%202048x1152.jpg" />
+    <desc lang="it">Stefano Buttafuoco racconta la realtà di "Luna Blu", una struttura che promuove l'inclusione delle persone con disabilità attraverso accoglienza, formazione professionale, lavoro e autonomia. Ospite in studio Ainett Stephens, che condivide la propria esperienza di madre di un figlio nello spettro autistico e il suo ruolo di caregiver. Stefano Buttafuoco racconta la realtà di \"Luna Blu\.</desc>
+    <credits>
+      <director>Francesco Ambrosino</director>
+      <director>Fabrizio Cofrancesco</director>
+      <presenter>Stefano Buttafuoco</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735370534_1791735289479.png" />
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S5</episode-num>
   </programme>
   <programme start="20261011140000 +0200" stop="20261011141000 +0200" channel="Rai3.it">
@@ -125996,27 +126133,41 @@
   </programme>
   <programme start="20261011141500 +0200" stop="20261011143000 +0200" channel="Rai3.it">
     <title lang="it">Tg3</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/09/24/1790256622733_TG3_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011143000 +0200" stop="20261011164500 +0200" channel="Rai3.it">
     <title lang="it">In mezz'ora</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/09/28/1695892524888_2048x1152.jpg" />
+    <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo. Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo.</desc>
+    <credits>
+      <director>Alessandro Capitani</director>
+      <presenter>Monica Maggioni</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735389159_1791735278548.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011164500 +0200" stop="20261011190000 +0200" channel="Rai3.it">
     <title lang="it">Kilimangiaro</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Camila Raznovich ci porta nei luoghi più belli e spesso sconosciuti del pianeta attraverso tanti documentari e gli esperti in studio, per un giro del mondo tra avventure, storia e meraviglie della natura.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/10/20/1760961247792_2048x1152.jpg" />
+    <desc lang="it">Camila Raznovich ci porta nei luoghi più belli e spesso sconosciuti del pianeta attraverso tanti documentari e gli esperti in studio, per un giro del mondo tra avventure, storia e meraviglie della natura. Camila Raznovich ci porta nei luoghi più belli e spesso sconosciuti del pianeta attraverso tanti documentari e gli esperti in studio, per un giro del mondo tra avventure, storia e meraviglie della natura.</desc>
+    <credits>
+      <director>Laura Ferraresi</director>
+      <presenter>Camila Raznovich</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Viaggi &amp; Avventure</category>
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791735395701_1791735257572.png" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011190000 +0200" stop="20261011193000 +0200" channel="Rai3.it">
     <title lang="it">Tg3</title>
-    <date>2019</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2026/09/24/1790256622733_TG3_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011193000 +0200" stop="20261011195100 +0200" channel="Rai3.it">
     <title lang="it">Tg Regione</title>
@@ -126064,9 +126215,15 @@
   <programme start="20261012003500 +0200" stop="20261012024000 +0200" channel="Rai3.it">
     <title lang="it">In mezz'ora</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo.</desc>
-    <date>2019</date>
+    <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo. Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo.</desc>
+    <credits>
+      <director>Alessandro Capitani</director>
+      <presenter>Monica Maggioni</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2023/09/28/1695892524888_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261012024000 +0200" stop="20261012024500 +0200" channel="Rai3.it">
     <title lang="it">Fuori orario. Cose (mai) viste</title>
@@ -126323,9 +126480,15 @@
   <programme start="20261013011500 +0200" stop="20261013020000 +0200" channel="Rai3.it">
     <title lang="it">O anche no</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste.</desc>
-    <date>2019</date>
+    <desc lang="it">Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste. Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste.</desc>
+    <credits>
+      <director>Gabriele Mammarella</director>
+      <presenter>Paola Severini Melograni</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2023/09/05/1693905098556_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261013020000 +0200" stop="20261013023000 +0200" channel="Rai3.it">
     <title lang="it">Sorgente di vita</title>
@@ -126794,28 +126957,31 @@
   </programme>
   <programme start="20261011100000 +0200" stop="20261011122000 +0200" channel="RaiSport.it">
     <title lang="it">Vela</title>
-    <desc lang="it">La Barcolana.</desc>
-    <date>2019</date>
+    <desc lang="it">La Barcolana. La Barcolana.</desc>
+    <date>2026</date>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791541504226_Barcolana%202025.jpg" />
   </programme>
   <programme start="20261011122000 +0200" stop="20261011160000 +0200" channel="RaiSport.it">
     <title lang="it">Baseball</title>
-    <desc lang="it">WBSC Premier 12 - Qualificazioni: Italia - Germania.</desc>
-    <date>2019</date>
+    <desc lang="it">WBSC Premier 12 - Qualificazioni: Italia - Germania. WBSC Premier 12 - Qualificazioni: Italia - Germania.</desc>
+    <date>2026</date>
+    <category lang="it">Altri Sport</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791542089650_Baseball%20Alberto%20Mineo.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261011160000 +0200" stop="20261011172000 +0200" channel="RaiSport.it">
     <title lang="it">Judo</title>
     <sub-title lang="it">Finali - 8a giornata</sub-title>
-    <desc lang="it">Mondiali - 8a giornata (finali).</desc>
-    <date>2019</date>
+    <desc lang="it">Mondiali - 8a giornata (finali). Mondiali - 8a giornata (finali).</desc>
+    <date>2024</date>
+    <category lang="it">Arti Marziali</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791539224976_Judo%20Baku%206a%20giornata.jpg" />
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
   <programme start="20261011172000 +0200" stop="20261011183000 +0200" channel="RaiSport.it">
     <title lang="it">Ippica</title>
-    <desc lang="it">Derby Italiano del Trotto.</desc>
-    <date>2019</date>
+    <desc lang="it">Derby Italiano del Trotto. Derby Italiano del Trotto.</desc>
+    <date>2024</date>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791543290950_Derby%20Trotto%20Ippica.jpg" />
   </programme>
   <programme start="20261011183000 +0200" stop="20261011203000 +0200" channel="RaiSport.it">
@@ -126836,8 +127002,9 @@
   <programme start="20261011224500 +0200" stop="20261012023000 +0200" channel="RaiSport.it">
     <title lang="it">Judo</title>
     <sub-title lang="it">Finali - 8a giornata</sub-title>
-    <desc lang="it">Mondiali - 8a giornata (finali).</desc>
-    <date>2019</date>
+    <desc lang="it">Mondiali - 8a giornata (finali). Mondiali - 8a giornata (finali).</desc>
+    <date>2024</date>
+    <category lang="it">Arti Marziali</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791542552450_Judo%20Baku.jpg" />
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
@@ -126854,8 +127021,9 @@
   <programme start="20261012060000 +0200" stop="20261012070000 +0200" channel="RaiSport.it">
     <title lang="it">Judo</title>
     <sub-title lang="it">Finali - 8a giornata</sub-title>
-    <desc lang="it">Mondiali - 8a giornata (finali).</desc>
-    <date>2019</date>
+    <desc lang="it">Mondiali - 8a giornata (finali). Mondiali - 8a giornata (finali).</desc>
+    <date>2024</date>
+    <category lang="it">Arti Marziali</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791542552450_Judo%20Baku.jpg" />
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
@@ -126870,9 +127038,15 @@
   <programme start="20261012073000 +0200" stop="20261012091500 +0200" channel="RaiSport.it">
     <title lang="it">La Domenica Sportiva</title>
     <sub-title lang="it">Puntata del 11/10/2026</sub-title>
-    <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
-    <date>2019</date>
+    <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali. Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste e opinioni. In studio e in collegamento, i protagonisti raccontano i loro successi sportivi e personali.</desc>
+    <credits>
+      <presenter>Simona Rolandi</presenter>
+      <presenter>Alberto Rimedio</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Sport</category>
     <icon src="https://www.raiplay.it/dl/img/2026/08/21/1787316377807_domenica%20sportiva%202026%20-%202048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261012091500 +0200" stop="20261012094500 +0200" channel="RaiSport.it">
     <title lang="it">La Domenica Sportiva</title>
@@ -126888,9 +127062,11 @@
   </programme>
   <programme start="20261012100000 +0200" stop="20261012141500 +0200" channel="RaiSport.it">
     <title lang="it">Baseball</title>
-    <desc lang="it">WBSC Premier 12 - Qualificazioni: Italia - Germania.</desc>
-    <date>2019</date>
+    <desc lang="it">WBSC Premier 12 - Qualificazioni: Italia - Germania. WBSC Premier 12 - Qualificazioni: Italia - Germania.</desc>
+    <date>2026</date>
+    <category lang="it">Altri Sport</category>
     <icon src="https://www.raiplay.it/dl/img/2026/10/09/1791542089650_Baseball%20Alberto%20Mineo.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20261012141500 +0200" stop="20261012161500 +0200" channel="RaiSport.it">
     <title lang="it">Basket: Serie A2 Old Wild West</title>
@@ -126928,9 +127104,9 @@
   </programme>
   <programme start="20261012203000 +0200" stop="20261012223000 +0200" channel="RaiSport.it">
     <title lang="it">World Skate Games</title>
-    <desc lang="it">World Skate Games. Hockey Pista Asuncion: Spagna-Italia.</desc>
+    <desc lang="it">Hockey su pista - Qualificazioni: Spagna-Italia.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2024/09/04/1725464486187_World%20Skate%20Games.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2026/10/11/1791721238164_Andrea%20Malagoli%201.jpg" />
   </programme>
   <programme start="20261012223000 +0200" stop="20261012230000 +0200" channel="RaiSport.it">
     <title lang="it">Arrampicata Sportiva</title>
